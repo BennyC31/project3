@@ -1,0 +1,41 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.legend {
+  padding: 10px;
+  font-family: serif;
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 10px;
+  color: #555;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.2);
+}
+
+.legend .under_10 {
+  color: lime;
+}
+.legend .under_30 {
+  color: lightgreen;
+}
+.legend .under_50 {
+  color: gold;
+}
+.legend .under_70 {
+  color:tan;
+}
+.legend .under_90 {
+  color: orange;
+}
+.legend .over_90 {
+  color: red;
+}
