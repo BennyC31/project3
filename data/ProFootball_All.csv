@@ -1,0 +1,2318 @@
+year,team_id,location,name,conference,division,w,l,t,pf,pa,place,leagabrv
+1920,NFLTeam57,Akron,Pros,None,None,8,0,3,151,7,1,NFL
+1920,NFLTeam9,Decatur,Staleys,None,None,10,1,2,164,21,2,NFL
+1920,NFLTeam47,Buffalo,All-Americans,None,None,9,1,1,258,32,3,NFL
+1920,NFLTeam5,Chicago(Racine),Cardinals,None,None,6,2,1,101,29,4,NFL
+1920,NFLTeam63,Rock Island,Independents,None,None,6,2,2,201,49,5,NFL
+1920,NFLTeam45,Dayton,Triangles,None,None,5,2,2,150,54,6,NFL
+1920,NFLTeam64,Rochester,Jeffersons,None,None,6,3,2,156,57,7,NFL
+1920,NFLTeam60,Canton,Bulldogs,None,None,7,4,2,208,57,8,NFL
+1920,NFLTeam73,Detroit,Heralds,None,None,2,3,3,53,82,9,NFL
+1920,NFLTeam70,Cleveland,Tigers,None,None,2,4,2,28,46,10,NFL
+1920,NFLTeam77,Chicago,Tigers,None,None,2,5,1,49,63,11,NFL
+1920,NFLTeam61,Hammond,Pros,None,None,2,5,0,41,154,12,NFL
+1920,NFLTeam59,Columbus,Panhandles,None,None,2,6,2,41,121,13,NFL
+1920,NFLTeam74,Muncie,Flyers,None,None,0,1,0,0,45,14,NFL
+1921,NFLTeam9,Chicago,Staleys,None,None,9,1,1,128,53,1,NFL
+1921,NFLTeam47,Buffalo,All-Americans,None,None,9,1,2,211,29,2,NFL
+1921,NFLTeam57,Akron,Pros,None,None,8,3,1,148,31,3,NFL
+1921,NFLTeam60,Canton,Bulldogs,None,None,5,2,3,106,55,4,NFL
+1921,NFLTeam63,Rock Island,Independents,None,None,4,2,1,65,30,5,NFL
+1921,NFLTeam69,Evansville,Crimson Giants,None,None,3,2,0,89,46,6,NFL
+1921,NFLTeam11,Green Bay,Packers,None,None,3,2,1,70,55,7,NFL
+1921,NFLTeam45,Dayton,Triangles,None,None,4,4,1,96,67,8,NFL
+1921,NFLTeam5,Chicago,Cardinals,None,None,3,3,2,54,53,9,NFL
+1921,NFLTeam64,Rochester,Jeffersons,None,None,2,3,0,85,76,10,NFL
+1921,NFLTeam70,Cleveland,Indians,None,None,3,5,0,95,58,11,NFL
+1921,NFLTeam71,Washington,Senators,None,None,1,2,0,21,43,12,NFL
+1921,NFLTeam72,Cincinnati,Celts,None,None,1,3,0,14,117,13,NFL
+1921,NFLTeam61,Hammond,Pros,None,None,1,3,1,17,45,14,NFL
+1921,NFLTeam44,Minneapolis,Marines,None,None,1,3,0,37,41,15,NFL
+1921,NFLTeam73,Detroit,Tigers,None,None,1,5,1,19,109,16,NFL
+1921,NFLTeam59,Columbus,Panhandles,None,None,1,8,0,47,222,17,NFL
+1921,NFLTeam76,Tonawanda,Kardex,None,None,0,1,0,0,45,18,NFL
+1921,NFLTeam74,Muncie,Flyers,None,None,0,2,0,0,28,19,NFL
+1921,NFLTeam62,Louisville,Breckenridges,None,None,0,2,0,0,27,20,NFL
+1921,NFLTeam75,New York,Giants - 1921,None,None,0,2,0,0,72,21,NFL
+1922,NFLTeam60,Canton,Bulldogs,None,None,10,0,2,184,15,1,NFL
+1922,NFLTeam9,Chicago,Bears,None,None,9,3,0,123,44,2,NFL
+1922,NFLTeam5,Chicago,Cardinals,None,None,8,3,0,96,50,3,NFL
+1922,NFLTeam66,Toledo,Maroons,None,None,5,2,2,94,59,4,NFL
+1922,NFLTeam63,Rock Island,Independents,None,None,4,2,1,154,27,5,NFL
+1922,NFLTeam58,Racine,Legion,None,None,6,4,1,122,56,6,NFL
+1922,NFLTeam45,Dayton,Triangles,None,None,4,3,1,80,62,7,NFL
+1922,NFLTeam11,Green Bay,Packers,None,None,4,3,3,70,54,8,NFL
+1922,NFLTeam47,Buffalo,All-Americans,None,None,5,4,1,87,41,9,NFL
+1922,NFLTeam57,Akron,Pros,None,None,3,5,2,146,95,10,NFL
+1922,NFLTeam56,Milwaukee,Badgers,None,None,2,4,3,51,71,11,NFL
+1922,NFLTeam68,Oorang,Indians,None,None,3,6,0,69,190,12,NFL
+1922,NFLTeam44,Minneapolis,Marines,None,None,1,3,0,19,40,13,NFL
+1922,NFLTeam62,Louisville,Breckenridges,None,None,1,3,0,13,140,14,NFL
+1922,NFLTeam69,Evansville,Crimson Giants,None,None,0,3,0,6,88,15,NFL
+1922,NFLTeam64,Rochester,Jeffersons,None,None,0,4,1,13,76,16,NFL
+1922,NFLTeam61,Hammond,Pros,None,None,0,5,1,0,69,17,NFL
+1922,NFLTeam59,Columbus,Panhandles,None,None,0,8,0,24,174,18,NFL
+1923,NFLTeam60,Canton,Bulldogs,None,None,11,0,1,246,19,1,NFL
+1923,NFLTeam9,Chicago,Bears,None,None,9,2,1,123,35,2,NFL
+1923,NFLTeam11,Green Bay,Packers,None,None,7,2,1,85,34,3,NFL
+1923,NFLTeam56,Milwaukee,Badgers,None,None,7,2,3,100,49,4,NFL
+1923,NFLTeam48,Cleveland,Indians,None,None,3,1,3,52,49,4,NFL
+1923,NFLTeam5,Chicago,Cardinals,None,None,8,4,0,161,56,6,NFL
+1923,NFLTeam50,Duluth,Kelleys,None,None,4,3,0,35,33,7,NFL
+1923,NFLTeam47,Buffalo,All-Americans,None,None,5,4,3,94,43,8,NFL
+1923,NFLTeam59,Columbus,Tigers,None,None,5,4,1,119,35,9,NFL
+1923,NFLTeam58,Racine,Legion,None,None,4,4,2,86,76,10,NFL
+1923,NFLTeam66,Toledo,Maroons,None,None,3,3,2,35,66,11,NFL
+1923,NFLTeam63,Rock Island,Independents,None,None,2,3,3,84,62,12,NFL
+1923,NFLTeam44,Minneapolis,Marines,None,None,2,5,2,48,81,13,NFL
+1923,NFLTeam67,St. Louis,All-Stars,None,None,1,4,2,14,39,14,NFL
+1923,NFLTeam61,Hammond,Pros,None,None,1,5,1,14,59,15,NFL
+1923,NFLTeam45,Dayton,Triangles,None,None,1,6,1,16,95,16,NFL
+1923,NFLTeam57,Akron,Pros,None,None,1,6,0,25,74,17,NFL
+1923,NFLTeam68,Oorang,Indians,None,None,1,10,0,50,257,18,NFL
+1923,NFLTeam62,Louisville,Breckenridges,None,None,0,3,0,0,90,19,NFL
+1923,NFLTeam64,Rochester,Jeffersons,None,None,0,4,0,6,141,20,NFL
+1924,NFLTeam48,Cleveland,Bulldogs,None,None,7,1,1,229,60,1,NFL
+1924,NFLTeam9,Chicago,Bears,None,None,6,1,4,136,55,2,NFL
+1924,NFLTeam40,Frankford,Yellow Jackets,None,None,11,2,1,326,109,3,NFL
+1924,NFLTeam50,Duluth,Kelleys,None,None,5,1,0,56,16,4,NFL
+1924,NFLTeam63,Rock Island,Independents,None,None,5,2,2,88,38,5,NFL
+1924,NFLTeam11,Green Bay,Packers,None,None,7,4,0,108,38,6,NFL
+1924,NFLTeam58,Racine,Legion,None,None,4,3,3,69,47,7,NFL
+1924,NFLTeam5,Chicago,Cardinals,None,None,5,4,1,90,67,8,NFL
+1924,NFLTeam47,Buffalo,Bison,None,None,6,5,0,120,140,9,NFL
+1924,NFLTeam59,Columbus,Tigers,None,None,4,4,0,91,68,10,NFL
+1924,NFLTeam61,Hammond,Pros,None,None,2,2,1,18,45,11,NFL
+1924,NFLTeam56,Milwaukee,Badgers,None,None,5,8,0,142,188,12,NFL
+1924,NFLTeam57,Akron,Pros,None,None,2,6,0,59,132,13,NFL
+1924,NFLTeam45,Dayton,Triangles,None,None,2,6,0,45,148,14,NFL
+1924,NFLTeam51,Kansas City,Blues,None,None,2,7,0,46,124,15,NFL
+1924,NFLTeam65,Kenosha,Maroons,None,None,0,4,1,12,117,16,NFL
+1924,NFLTeam44,Minneapolis,Marines,None,None,0,6,0,14,108,17,NFL
+1924,NFLTeam64,Rochester,Jeffersons,None,None,0,7,0,7,156,18,NFL
+1925,NFLTeam5,Chicago,Cardinals,None,None,11,2,1,230,65,1,NFL
+1925,NFLTeam46,Pottsville,Maroons,None,None,10,2,0,270,45,2,NFL
+1925,NFLTeam53,Detroit,Panthers,None,None,8,2,2,129,39,3,NFL
+1925,NFLTeam3,New York,Giants,None,None,8,4,0,122,67,4,NFL
+1925,NFLTeam57,Akron,Indians,None,None,4,2,2,65,51,5,NFL
+1925,NFLTeam40,Frankford,Yellow Jackets,None,None,13,7,0,190,169,6,NFL
+1925,NFLTeam9,Chicago,Bears,None,None,9,5,3,158,96,7,NFL
+1925,NFLTeam63,Rock Island,Independents,None,None,5,3,3,99,58,8,NFL
+1925,NFLTeam11,Green Bay,Packers,None,None,8,5,0,151,110,9,NFL
+1925,NFLTeam42,Providence,Steam Roller,None,None,6,5,1,111,101,10,NFL
+1925,NFLTeam60,Canton,Bulldogs,None,None,4,4,0,50,73,11,NFL
+1925,NFLTeam48,Cleveland,Bulldogs,None,None,5,8,1,75,135,12,NFL
+1925,NFLTeam51,Kansas City,Cowboys,None,None,2,5,1,65,97,13,NFL
+1925,NFLTeam61,Hammond,Pros,None,None,1,4,0,23,87,14,NFL
+1925,NFLTeam47,Buffalo,Bison,None,None,1,6,2,33,113,15,NFL
+1925,NFLTeam50,Duluth,Kelleys,None,None,0,3,0,6,25,16,NFL
+1925,NFLTeam64,Rochester,Jeffersons,None,None,0,6,1,26,111,17,NFL
+1925,NFLTeam56,Milwaukee,Badgers,None,None,0,6,0,7,191,18,NFL
+1925,NFLTeam45,Dayton,Triangles,None,None,0,7,1,3,84,19,NFL
+1925,NFLTeam59,Columbus,Tigers,None,None,0,9,0,28,124,20,NFL
+1926,NFLTeam40,Frankford,Yellow Jackets,None,None,14,1,2,236,49,1,NFL
+1926,NFLTeam9,Chicago,Bears,None,None,12,1,3,216,63,2,NFL
+1926,NFLTeam46,Pottsville,Maroons,None,None,10,2,2,155,29,3,NFL
+1926,NFLTeam51,Kansas City,Cowboys,None,None,8,3,0,76,53,4,NFL
+1926,NFLTeam11,Green Bay,Packers,None,None,7,3,3,151,61,5,NFL
+1926,NFLTeam52,Los Angeles,Buccaneers,None,None,6,3,1,67,57,6,NFL
+1926,NFLTeam3,New York,Giants,None,None,8,4,1,147,51,7,NFL
+1926,NFLTeam50,Duluth,Eskimos,None,None,6,5,3,113,81,8,NFL
+1926,NFLTeam47,Buffalo,Rangers,None,None,4,4,2,53,62,9,NFL
+1926,NFLTeam5,Chicago,Cardinals,None,None,5,6,1,74,98,10,NFL
+1926,NFLTeam42,Providence,Steam Roller,None,None,5,7,1,89,103,11,NFL
+1926,NFLTeam53,Detroit,Panthers,None,None,4,6,2,107,60,12,NFL
+1926,NFLTeam54,Hartford,Blues,None,None,3,7,0,57,99,13,NFL
+1926,NFLTeam55,Brooklyn,Lions,None,None,3,8,0,60,150,14,NFL
+1926,NFLTeam56,Milwaukee,Badgers,None,None,2,7,0,41,66,15,NFL
+1926,NFLTeam57,Akron,Indians,None,None,1,4,3,23,89,16,NFL
+1926,NFLTeam45,Dayton,Triangles,None,None,1,4,1,15,82,17,NFL
+1926,NFLTeam58,Racine,Tornadoes,None,None,1,4,0,8,92,18,NFL
+1926,NFLTeam59,Columbus,Tigers,None,None,1,6,0,26,93,19,NFL
+1926,NFLTeam60,Canton,Bulldogs,None,None,1,9,3,46,161,20,NFL
+1926,NFLTeam61,Hammond,Pros,None,None,0,4,0,3,56,21,NFL
+1926,NFLTeam62,Louisville,Colonels,None,None,0,4,0,0,108,22,NFL
+1927,NFLTeam3,New York,Giants,None,None,11,1,1,197,20,1,NFL
+1927,NFLTeam11,Green Bay,Packers,None,None,7,2,1,113,43,2,NFL
+1927,NFLTeam9,Chicago,Bears,None,None,9,3,2,149,98,3,NFL
+1927,NFLTeam48,Cleveland,Bulldogs,None,None,8,4,1,209,107,4,NFL
+1927,NFLTeam42,Providence,Steam Roller,None,None,8,5,1,105,88,5,NFL
+1927,NFLTeam49,New York,Yankees,None,None,7,8,1,142,174,6,NFL
+1927,NFLTeam40,Frankford,Yellow Jackets,None,None,6,9,3,152,166,7,NFL
+1927,NFLTeam46,Pottsville,Maroons,None,None,5,8,0,80,163,8,NFL
+1927,NFLTeam5,Chicago,Cardinals,None,None,3,7,1,69,134,9,NFL
+1927,NFLTeam45,Dayton,Triangles,None,None,1,6,1,15,57,10,NFL
+1927,NFLTeam50,Duluth,Eskimos,None,None,1,8,0,68,134,11,NFL
+1927,NFLTeam47,Buffalo,Bisons,None,None,0,5,0,8,123,12,NFL
+1928,NFLTeam42,Providence,Steam Roller,None,None,8,1,2,128,42,1,NFL
+1928,NFLTeam40,Frankford,Yellow Jackets,None,None,11,3,2,175,84,2,NFL
+1928,NFLTeam48,Detroit,Wolverines,None,None,7,2,1,189,76,3,NFL
+1928,NFLTeam11,Green Bay,Packers,None,None,6,4,3,120,92,4,NFL
+1928,NFLTeam9,Chicago,Bears,None,None,7,5,1,182,85,5,NFL
+1928,NFLTeam3,New York,Giants,None,None,4,7,2,79,136,6,NFL
+1928,NFLTeam49,New York,Yankees,None,None,4,8,1,103,179,7,NFL
+1928,NFLTeam46,Pottsville,Maroons,None,None,2,8,0,74,134,8,NFL
+1928,NFLTeam5,Chicago,Cardinals,None,None,1,5,0,7,107,9,NFL
+1928,NFLTeam45,Dayton,Triangles,None,None,0,7,0,9,131,10,NFL
+1929,NFLTeam11,Green Bay,Packers,None,None,12,0,1,198,22,1,NFL
+1929,NFLTeam3,New York,Giants,None,None,13,1,1,312,86,2,NFL
+1929,NFLTeam40,Frankford,Yellow Jackets,None,None,10,4,5,139,128,3,NFL
+1929,NFLTeam46,Boston,Bulldogs,None,None,4,4,0,98,73,4,NFL
+1929,NFLTeam5,Chicago,Cardinals,None,None,6,6,1,154,83,5,NFL
+1929,NFLTeam39,Staten Island,Stapletons,None,None,3,4,3,89,65,6,NFL
+1929,NFLTeam42,Providence,Steam Roller,None,None,4,6,2,107,117,7,NFL
+1929,NFLTeam43,Orange,Tornadoes,None,None,3,5,4,35,90,8,NFL
+1929,NFLTeam9,Chicago,Bears,None,None,4,9,2,119,227,9,NFL
+1929,NFLTeam47,Buffalo,Bisons,None,None,1,7,1,48,142,10,NFL
+1929,NFLTeam44,Minneapolis,Red Jackets,None,None,1,9,0,48,185,11,NFL
+1929,NFLTeam45,Dayton,Triangles,None,None,0,6,0,7,136,12,NFL
+1930,NFLTeam11,Green Bay,Packers,None,None,10,3,1,234,111,1,NFL
+1930,NFLTeam3,New York,Giants,None,None,13,4,0,308,98,2,NFL
+1930,NFLTeam9,Chicago,Bears,None,None,9,4,1,169,71,3,NFL
+1930,NFLTeam35,Brooklyn,Dodgers,None,None,7,4,1,154,59,4,NFL
+1930,NFLTeam42,Providence,Steam Roller,None,None,6,4,1,90,125,5,NFL
+1930,NFLTeam39,Staten Island,Stapletons,None,None,5,5,2,95,112,6,NFL
+1930,NFLTeam5,Chicago,Cardinals,None,None,5,6,2,128,132,7,NFL
+1930,NFLTeam10,Portsmouth,Spartans,None,None,5,6,3,176,161,8,NFL
+1930,NFLTeam40,Frankford,Yellow Jackets,None,None,4,13,1,113,321,9,NFL
+1930,NFLTeam44,Minneapolis,Red Jackets,None,None,1,7,1,27,165,10,NFL
+1930,NFLTeam43,Newark,Tornadoes,None,None,1,10,1,51,190,11,NFL
+1931,NFLTeam11,Green Bay,Packers,None,None,12,2,0,291,87,1,NFL
+1931,NFLTeam10,Portsmouth,Spartans,None,None,11,3,0,175,77,2,NFL
+1931,NFLTeam9,Chicago,Bears,None,None,8,5,0,145,92,3,NFL
+1931,NFLTeam5,Chicago,Cardinals,None,None,5,4,0,120,128,4,NFL
+1931,NFLTeam3,New York,Giants,None,None,7,6,1,154,100,5,NFL
+1931,NFLTeam42,Providence,Steam Roller,None,None,4,4,3,78,127,6,NFL
+1931,NFLTeam39,Staten Island,Stapletons,None,None,4,6,1,79,118,7,NFL
+1931,NFLTeam41,Cleveland,Indians,None,None,2,8,0,45,137,8,NFL
+1931,NFLTeam35,Brooklyn,Dodgers,None,None,2,12,0,64,199,9,NFL
+1931,NFLTeam40,Frankford,Yellow Jackets,None,None,1,6,1,13,99,10,NFL
+1932,NFLTeam9,Chicago,Bears,None,None,7,1,6,160,44,1,NFL
+1932,NFLTeam11,Green Bay,Packers,None,None,10,3,1,152,63,2,NFL
+1932,NFLTeam10,Portsmouth,Spartans,None,None,6,2,4,116,71,3,NFL
+1932,NFLTeam4,Boston,Braves,None,None,4,4,2,55,79,4,NFL
+1932,NFLTeam3,New York,Giants,None,None,4,6,2,93,113,5,NFL
+1932,NFLTeam35,Brooklyn,Dodgers,None,None,3,9,0,63,131,6,NFL
+1932,NFLTeam5,Chicago,Cardinals,None,None,2,6,2,72,114,7,NFL
+1932,NFLTeam39,Staten Island,Stapletons,None,None,2,7,3,77,173,8,NFL
+1933,NFLTeam3,New York,Giants,Eastern Division,None,11,3,0,244,101,1,NFL
+1933,NFLTeam35,Brooklyn,Dodgers,Eastern Division,None,5,4,1,93,54,2,NFL
+1933,NFLTeam4,Boston,Redskins,Eastern Division,None,5,5,2,103,97,3,NFL
+1933,NFLTeam1,Philadelphia,Eagles,Eastern Division,None,3,5,1,77,158,4,NFL
+1933,NFLTeam28,Pittsburgh,Pirates,Eastern Division,None,3,6,2,67,208,5,NFL
+1933,NFLTeam9,Chicago,Bears,Western Division,None,10,2,1,133,82,1,NFL
+1933,NFLTeam10,Portsmouth,Spartans,Western Division,None,6,5,0,128,87,2,NFL
+1933,NFLTeam11,Green Bay,Packers,Western Division,None,5,7,1,170,107,3,NFL
+1933,NFLTeam37,Cincinnati,Reds,Western Division,None,3,6,1,38,110,4,NFL
+1933,NFLTeam5,Chicago,Cardinals,Western Division,None,1,9,1,52,101,5,NFL
+1934,NFLTeam3,New York,Giants,Eastern Division,None,8,5,0,147,107,1,NFL
+1934,NFLTeam4,Boston,Redskins,Eastern Division,None,6,6,0,107,94,2,NFL
+1934,NFLTeam35,Brooklyn,Dodgers,Eastern Division,None,4,7,0,61,153,3,NFL
+1934,NFLTeam1,Philadelphia,Eagles,Eastern Division,None,4,7,0,127,85,4,NFL
+1934,NFLTeam28,Pittsburgh,Pirates,Eastern Division,None,2,10,0,51,206,5,NFL
+1934,NFLTeam9,Chicago,Bears,Western Division,None,13,0,0,286,86,1,NFL
+1934,NFLTeam10,Detroit,Lions,Western Division,None,10,3,0,238,59,2,NFL
+1934,NFLTeam11,Green Bay,Packers,Western Division,None,7,6,0,156,112,3,NFL
+1934,NFLTeam5,Chicago,Cardinals,Western Division,None,5,6,0,80,84,4,NFL
+1934,NFLTeam38,St. Louis,Gunners,Western Division,None,1,2,0,27,61,5,NFL
+1934,NFLTeam37,Cincinnati,Reds,Western Division,None,0,8,0,10,243,6,NFL
+1935,NFLTeam3,New York,Giants,Eastern Division,None,9,3,0,180,96,1,NFL
+1935,NFLTeam35,Brooklyn,Dodgers,Eastern Division,None,5,6,1,90,141,2,NFL
+1935,NFLTeam28,Pittsburgh,Pirates,Eastern Division,None,4,8,0,100,209,3,NFL
+1935,NFLTeam4,Boston,Redskins,Eastern Division,None,2,8,1,65,123,4,NFL
+1935,NFLTeam1,Philadelphia,Eagles,Eastern Division,None,2,9,0,60,179,5,NFL
+1935,NFLTeam10,Detroit,Lions,Western Division,None,7,3,2,191,111,1,NFL
+1935,NFLTeam11,Green Bay,Packers,Western Division,None,8,4,0,181,96,2,NFL
+1935,NFLTeam9,Chicago,Bears,Western Division,None,6,4,2,192,106,3,NFL
+1935,NFLTeam5,Chicago,Cardinals,Western Division,None,6,4,2,99,97,4,NFL
+1936,NFLTeam4,Boston,Redskins,Eastern Division,None,7,5,0,149,110,1,NFL
+1936,NFLTeam28,Pittsburgh,Pirates,Eastern Division,None,6,6,0,98,187,2,NFL
+1936,NFLTeam3,New York,Giants,Eastern Division,None,5,6,1,115,163,3,NFL
+1936,NFLTeam35,Brooklyn,Dodgers,Eastern Division,None,3,8,1,92,161,4,NFL
+1936,NFLTeam1,Philadelphia,Eagles,Eastern Division,None,1,11,0,51,206,5,NFL
+1936,NFLTeam11,Green Bay,Packers,Western Division,None,10,1,1,248,118,1,NFL
+1936,NFLTeam9,Chicago,Bears,Western Division,None,9,3,0,222,94,2,NFL
+1936,NFLTeam10,Detroit,Lions,Western Division,None,8,4,0,235,102,3,NFL
+1936,NFLTeam5,Chicago,Cardinals,Western Division,None,3,8,1,74,143,4,NFL
+1937,NFLTeam4,Washington,Redskins,Eastern Division,None,8,3,0,195,120,1,NFL
+1937,NFLTeam3,New York,Giants,Eastern Division,None,6,3,2,128,109,2,NFL
+1937,NFLTeam28,Pittsburgh,Pirates,Eastern Division,None,4,7,0,122,145,3,NFL
+1937,NFLTeam35,Brooklyn,Dodgers,Eastern Division,None,3,7,1,82,174,4,NFL
+1937,NFLTeam1,Philadelphia,Eagles,Eastern Division,None,2,8,1,86,177,5,NFL
+1937,NFLTeam9,Chicago,Bears,Western Division,None,9,1,1,201,100,1,NFL
+1937,NFLTeam11,Green Bay,Packers,Western Division,None,7,4,0,220,122,2,NFL
+1937,NFLTeam10,Detroit,Lions,Western Division,None,7,4,0,180,105,3,NFL
+1937,NFLTeam5,Chicago,Cardinals,Western Division,None,5,5,1,135,165,4,NFL
+1937,NFLTeam8,Cleveland,Rams,Western Division,None,1,10,0,75,207,5,NFL
+1938,NFLTeam3,New York,Giants,Eastern Division,None,8,2,1,194,79,1,NFL
+1938,NFLTeam4,Washington,Redskins,Eastern Division,None,6,3,2,148,154,2,NFL
+1938,NFLTeam35,Brooklyn,Dodgers,Eastern Division,None,4,4,3,131,161,3,NFL
+1938,NFLTeam1,Philadelphia,Eagles,Eastern Division,None,5,6,0,154,164,4,NFL
+1938,NFLTeam28,Pittsburgh,Pirates,Eastern Division,None,2,9,0,79,169,5,NFL
+1938,NFLTeam11,Green Bay,Packers,Western Division,None,8,3,0,223,118,1,NFL
+1938,NFLTeam10,Detroit,Lions,Western Division,None,7,4,0,119,108,2,NFL
+1938,NFLTeam9,Chicago,Bears,Western Division,None,6,5,0,194,148,3,NFL
+1938,NFLTeam8,Cleveland,Rams,Western Division,None,4,7,0,131,215,4,NFL
+1938,NFLTeam5,Chicago,Cardinals,Western Division,None,2,9,0,111,168,5,NFL
+1939,NFLTeam3,New York,Giants,Eastern Division,None,9,1,1,168,85,1,NFL
+1939,NFLTeam4,Washington,Redskins,Eastern Division,None,8,2,1,242,94,2,NFL
+1939,NFLTeam35,Brooklyn,Dodgers,Eastern Division,None,4,6,1,108,219,3,NFL
+1939,NFLTeam1,Philadelphia,Eagles,Eastern Division,None,1,9,1,105,200,4,NFL
+1939,NFLTeam28,Pittsburgh,Pirates,Eastern Division,None,1,9,1,114,216,5,NFL
+1939,NFLTeam11,Green Bay,Packers,Western Division,None,9,2,0,233,153,1,NFL
+1939,NFLTeam9,Chicago,Bears,Western Division,None,8,3,0,298,157,2,NFL
+1939,NFLTeam10,Detroit,Lions,Western Division,None,6,5,0,145,150,3,NFL
+1939,NFLTeam8,Cleveland,Rams,Western Division,None,5,5,1,195,164,4,NFL
+1939,NFLTeam5,Chicago,Cardinals,Western Division,None,1,10,0,84,254,5,NFL
+1940,NFLTeam4,Washington,Redskins,Eastern Division,None,9,2,0,245,142,1,NFL
+1940,NFLTeam35,Brooklyn,Dodgers,Eastern Division,None,8,3,0,186,120,2,NFL
+1940,NFLTeam3,New York,Giants,Eastern Division,None,6,4,1,131,133,3,NFL
+1940,NFLTeam28,Pittsburgh,Pirates,Eastern Division,None,2,7,2,60,178,4,NFL
+1940,NFLTeam1,Philadelphia,Eagles,Eastern Division,None,1,10,0,111,211,5,NFL
+1940,NFLTeam9,Chicago,Bears,Western Division,None,8,3,0,238,152,1,NFL
+1940,NFLTeam11,Green Bay,Packers,Western Division,None,6,4,1,238,155,2,NFL
+1940,NFLTeam10,Detroit,Lions,Western Division,None,5,5,1,138,153,3,NFL
+1940,NFLTeam8,Cleveland,Rams,Western Division,None,4,6,1,171,191,4,NFL
+1940,NFLTeam5,Chicago,Cardinals,Western Division,None,2,7,2,139,222,5,NFL
+1941,NFLTeam3,New York,Giants,Eastern Division,None,8,3,0,238,114,1,NFL
+1941,NFLTeam35,Brooklyn,Dodgers,Eastern Division,None,7,4,0,158,127,2,NFL
+1941,NFLTeam4,Washington,Redskins,Eastern Division,None,6,5,0,176,174,3,NFL
+1941,NFLTeam1,Philadelphia,Eagles,Eastern Division,None,2,8,1,119,218,4,NFL
+1941,NFLTeam28,Pittsburgh,Steelers,Eastern Division,None,1,9,1,103,276,5,NFL
+1941,NFLTeam9,Chicago,Bears,Western Division,None,10,1,0,396,147,1,NFL
+1941,NFLTeam11,Green Bay,Packers,Western Division,None,10,1,0,258,120,2,NFL
+1941,NFLTeam10,Detroit,Lions,Western Division,None,4,6,1,121,195,3,NFL
+1941,NFLTeam5,Chicago,Cardinals,Western Division,None,3,7,1,127,197,4,NFL
+1941,NFLTeam8,Cleveland,Rams,Western Division,None,2,9,0,116,244,5,NFL
+1942,NFLTeam4,Washington,Redskins,Eastern Division,None,10,1,0,227,102,1,NFL
+1942,NFLTeam28,Pittsburgh,Steelers,Eastern Division,None,7,4,0,167,119,2,NFL
+1942,NFLTeam3,New York,Giants,Eastern Division,None,5,5,1,155,139,3,NFL
+1942,NFLTeam35,Brooklyn,Dodgers,Eastern Division,None,3,8,0,100,168,4,NFL
+1942,NFLTeam1,Philadelphia,Eagles,Eastern Division,None,2,9,0,134,239,5,NFL
+1942,NFLTeam9,Chicago,Bears,Western Division,None,11,0,0,376,84,1,NFL
+1942,NFLTeam11,Green Bay,Packers,Western Division,None,8,2,1,300,215,2,NFL
+1942,NFLTeam8,Cleveland,Rams,Western Division,None,5,6,0,150,207,3,NFL
+1942,NFLTeam5,Chicago,Cardinals,Western Division,None,3,8,0,98,209,4,NFL
+1942,NFLTeam10,Detroit,Lions,Western Division,None,0,11,0,38,263,5,NFL
+1943,NFLTeam4,Washington,Redskins,Eastern Division,None,6,3,1,229,137,1,NFL
+1943,NFLTeam3,New York,Giants,Eastern Division,None,6,3,1,197,170,2,NFL
+1943,NFLTeam36,Phil-Pit,Steagles,Eastern Division,None,5,4,1,225,230,3,NFL
+1943,NFLTeam35,Brooklyn,Dodgers,Eastern Division,None,2,8,0,65,234,4,NFL
+1943,NFLTeam9,Chicago,Bears,Western Division,None,8,1,1,303,157,1,NFL
+1943,NFLTeam11,Green Bay,Packers,Western Division,None,7,2,1,264,172,2,NFL
+1943,NFLTeam10,Detroit,Lions,Western Division,None,3,6,1,178,218,3,NFL
+1943,NFLTeam5,Chicago,Cardinals,Western Division,None,0,10,0,95,238,4,NFL
+1944,NFLTeam3,New York,Giants,Eastern Division,None,8,1,1,206,75,1,NFL
+1944,NFLTeam1,Philadelphia,Eagles,Eastern Division,None,7,1,2,267,131,2,NFL
+1944,NFLTeam4,Washington,Redskins,Eastern Division,None,6,3,1,169,180,3,NFL
+1944,NFLTeam30,Boston,Yanks,Eastern Division,None,2,8,0,82,233,4,NFL
+1944,NFLTeam35,Brooklyn,Tigers,Eastern Division,None,0,10,0,69,166,5,NFL
+1944,NFLTeam11,Green Bay,Packers,Western Division,None,8,2,0,238,141,1,NFL
+1944,NFLTeam10,Detroit,Lions,Western Division,None,6,3,1,216,151,2,NFL
+1944,NFLTeam9,Chicago,Bears,Western Division,None,6,3,1,258,172,3,NFL
+1944,NFLTeam8,Cleveland,Rams,Western Division,None,4,6,0,188,224,4,NFL
+1944,NFLTeam34,Card-Pitt,Card-Pitt,Western Division,None,0,10,0,108,328,5,NFL
+1945,NFLTeam4,Washington,Redskins,Eastern Division,None,8,2,0,209,121,1,NFL
+1945,NFLTeam1,Philadelphia,Eagles,Eastern Division,None,7,3,0,272,133,2,NFL
+1945,NFLTeam30,Boston,Yanks,Eastern Division,None,3,6,1,123,211,3,NFL
+1945,NFLTeam3,New York,Giants,Eastern Division,None,3,6,1,179,198,4,NFL
+1945,NFLTeam28,Pittsburgh,Steelers,Eastern Division,None,2,8,0,79,220,5,NFL
+1945,NFLTeam8,Cleveland,Rams,Western Division,None,9,1,0,244,136,1,NFL
+1945,NFLTeam10,Detroit,Lions,Western Division,None,7,3,0,195,194,2,NFL
+1945,NFLTeam11,Green Bay,Packers,Western Division,None,6,4,0,258,173,3,NFL
+1945,NFLTeam9,Chicago,Bears,Western Division,None,3,7,0,192,235,4,NFL
+1945,NFLTeam5,Chicago,Cardinals,Western Division,None,1,9,0,98,228,5,NFL
+1946,NFLTeam3,New York,Giants,Eastern Division,None,7,3,1,236,162,1,NFL
+1946,NFLTeam1,Philadelphia,Eagles,Eastern Division,None,6,5,0,231,220,2,NFL
+1946,NFLTeam28,Pittsburgh,Steelers,Eastern Division,None,5,5,1,136,117,3,NFL
+1946,NFLTeam4,Washington,Redskins,Eastern Division,None,5,5,1,171,191,4,NFL
+1946,NFLTeam30,Boston,Yanks,Eastern Division,None,2,8,1,189,273,5,NFL
+1946,NFLTeam27,Cleveland,Browns,Western Division,None,0,0,0,0,0,0,AAFC
+1946,NFLTeam9,Chicago,Bears,Western Division,None,8,2,1,289,193,1,NFL
+1946,NFLTeam8,Los Angeles,Rams,Western Division,None,6,4,1,277,257,2,NFL
+1946,NFLTeam6,San Francisco,49ers,Western Division,None,9,5,0,307,189,2,AAFC
+1946,NFLTeam5,Chicago,Cardinals,Western Division,None,6,5,0,260,198,3,NFL
+1946,NFLTeam11,Green Bay,Packers,Western Division,None,6,5,0,148,158,4,NFL
+1946,NFLTeam10,Detroit,Lions,Western Division,None,1,10,0,142,310,5,NFL
+1947,NFLTeam1,Philadelphia,Eagles,Eastern Division,None,8,4,0,308,242,1,NFL
+1947,NFLTeam28,Pittsburgh,Steelers,Eastern Division,None,8,4,0,240,259,2,NFL
+1947,NFLTeam30,Boston,Yanks,Eastern Division,None,4,7,1,168,256,3,NFL
+1947,NFLTeam4,Washington,Redskins,Eastern Division,None,4,8,0,295,367,4,NFL
+1947,NFLTeam3,New York,Giants,Eastern Division,None,2,8,2,190,309,5,NFL
+1947,NFLTeam27,Cleveland,Browns,Western Division,None,0,0,0,0,0,0,AAFC
+1947,NFLTeam5,Chicago,Cardinals,Western Division,None,9,3,0,306,231,1,NFL
+1947,NFLTeam6,San Francisco,49ers,Western Division,None,8,4,2,327,264,2,AAFC
+1947,NFLTeam9,Chicago,Bears,Western Division,None,8,4,0,363,241,2,NFL
+1947,NFLTeam11,Green Bay,Packers,Western Division,None,6,5,1,274,210,3,NFL
+1947,NFLTeam8,Los Angeles,Rams,Western Division,None,6,6,0,259,214,4,NFL
+1947,NFLTeam10,Detroit,Lions,Western Division,None,3,9,0,231,305,5,NFL
+1948,NFLTeam1,Philadelphia,Eagles,Eastern Division,None,9,2,1,376,156,1,NFL
+1948,NFLTeam4,Washington,Redskins,Eastern Division,None,7,5,0,291,287,2,NFL
+1948,NFLTeam28,Pittsburgh,Steelers,Eastern Division,None,4,8,0,200,243,3,NFL
+1948,NFLTeam3,New York,Giants,Eastern Division,None,4,8,0,297,388,4,NFL
+1948,NFLTeam30,Boston,Yanks,Eastern Division,None,3,9,0,174,372,5,NFL
+1948,NFLTeam27,Cleveland,Browns,Western Division,None,0,0,0,0,0,0,AAFC
+1948,NFLTeam5,Chicago,Cardinals,Western Division,None,11,1,0,395,226,1,NFL
+1948,NFLTeam6,San Francisco,49ers,Western Division,None,12,2,0,495,248,2,AAFC
+1948,NFLTeam9,Chicago,Bears,Western Division,None,10,2,0,375,151,2,NFL
+1948,NFLTeam8,Los Angeles,Rams,Western Division,None,6,5,1,327,269,3,NFL
+1948,NFLTeam11,Green Bay,Packers,Western Division,None,3,9,0,154,290,4,NFL
+1948,NFLTeam10,Detroit,Lions,Western Division,None,2,10,0,200,407,5,NFL
+1949,NFLTeam1,Philadelphia,Eagles,Eastern Division,None,11,1,0,364,134,1,NFL
+1949,NFLTeam28,Pittsburgh,Steelers,Eastern Division,None,6,5,1,224,214,2,NFL
+1949,NFLTeam3,New York,Giants,Eastern Division,None,6,6,0,287,298,3,NFL
+1949,NFLTeam4,Washington,Redskins,Eastern Division,None,4,7,1,268,339,4,NFL
+1949,NFLTeam30,New York,Bulldogs,Eastern Division,None,1,10,1,153,368,5,NFL
+1949,NFLTeam27,Cleveland,Browns,None,None,0,0,0,0,0,0,AAFC
+1949,NFLTeam6,San Francisco,49ers,None,None,9,3,0,416,227,2,AAFC
+1949,NFLTeam8,Los Angeles,Rams,Western Division,None,8,2,2,360,239,1,NFL
+1949,NFLTeam9,Chicago,Bears,Western Division,None,9,3,0,332,218,2,NFL
+1949,NFLTeam5,Chicago,Cardinals,Western Division,None,6,5,1,360,301,3,NFL
+1949,NFLTeam10,Detroit,Lions,Western Division,None,4,8,0,237,259,4,NFL
+1949,NFLTeam11,Green Bay,Packers,Western Division,None,2,10,0,114,329,5,NFL
+1950,NFLTeam27,Cleveland,Browns,American,None,10,2,0,310,144,1,NFL
+1950,NFLTeam3,New York,Giants,American,None,10,2,0,268,150,2,NFL
+1950,NFLTeam28,Pittsburgh,Steelers,American,None,6,6,0,180,195,3,NFL
+1950,NFLTeam1,Philadelphia,Eagles,American,None,6,6,0,254,141,4,NFL
+1950,NFLTeam5,Chicago,Cardinals,American,None,5,7,0,233,287,5,NFL
+1950,NFLTeam4,Washington,Redskins,American,None,3,9,0,232,326,6,NFL
+1950,NFLTeam8,Los Angeles,Rams,National,None,9,3,0,466,309,1,NFL
+1950,NFLTeam9,Chicago,Bears,National,None,9,3,0,279,207,2,NFL
+1950,NFLTeam30,New York,Yanks,National,None,7,5,0,366,367,3,NFL
+1950,NFLTeam10,Detroit,Lions,National,None,6,6,0,321,285,4,NFL
+1950,NFLTeam11,Green Bay,Packers,National,None,3,9,0,244,406,5,NFL
+1950,NFLTeam6,San Francisco,49ers,National,None,3,9,0,213,300,6,NFL
+1950,NFLTeam33,Baltimore,Colts,National,None,1,11,0,213,462,7,NFL
+1951,NFLTeam27,Cleveland,Browns,American,None,11,1,0,331,152,1,NFL
+1951,NFLTeam3,New York,Giants,American,None,9,2,1,254,161,2,NFL
+1951,NFLTeam4,Washington,Redskins,American,None,5,7,0,183,296,3,NFL
+1951,NFLTeam28,Pittsburgh,Steelers,American,None,4,7,1,183,235,4,NFL
+1951,NFLTeam1,Philadelphia,Eagles,American,None,4,8,0,234,264,5,NFL
+1951,NFLTeam5,Chicago,Cardinals,American,None,3,9,0,210,287,6,NFL
+1951,NFLTeam8,Los Angeles,Rams,National,None,8,4,0,392,261,1,NFL
+1951,NFLTeam6,San Francisco,49ers,National,None,7,4,1,255,205,2,NFL
+1951,NFLTeam10,Detroit,Lions,National,None,7,4,1,336,259,3,NFL
+1951,NFLTeam9,Chicago,Bears,National,None,7,5,0,286,282,4,NFL
+1951,NFLTeam11,Green Bay,Packers,National,None,3,9,0,254,375,5,NFL
+1951,NFLTeam30,New York,Yanks,National,None,1,9,2,241,382,6,NFL
+1952,NFLTeam27,Cleveland,Browns,American,None,8,4,0,310,213,1,NFL
+1952,NFLTeam1,Philadelphia,Eagles,American,None,7,5,0,252,271,2,NFL
+1952,NFLTeam3,New York,Giants,American,None,7,5,0,234,231,3,NFL
+1952,NFLTeam28,Pittsburgh,Steelers,American,None,5,7,0,300,273,4,NFL
+1952,NFLTeam4,Washington,Redskins,American,None,4,8,0,240,287,5,NFL
+1952,NFLTeam5,Chicago,Cardinals,American,None,4,8,0,172,221,6,NFL
+1952,NFLTeam10,Detroit,Lions,National,None,9,3,0,344,192,1,NFL
+1952,NFLTeam8,Los Angeles,Rams,National,None,9,3,0,349,234,2,NFL
+1952,NFLTeam6,San Francisco,49ers,National,None,7,5,0,285,221,3,NFL
+1952,NFLTeam11,Green Bay,Packers,National,None,6,6,0,295,312,4,NFL
+1952,NFLTeam9,Chicago,Bears,National,None,5,7,0,245,326,5,NFL
+1952,NFLTeam30,Dallas,Texans,National,None,1,11,0,182,427,6,NFL
+1953,NFLTeam27,Cleveland,Browns,Eastern,None,11,1,0,348,162,1,NFL
+1953,NFLTeam1,Philadelphia,Eagles,Eastern,None,7,4,1,352,215,2,NFL
+1953,NFLTeam4,Washington,Redskins,Eastern,None,6,5,1,208,215,3,NFL
+1953,NFLTeam28,Pittsburgh,Steelers,Eastern,None,6,6,0,211,263,4,NFL
+1953,NFLTeam3,New York,Giants,Eastern,None,3,9,0,179,277,5,NFL
+1953,NFLTeam5,Chicago,Cardinals,Eastern,None,1,10,1,190,337,6,NFL
+1953,NFLTeam10,Detroit,Lions,Western,None,10,2,0,271,205,1,NFL
+1953,NFLTeam6,San Francisco,49ers,Western,None,9,3,0,372,237,2,NFL
+1953,NFLTeam8,Los Angeles,Rams,Western,None,8,3,1,366,236,3,NFL
+1953,NFLTeam9,Chicago,Bears,Western,None,3,8,1,218,262,4,NFL
+1953,NFLTeam30,Baltimore,Colts,Western,None,3,9,0,182,350,5,NFL
+1953,NFLTeam11,Green Bay,Packers,Western,None,2,9,1,200,338,6,NFL
+1954,NFLTeam27,Cleveland,Browns,Eastern,None,9,3,0,336,162,1,NFL
+1954,NFLTeam1,Philadelphia,Eagles,Eastern,None,7,4,1,284,230,2,NFL
+1954,NFLTeam3,New York,Giants,Eastern,None,7,5,0,293,184,3,NFL
+1954,NFLTeam28,Pittsburgh,Steelers,Eastern,None,5,7,0,219,263,4,NFL
+1954,NFLTeam4,Washington,Redskins,Eastern,None,3,9,0,207,432,5,NFL
+1954,NFLTeam5,Chicago,Cardinals,Eastern,None,2,10,0,183,347,6,NFL
+1954,NFLTeam10,Detroit,Lions,Western,None,9,2,1,337,189,1,NFL
+1954,NFLTeam9,Chicago,Bears,Western,None,8,4,0,301,279,2,NFL
+1954,NFLTeam6,San Francisco,49ers,Western,None,7,4,1,313,251,3,NFL
+1954,NFLTeam8,Los Angeles,Rams,Western,None,6,5,1,314,285,4,NFL
+1954,NFLTeam11,Green Bay,Packers,Western,None,4,8,0,234,251,5,NFL
+1954,NFLTeam30,Baltimore,Colts,Western,None,3,9,0,131,279,6,NFL
+1955,NFLTeam27,Cleveland,Browns,Eastern,None,9,2,1,349,218,1,NFL
+1955,NFLTeam4,Washington,Redskins,Eastern,None,8,4,0,246,222,2,NFL
+1955,NFLTeam3,New York,Giants,Eastern,None,6,5,1,267,223,3,NFL
+1955,NFLTeam1,Philadelphia,Eagles,Eastern,None,4,7,1,248,231,4,NFL
+1955,NFLTeam5,Chicago,Cardinals,Eastern,None,4,7,1,224,252,5,NFL
+1955,NFLTeam28,Pittsburgh,Steelers,Eastern,None,4,8,0,195,285,6,NFL
+1955,NFLTeam8,Los Angeles,Rams,Western,None,8,3,1,260,231,1,NFL
+1955,NFLTeam9,Chicago,Bears,Western,None,8,4,0,294,251,2,NFL
+1955,NFLTeam11,Green Bay,Packers,Western,None,6,6,0,258,276,3,NFL
+1955,NFLTeam30,Baltimore,Colts,Western,None,5,6,1,214,239,4,NFL
+1955,NFLTeam6,San Francisco,49ers,Western,None,4,8,0,216,298,5,NFL
+1955,NFLTeam10,Detroit,Lions,Western,None,3,9,0,230,275,6,NFL
+1956,NFLTeam3,New York,Giants,Eastern,None,8,3,1,264,197,1,NFL
+1956,NFLTeam5,Chicago,Cardinals,Eastern,None,7,5,0,240,182,2,NFL
+1956,NFLTeam4,Washington,Redskins,Eastern,None,6,6,0,183,225,3,NFL
+1956,NFLTeam28,Pittsburgh,Steelers,Eastern,None,5,7,0,217,250,4,NFL
+1956,NFLTeam27,Cleveland,Browns,Eastern,None,5,7,0,167,177,5,NFL
+1956,NFLTeam1,Philadelphia,Eagles,Eastern,None,3,8,1,143,215,6,NFL
+1956,NFLTeam9,Chicago,Bears,Western,None,9,2,1,363,246,1,NFL
+1956,NFLTeam10,Detroit,Lions,Western,None,9,3,0,300,188,2,NFL
+1956,NFLTeam6,San Francisco,49ers,Western,None,5,6,1,233,284,3,NFL
+1956,NFLTeam30,Baltimore,Colts,Western,None,5,7,0,270,322,4,NFL
+1956,NFLTeam8,Los Angeles,Rams,Western,None,4,8,0,291,307,5,NFL
+1956,NFLTeam11,Green Bay,Packers,Western,None,4,8,0,264,342,6,NFL
+1957,NFLTeam27,Cleveland,Browns,Eastern,None,9,2,1,269,172,1,NFL
+1957,NFLTeam3,New York,Giants,Eastern,None,7,5,0,254,211,2,NFL
+1957,NFLTeam28,Pittsburgh,Steelers,Eastern,None,6,6,0,161,178,3,NFL
+1957,NFLTeam4,Washington,Redskins,Eastern,None,5,6,1,251,230,4,NFL
+1957,NFLTeam1,Philadelphia,Eagles,Eastern,None,4,8,0,173,230,5,NFL
+1957,NFLTeam5,Chicago,Cardinals,Eastern,None,3,9,0,200,299,6,NFL
+1957,NFLTeam10,Detroit,Lions,Western,None,8,4,0,251,231,1,NFL
+1957,NFLTeam6,San Francisco,49ers,Western,None,8,4,0,260,264,2,NFL
+1957,NFLTeam30,Baltimore,Colts,Western,None,7,5,0,303,235,3,NFL
+1957,NFLTeam8,Los Angeles,Rams,Western,None,6,6,0,307,278,4,NFL
+1957,NFLTeam9,Chicago,Bears,Western,None,5,7,0,203,211,5,NFL
+1957,NFLTeam11,Green Bay,Packers,Western,None,3,9,0,218,311,6,NFL
+1958,NFLTeam3,New York,Giants,Eastern,None,9,3,0,246,183,1,NFL
+1958,NFLTeam27,Cleveland,Browns,Eastern,None,9,3,0,302,217,2,NFL
+1958,NFLTeam28,Pittsburgh,Steelers,Eastern,None,7,4,1,261,230,3,NFL
+1958,NFLTeam4,Washington,Redskins,Eastern,None,4,7,1,214,268,4,NFL
+1958,NFLTeam1,Philadelphia,Eagles,Eastern,None,2,9,1,235,306,5,NFL
+1958,NFLTeam5,Chicago,Cardinals,Eastern,None,2,9,1,261,356,6,NFL
+1958,NFLTeam30,Baltimore,Colts,Western,None,9,3,0,381,203,1,NFL
+1958,NFLTeam9,Chicago,Bears,Western,None,8,4,0,298,230,2,NFL
+1958,NFLTeam8,Los Angeles,Rams,Western,None,8,4,0,344,278,3,NFL
+1958,NFLTeam6,San Francisco,49ers,Western,None,6,6,0,257,324,4,NFL
+1958,NFLTeam10,Detroit,Lions,Western,None,4,7,1,261,276,5,NFL
+1958,NFLTeam11,Green Bay,Packers,Western,None,1,10,1,193,382,6,NFL
+1959,NFLTeam3,New York,Giants,Eastern,None,10,2,0,284,170,1,NFL
+1959,NFLTeam27,Cleveland,Browns,Eastern,None,7,5,0,270,214,2,NFL
+1959,NFLTeam1,Philadelphia,Eagles,Eastern,None,7,5,0,268,278,3,NFL
+1959,NFLTeam28,Pittsburgh,Steelers,Eastern,None,6,5,1,257,216,4,NFL
+1959,NFLTeam4,Washington,Redskins,Eastern,None,3,9,0,185,350,5,NFL
+1959,NFLTeam5,Chicago,Cardinals,Eastern,None,2,10,0,234,324,6,NFL
+1959,NFLTeam30,Baltimore,Colts,Western,None,9,3,0,374,251,1,NFL
+1959,NFLTeam9,Chicago,Bears,Western,None,8,4,0,252,196,2,NFL
+1959,NFLTeam11,Green Bay,Packers,Western,None,7,5,0,248,246,3,NFL
+1959,NFLTeam6,San Francisco,49ers,Western,None,7,5,0,255,237,4,NFL
+1959,NFLTeam10,Detroit,Lions,Western,None,3,8,1,203,275,5,NFL
+1959,NFLTeam8,Los Angeles,Rams,Western,None,2,10,0,242,315,6,NFL
+1960,NFLTeam32,Houston,Oilers,Eastern,None,10,4,0,379,285,1,AFL
+1960,NFLTeam1,Philadelphia,Eagles,Eastern,None,10,2,0,321,246,1,NFL
+1960,NFLTeam20,New York,Titans,Eastern,None,7,7,0,382,399,2,AFL
+1960,NFLTeam27,Cleveland,Browns,Eastern,None,8,3,1,362,217,2,NFL
+1960,NFLTeam17,Buffalo,Bills,Eastern,None,5,8,1,296,303,3,AFL
+1960,NFLTeam3,New York,Giants,Eastern,None,6,4,2,271,261,3,NFL
+1960,NFLTeam19,Boston,Patriots,Eastern,None,5,9,0,286,349,4,AFL
+1960,NFLTeam5,St. Louis,Cardinals,Eastern,None,6,5,1,288,230,4,NFL
+1960,NFLTeam28,Pittsburgh,Steelers,Eastern,None,5,6,1,240,275,5,NFL
+1960,NFLTeam4,Washington,Redskins,Eastern,None,1,9,2,178,309,6,NFL
+1960,NFLTeam11,Green Bay,Packers,Western,None,8,4,0,332,209,1,NFL
+1960,NFLTeam24,Los Angeles,Chargers,Western,None,10,4,0,373,336,1,AFL
+1960,NFLTeam22,Dallas,Texans,Western,None,8,6,0,362,253,2,AFL
+1960,NFLTeam10,Detroit,Lions,Western,None,7,5,0,239,212,2,NFL
+1960,NFLTeam23,Oakland,Raiders,Western,None,6,8,0,319,388,3,AFL
+1960,NFLTeam6,San Francisco,49ers,Western,None,7,5,0,208,205,3,NFL
+1960,NFLTeam21,Denver,Broncos,Western,None,4,9,1,309,393,4,AFL
+1960,NFLTeam30,Baltimore,Colts,Western,None,6,6,0,288,234,4,NFL
+1960,NFLTeam9,Chicago,Bears,Western,None,5,6,1,194,299,5,NFL
+1960,NFLTeam8,Los Angeles,Rams,Western,None,4,7,1,265,297,6,NFL
+1960,NFLTeam2,Dallas,Cowboys,Western,None,0,11,1,177,369,7,NFL
+1961,NFLTeam3,New York,Giants,Eastern,None,10,3,1,368,220,1,NFL
+1961,NFLTeam1,Philadelphia,Eagles,Eastern,None,10,4,0,361,297,2,NFL
+1961,NFLTeam27,Cleveland,Browns,Eastern,None,8,5,1,319,270,3,NFL
+1961,NFLTeam5,St. Louis,Cardinals,Eastern,None,7,7,0,279,267,4,NFL
+1961,NFLTeam28,Pittsburgh,Steelers,Eastern,None,6,8,0,295,287,5,NFL
+1961,NFLTeam2,Dallas,Cowboys,Eastern,None,4,9,1,236,380,6,NFL
+1961,NFLTeam4,Washington,Redskins,Eastern,None,1,12,1,174,392,7,NFL
+1961,NFLTeam32,Houston,Oilers,Eastern Division,None,10,3,1,513,242,1,AFL
+1961,NFLTeam19,Boston,Patriots,Eastern Division,None,9,4,1,413,313,2,AFL
+1961,NFLTeam20,New York,Titans,Eastern Division,None,7,7,0,301,390,3,AFL
+1961,NFLTeam17,Buffalo,Bills,Eastern Division,None,6,8,0,294,342,4,AFL
+1961,NFLTeam11,Green Bay,Packers,Western,None,11,3,0,391,223,1,NFL
+1961,NFLTeam10,Detroit,Lions,Western,None,8,5,1,270,258,2,NFL
+1961,NFLTeam9,Chicago,Bears,Western,None,8,6,0,326,302,3,NFL
+1961,NFLTeam30,Baltimore,Colts,Western,None,8,6,0,302,307,4,NFL
+1961,NFLTeam6,San Francisco,49ers,Western,None,7,6,1,346,272,5,NFL
+1961,NFLTeam8,Los Angeles,Rams,Western,None,4,10,0,263,333,6,NFL
+1961,NFLTeam12,Minnesota,Vikings,Western,None,3,11,0,285,407,7,NFL
+1961,NFLTeam24,San Diego,Chargers,Western Division,None,12,2,0,396,219,1,AFL
+1961,NFLTeam22,Dallas,Texans,Western Division,None,6,8,0,334,343,2,AFL
+1961,NFLTeam21,Denver,Broncos,Western Division,None,3,11,0,251,432,3,AFL
+1961,NFLTeam23,Oakland,Raiders,Western Division,None,2,12,0,237,458,4,AFL
+1962,NFLTeam3,New York,Giants,Eastern,None,12,2,0,398,283,1,NFL
+1962,NFLTeam28,Pittsburgh,Steelers,Eastern,None,9,5,0,312,363,2,NFL
+1962,NFLTeam27,Cleveland,Browns,Eastern,None,7,6,1,291,257,3,NFL
+1962,NFLTeam4,Washington,Redskins,Eastern,None,5,7,2,305,376,4,NFL
+1962,NFLTeam2,Dallas,Cowboys,Eastern,None,5,8,1,398,402,5,NFL
+1962,NFLTeam5,St. Louis,Cardinals,Eastern,None,4,9,1,287,361,6,NFL
+1962,NFLTeam1,Philadelphia,Eagles,Eastern,None,3,10,1,282,356,7,NFL
+1962,NFLTeam32,Houston,Oilers,Eastern Division,None,11,3,0,387,270,1,AFL
+1962,NFLTeam19,Boston,Patriots,Eastern Division,None,9,4,1,346,295,2,AFL
+1962,NFLTeam17,Buffalo,Bills,Eastern Division,None,7,6,1,309,272,3,AFL
+1962,NFLTeam20,New York,Titans,Eastern Division,None,5,9,0,278,423,4,AFL
+1962,NFLTeam11,Green Bay,Packers,Western,None,13,1,0,415,148,1,NFL
+1962,NFLTeam10,Detroit,Lions,Western,None,11,3,0,315,177,2,NFL
+1962,NFLTeam9,Chicago,Bears,Western,None,9,5,0,321,287,3,NFL
+1962,NFLTeam30,Baltimore,Colts,Western,None,7,7,0,293,288,4,NFL
+1962,NFLTeam6,San Francisco,49ers,Western,None,6,8,0,282,331,5,NFL
+1962,NFLTeam12,Minnesota,Vikings,Western,None,2,11,1,254,410,6,NFL
+1962,NFLTeam8,Los Angeles,Rams,Western,None,1,12,1,220,334,7,NFL
+1962,NFLTeam22,Dallas,Texans,Western Division,None,11,3,0,389,233,1,AFL
+1962,NFLTeam21,Denver,Broncos,Western Division,None,7,7,0,353,334,2,AFL
+1962,NFLTeam24,San Diego,Chargers,Western Division,None,4,10,0,314,392,3,AFL
+1962,NFLTeam23,Oakland,Raiders,Western Division,None,1,13,0,213,370,4,AFL
+1963,NFLTeam3,New York,Giants,Eastern,None,11,3,0,448,280,1,NFL
+1963,NFLTeam27,Cleveland,Browns,Eastern,None,10,4,0,343,262,2,NFL
+1963,NFLTeam5,St. Louis,Cardinals,Eastern,None,9,5,0,341,283,3,NFL
+1963,NFLTeam28,Pittsburgh,Steelers,Eastern,None,7,4,3,321,295,4,NFL
+1963,NFLTeam2,Dallas,Cowboys,Eastern,None,4,10,0,305,378,5,NFL
+1963,NFLTeam4,Washington,Redskins,Eastern,None,3,11,0,279,398,6,NFL
+1963,NFLTeam1,Philadelphia,Eagles,Eastern,None,2,10,2,242,381,7,NFL
+1963,NFLTeam19,Boston,Patriots,Eastern Division,None,7,6,1,327,257,1,AFL
+1963,NFLTeam17,Buffalo,Bills,Eastern Division,None,7,6,1,304,291,2,AFL
+1963,NFLTeam32,Houston,Oilers,Eastern Division,None,6,8,0,302,372,3,AFL
+1963,NFLTeam20,New York,Jets,Eastern Division,None,5,8,1,249,399,4,AFL
+1963,NFLTeam9,Chicago,Bears,Western,None,11,1,2,301,144,1,NFL
+1963,NFLTeam11,Green Bay,Packers,Western,None,11,2,1,369,206,2,NFL
+1963,NFLTeam30,Baltimore,Colts,Western,None,8,6,0,316,285,3,NFL
+1963,NFLTeam10,Detroit,Lions,Western,None,5,8,1,326,265,4,NFL
+1963,NFLTeam12,Minnesota,Vikings,Western,None,5,8,1,309,390,5,NFL
+1963,NFLTeam8,Los Angeles,Rams,Western,None,5,9,0,210,350,6,NFL
+1963,NFLTeam6,San Francisco,49ers,Western,None,2,12,0,198,391,7,NFL
+1963,NFLTeam24,San Diego,Chargers,Western Division,None,11,3,0,399,255,1,AFL
+1963,NFLTeam23,Oakland,Raiders,Western Division,None,10,4,0,363,282,2,AFL
+1963,NFLTeam22,Kansas City,Chiefs,Western Division,None,5,7,2,347,263,3,AFL
+1963,NFLTeam21,Denver,Broncos,Western Division,None,2,11,1,301,473,4,AFL
+1964,NFLTeam27,Cleveland,Browns,Eastern,None,10,3,1,415,293,1,NFL
+1964,NFLTeam5,St. Louis,Cardinals,Eastern,None,9,3,2,357,331,2,NFL
+1964,NFLTeam1,Philadelphia,Eagles,Eastern,None,6,8,0,312,313,3,NFL
+1964,NFLTeam4,Washington,Redskins,Eastern,None,6,8,0,307,305,4,NFL
+1964,NFLTeam2,Dallas,Cowboys,Eastern,None,5,8,1,250,289,5,NFL
+1964,NFLTeam28,Pittsburgh,Steelers,Eastern,None,5,9,0,253,315,6,NFL
+1964,NFLTeam3,New York,Giants,Eastern,None,2,10,2,241,399,7,NFL
+1964,NFLTeam17,Buffalo,Bills,Eastern Division,None,12,2,0,400,242,1,AFL
+1964,NFLTeam19,Boston,Patriots,Eastern Division,None,10,3,1,365,297,2,AFL
+1964,NFLTeam20,New York,Jets,Eastern Division,None,5,8,1,278,315,3,AFL
+1964,NFLTeam32,Houston,Oilers,Eastern Division,None,4,10,0,310,355,4,AFL
+1964,NFLTeam30,Baltimore,Colts,Western,None,12,2,0,428,225,1,NFL
+1964,NFLTeam11,Green Bay,Packers,Western,None,8,5,1,342,245,2,NFL
+1964,NFLTeam12,Minnesota,Vikings,Western,None,8,5,1,355,296,3,NFL
+1964,NFLTeam10,Detroit,Lions,Western,None,7,5,2,280,260,4,NFL
+1964,NFLTeam8,Los Angeles,Rams,Western,None,5,7,2,283,339,5,NFL
+1964,NFLTeam9,Chicago,Bears,Western,None,5,9,0,260,379,6,NFL
+1964,NFLTeam6,San Francisco,49ers,Western,None,4,10,0,236,330,7,NFL
+1964,NFLTeam24,San Diego,Chargers,Western Division,None,8,5,1,341,300,1,AFL
+1964,NFLTeam22,Kansas City,Chiefs,Western Division,None,7,7,0,366,306,2,AFL
+1964,NFLTeam23,Oakland,Raiders,Western Division,None,5,7,2,303,350,3,AFL
+1964,NFLTeam21,Denver,Broncos,Western Division,None,2,11,1,240,438,4,AFL
+1965,NFLTeam27,Cleveland,Browns,Eastern,None,11,3,0,363,325,1,NFL
+1965,NFLTeam2,Dallas,Cowboys,Eastern,None,7,7,0,325,280,2,NFL
+1965,NFLTeam3,New York,Giants,Eastern,None,7,7,0,270,338,3,NFL
+1965,NFLTeam4,Washington,Redskins,Eastern,None,6,8,0,257,301,4,NFL
+1965,NFLTeam1,Philadelphia,Eagles,Eastern,None,5,9,0,363,359,5,NFL
+1965,NFLTeam5,St. Louis,Cardinals,Eastern,None,5,9,0,296,309,6,NFL
+1965,NFLTeam28,Pittsburgh,Steelers,Eastern,None,2,12,0,202,397,7,NFL
+1965,NFLTeam17,Buffalo,Bills,Eastern Division,None,10,3,1,313,226,1,AFL
+1965,NFLTeam20,New York,Jets,Eastern Division,None,5,8,1,285,303,2,AFL
+1965,NFLTeam19,Boston,Patriots,Eastern Division,None,4,8,2,244,302,3,AFL
+1965,NFLTeam32,Houston,Oilers,Eastern Division,None,4,10,0,298,429,4,AFL
+1965,NFLTeam11,Green Bay,Packers,Western,None,10,3,1,316,224,1,NFL
+1965,NFLTeam30,Baltimore,Colts,Western,None,10,3,1,389,284,2,NFL
+1965,NFLTeam9,Chicago,Bears,Western,None,9,5,0,409,275,3,NFL
+1965,NFLTeam6,San Francisco,49ers,Western,None,7,6,1,421,402,4,NFL
+1965,NFLTeam12,Minnesota,Vikings,Western,None,7,7,0,383,403,5,NFL
+1965,NFLTeam10,Detroit,Lions,Western,None,6,7,1,257,295,6,NFL
+1965,NFLTeam8,Los Angeles,Rams,Western,None,4,10,0,269,328,7,NFL
+1965,NFLTeam24,San Diego,Chargers,Western Division,None,9,2,3,340,227,1,AFL
+1965,NFLTeam23,Oakland,Raiders,Western Division,None,8,5,1,298,239,2,AFL
+1965,NFLTeam22,Kansas City,Chiefs,Western Division,None,7,5,2,322,285,3,AFL
+1965,NFLTeam21,Denver,Broncos,Western Division,None,4,10,0,303,392,4,AFL
+1966,NFLTeam2,Dallas,Cowboys,Eastern,None,10,3,1,445,239,1,NFL
+1966,NFLTeam27,Cleveland,Browns,Eastern,None,9,5,0,403,259,2,NFL
+1966,NFLTeam1,Philadelphia,Eagles,Eastern,None,9,5,0,326,340,3,NFL
+1966,NFLTeam5,St. Louis,Cardinals,Eastern,None,8,5,1,264,265,4,NFL
+1966,NFLTeam4,Washington,Redskins,Eastern,None,7,7,0,351,355,5,NFL
+1966,NFLTeam28,Pittsburgh,Steelers,Eastern,None,5,8,1,316,347,6,NFL
+1966,NFLTeam13,Atlanta,Falcons,Eastern,None,3,11,0,204,437,7,NFL
+1966,NFLTeam3,New York,Giants,Eastern,None,1,12,1,263,501,8,NFL
+1966,NFLTeam17,Buffalo,Bills,Eastern Division,None,9,4,1,358,255,1,AFL
+1966,NFLTeam19,Boston,Patriots,Eastern Division,None,8,4,2,315,283,2,AFL
+1966,NFLTeam20,New York,Jets,Eastern Division,None,6,6,2,322,312,3,AFL
+1966,NFLTeam32,Houston,Oilers,Eastern Division,None,3,11,0,335,396,4,AFL
+1966,NFLTeam18,Miami,Dolphins,Eastern Division,None,3,11,0,213,362,5,AFL
+1966,NFLTeam11,Green Bay,Packers,Western,None,12,2,0,335,163,1,NFL
+1966,NFLTeam30,Baltimore,Colts,Western,None,9,5,0,314,226,2,NFL
+1966,NFLTeam8,Los Angeles,Rams,Western,None,8,6,0,289,212,3,NFL
+1966,NFLTeam6,San Francisco,49ers,Western,None,6,6,2,320,325,4,NFL
+1966,NFLTeam9,Chicago,Bears,Western,None,5,7,2,234,272,5,NFL
+1966,NFLTeam12,Minnesota,Vikings,Western,None,4,9,1,292,304,6,NFL
+1966,NFLTeam10,Detroit,Lions,Western,None,4,9,1,206,317,7,NFL
+1966,NFLTeam22,Kansas City,Chiefs,Western Division,None,11,2,1,448,276,1,AFL
+1966,NFLTeam23,Oakland,Raiders,Western Division,None,8,5,1,315,288,2,AFL
+1966,NFLTeam24,San Diego,Chargers,Western Division,None,7,6,1,335,284,3,AFL
+1966,NFLTeam21,Denver,Broncos,Western Division,None,4,10,0,196,381,4,AFL
+1967,NFLTeam2,Dallas,Cowboys,Eastern,Capitol,9,5,0,342,268,1,NFL
+1967,NFLTeam1,Philadelphia,Eagles,Eastern,Capitol,6,7,1,351,409,2,NFL
+1967,NFLTeam4,Washington,Redskins,Eastern,Capitol,5,6,3,347,353,3,NFL
+1967,NFLTeam15,New Orleans,Saints,Eastern,Capitol,3,11,0,233,379,4,NFL
+1967,NFLTeam27,Cleveland,Browns,Eastern,Century,9,5,0,334,297,1,NFL
+1967,NFLTeam3,New York,Giants,Eastern,Century,7,7,0,369,379,2,NFL
+1967,NFLTeam5,St. Louis,Cardinals,Eastern,Century,6,7,1,333,356,3,NFL
+1967,NFLTeam28,Pittsburgh,Steelers,Eastern,Century,4,9,1,281,320,4,NFL
+1967,NFLTeam32,Houston,Oilers,Eastern Division,None,9,4,1,258,199,1,AFL
+1967,NFLTeam20,New York,Jets,Eastern Division,None,8,5,1,371,329,2,AFL
+1967,NFLTeam17,Buffalo,Bills,Eastern Division,None,4,10,0,237,285,3,AFL
+1967,NFLTeam18,Miami,Dolphins,Eastern Division,None,4,10,0,219,407,4,AFL
+1967,NFLTeam19,Boston,Patriots,Eastern Division,None,3,10,1,280,389,5,AFL
+1967,NFLTeam11,Green Bay,Packers,Western,Central,9,4,1,332,209,1,NFL
+1967,NFLTeam9,Chicago,Bears,Western,Central,7,6,1,239,218,2,NFL
+1967,NFLTeam10,Detroit,Lions,Western,Central,5,7,2,260,259,3,NFL
+1967,NFLTeam12,Minnesota,Vikings,Western,Central,3,8,3,233,294,4,NFL
+1967,NFLTeam8,Los Angeles,Rams,Western,Coastal,11,1,2,398,196,1,NFL
+1967,NFLTeam30,Baltimore,Colts,Western,Coastal,11,1,2,394,198,2,NFL
+1967,NFLTeam6,San Francisco,49ers,Western,Coastal,7,7,0,273,337,3,NFL
+1967,NFLTeam13,Atlanta,Falcons,Western,Coastal,1,12,1,175,422,4,NFL
+1967,NFLTeam23,Oakland,Raiders,Western Division,None,13,1,0,468,233,1,AFL
+1967,NFLTeam22,Kansas City,Chiefs,Western Division,None,9,5,0,408,254,2,AFL
+1967,NFLTeam24,San Diego,Chargers,Western Division,None,8,5,1,360,352,3,AFL
+1967,NFLTeam21,Denver,Broncos,Western Division,None,3,11,0,256,409,4,AFL
+1968,NFLTeam2,Dallas,Cowboys,Eastern,Capitol,12,2,0,431,186,1,NFL
+1968,NFLTeam3,New York,Giants,Eastern,Capitol,7,7,0,294,325,2,NFL
+1968,NFLTeam4,Washington,Redskins,Eastern,Capitol,5,9,0,249,358,3,NFL
+1968,NFLTeam1,Philadelphia,Eagles,Eastern,Capitol,2,12,0,202,351,4,NFL
+1968,NFLTeam27,Cleveland,Browns,Eastern,Century,10,4,0,394,273,1,NFL
+1968,NFLTeam5,St. Louis,Cardinals,Eastern,Century,9,4,1,325,289,2,NFL
+1968,NFLTeam15,New Orleans,Saints,Eastern,Century,4,9,1,246,327,3,NFL
+1968,NFLTeam28,Pittsburgh,Steelers,Eastern,Century,2,11,1,244,397,4,NFL
+1968,NFLTeam20,New York,Jets,Eastern Division,None,11,3,0,419,280,1,AFL
+1968,NFLTeam32,Houston,Oilers,Eastern Division,None,7,7,0,303,248,2,AFL
+1968,NFLTeam18,Miami,Dolphins,Eastern Division,None,5,8,1,276,355,3,AFL
+1968,NFLTeam19,Boston,Patriots,Eastern Division,None,4,10,0,229,406,4,AFL
+1968,NFLTeam17,Buffalo,Bills,Eastern Division,None,1,12,1,199,367,5,AFL
+1968,NFLTeam12,Minnesota,Vikings,Western,Central,8,6,0,282,242,1,NFL
+1968,NFLTeam9,Chicago,Bears,Western,Central,7,7,0,250,333,2,NFL
+1968,NFLTeam11,Green Bay,Packers,Western,Central,6,7,1,281,227,3,NFL
+1968,NFLTeam10,Detroit,Lions,Western,Central,4,8,2,207,241,4,NFL
+1968,NFLTeam30,Baltimore,Colts,Western,Coastal,13,1,0,402,144,1,NFL
+1968,NFLTeam8,Los Angeles,Rams,Western,Coastal,10,3,1,312,200,2,NFL
+1968,NFLTeam6,San Francisco,49ers,Western,Coastal,7,6,1,303,310,3,NFL
+1968,NFLTeam13,Atlanta,Falcons,Western,Coastal,2,12,0,170,389,4,NFL
+1968,NFLTeam23,Oakland,Raiders,Western Division,None,12,2,0,453,233,1,AFL
+1968,NFLTeam22,Kansas City,Chiefs,Western Division,None,12,2,0,371,170,2,AFL
+1968,NFLTeam24,San Diego,Chargers,Western Division,None,9,5,0,382,310,3,AFL
+1968,NFLTeam21,Denver,Broncos,Western Division,None,5,9,0,255,404,4,AFL
+1968,NFLTeam26,Cincinnati,Bengals,Western Division,None,3,11,0,215,329,5,AFL
+1969,NFLTeam2,Dallas,Cowboys,Eastern,Capitol,11,2,1,369,223,1,NFL
+1969,NFLTeam4,Washington,Redskins,Eastern,Capitol,7,5,2,307,319,2,NFL
+1969,NFLTeam15,New Orleans,Saints,Eastern,Capitol,5,9,0,311,393,3,NFL
+1969,NFLTeam1,Philadelphia,Eagles,Eastern,Capitol,4,9,1,279,377,4,NFL
+1969,NFLTeam27,Cleveland,Browns,Eastern,Century,10,3,1,351,300,1,NFL
+1969,NFLTeam3,New York,Giants,Eastern,Century,6,8,0,264,298,2,NFL
+1969,NFLTeam5,St. Louis,Cardinals,Eastern,Century,4,9,1,314,389,3,NFL
+1969,NFLTeam28,Pittsburgh,Steelers,Eastern,Century,1,13,0,218,404,4,NFL
+1969,NFLTeam20,New York,Jets,Eastern Division,None,10,4,0,353,269,1,AFL
+1969,NFLTeam32,Houston,Oilers,Eastern Division,None,6,6,2,278,279,2,AFL
+1969,NFLTeam19,Boston,Patriots,Eastern Division,None,4,10,0,266,316,3,AFL
+1969,NFLTeam17,Buffalo,Bills,Eastern Division,None,4,10,0,230,359,4,AFL
+1969,NFLTeam18,Miami,Dolphins,Eastern Division,None,3,10,1,233,332,5,AFL
+1969,NFLTeam12,Minnesota,Vikings,Western,Central,12,2,0,379,133,1,NFL
+1969,NFLTeam10,Detroit,Lions,Western,Central,9,4,1,259,188,2,NFL
+1969,NFLTeam11,Green Bay,Packers,Western,Central,8,6,0,269,221,3,NFL
+1969,NFLTeam9,Chicago,Bears,Western,Central,1,13,0,210,339,4,NFL
+1969,NFLTeam8,Los Angeles,Rams,Western,Coastal,11,3,0,320,243,1,NFL
+1969,NFLTeam30,Baltimore,Colts,Western,Coastal,8,5,1,279,268,2,NFL
+1969,NFLTeam13,Atlanta,Falcons,Western,Coastal,6,8,0,276,268,3,NFL
+1969,NFLTeam6,San Francisco,49ers,Western,Coastal,4,8,2,277,319,4,NFL
+1969,NFLTeam23,Oakland,Raiders,Western Division,None,12,1,1,377,242,1,AFL
+1969,NFLTeam22,Kansas City,Chiefs,Western Division,None,11,3,0,359,177,2,AFL
+1969,NFLTeam24,San Diego,Chargers,Western Division,None,8,6,0,288,276,3,AFL
+1969,NFLTeam21,Denver,Broncos,Western Division,None,5,8,1,297,344,4,AFL
+1969,NFLTeam26,Cincinnati,Bengals,Western Division,None,4,9,1,280,367,5,AFL
+1970,NFLTeam26,Cincinnati,Bengals,American,Central,8,6,0,312,255,1,NFL
+1970,NFLTeam27,Cleveland,Browns,American,Central,7,7,0,286,265,2,NFL
+1970,NFLTeam28,Pittsburgh,Steelers,American,Central,5,9,0,210,272,3,NFL
+1970,NFLTeam32,Houston,Oilers,American,Central,3,10,1,217,352,4,NFL
+1970,NFLTeam30,Baltimore,Colts,American,Eastern,11,2,1,321,234,1,NFL
+1970,NFLTeam18,Miami,Dolphins,American,Eastern,10,4,0,297,228,2,NFL
+1970,NFLTeam20,New York,Jets,American,Eastern,4,10,0,255,286,3,NFL
+1970,NFLTeam17,Buffalo,Bills,American,Eastern,3,10,1,204,337,4,NFL
+1970,NFLTeam19,Boston,Patriots,American,Eastern,2,12,0,149,361,5,NFL
+1970,NFLTeam23,Oakland,Raiders,American,Western,8,4,2,300,293,1,NFL
+1970,NFLTeam22,Kansas City,Chiefs,American,Western,7,5,2,272,244,2,NFL
+1970,NFLTeam24,San Diego,Chargers,American,Western,5,6,3,282,278,3,NFL
+1970,NFLTeam21,Denver,Broncos,American,Western,5,8,1,253,264,4,NFL
+1970,NFLTeam12,Minnesota,Vikings,National,Central,12,2,0,335,143,1,NFL
+1970,NFLTeam10,Detroit,Lions,National,Central,10,4,0,347,202,2,NFL
+1970,NFLTeam11,Green Bay,Packers,National,Central,6,8,0,196,293,3,NFL
+1970,NFLTeam9,Chicago,Bears,National,Central,6,8,0,256,261,4,NFL
+1970,NFLTeam2,Dallas,Cowboys,National,Eastern,10,4,0,299,221,1,NFL
+1970,NFLTeam3,New York,Giants,National,Eastern,9,5,0,301,270,2,NFL
+1970,NFLTeam5,St. Louis,Cardinals,National,Eastern,8,5,1,325,228,3,NFL
+1970,NFLTeam4,Washington,Redskins,National,Eastern,6,8,0,297,314,4,NFL
+1970,NFLTeam1,Philadelphia,Eagles,National,Eastern,3,10,1,241,332,5,NFL
+1970,NFLTeam6,San Francisco,49ers,National,Western,10,3,1,352,267,1,NFL
+1970,NFLTeam8,Los Angeles,Rams,National,Western,9,4,1,325,202,2,NFL
+1970,NFLTeam13,Atlanta,Falcons,National,Western,4,8,2,206,261,3,NFL
+1970,NFLTeam15,New Orleans,Saints,National,Western,2,11,1,172,347,4,NFL
+1971,NFLTeam27,Cleveland,Browns,American,Central,9,5,0,285,273,1,NFL
+1971,NFLTeam28,Pittsburgh,Steelers,American,Central,6,8,0,246,292,2,NFL
+1971,NFLTeam32,Houston,Oilers,American,Central,4,9,1,251,330,3,NFL
+1971,NFLTeam26,Cincinnati,Bengals,American,Central,4,10,0,284,265,4,NFL
+1971,NFLTeam18,Miami,Dolphins,American,Eastern,10,3,1,315,174,1,NFL
+1971,NFLTeam30,Baltimore,Colts,American,Eastern,10,4,0,313,140,2,NFL
+1971,NFLTeam19,New England,Patriots,American,Eastern,6,8,0,238,325,3,NFL
+1971,NFLTeam20,New York,Jets,American,Eastern,6,8,0,212,299,4,NFL
+1971,NFLTeam17,Buffalo,Bills,American,Eastern,1,13,0,184,394,5,NFL
+1971,NFLTeam22,Kansas City,Chiefs,American,Western,10,3,1,302,208,1,NFL
+1971,NFLTeam23,Oakland,Raiders,American,Western,8,4,2,344,278,2,NFL
+1971,NFLTeam24,San Diego,Chargers,American,Western,6,8,0,311,341,3,NFL
+1971,NFLTeam21,Denver,Broncos,American,Western,4,9,1,203,275,4,NFL
+1971,NFLTeam12,Minnesota,Vikings,National,Central,11,3,0,245,139,1,NFL
+1971,NFLTeam10,Detroit,Lions,National,Central,7,6,1,341,286,2,NFL
+1971,NFLTeam9,Chicago,Bears,National,Central,6,8,0,185,276,3,NFL
+1971,NFLTeam11,Green Bay,Packers,National,Central,4,8,2,274,298,4,NFL
+1971,NFLTeam2,Dallas,Cowboys,National,Eastern,11,3,0,406,222,1,NFL
+1971,NFLTeam4,Washington,Redskins,National,Eastern,9,4,1,276,190,2,NFL
+1971,NFLTeam1,Philadelphia,Eagles,National,Eastern,6,7,1,221,302,3,NFL
+1971,NFLTeam5,St. Louis,Cardinals,National,Eastern,4,9,1,231,279,4,NFL
+1971,NFLTeam3,New York,Giants,National,Eastern,4,10,0,228,362,5,NFL
+1971,NFLTeam6,San Francisco,49ers,National,Western,9,5,0,300,216,1,NFL
+1971,NFLTeam8,Los Angeles,Rams,National,Western,8,5,1,313,260,2,NFL
+1971,NFLTeam13,Atlanta,Falcons,National,Western,7,6,1,274,277,3,NFL
+1971,NFLTeam15,New Orleans,Saints,National,Western,4,8,2,266,347,4,NFL
+1972,NFLTeam28,Pittsburgh,Steelers,American,Central,11,3,0,343,175,1,NFL
+1972,NFLTeam27,Cleveland,Browns,American,Central,10,4,0,268,249,2,NFL
+1972,NFLTeam26,Cincinnati,Bengals,American,Central,8,6,0,299,229,3,NFL
+1972,NFLTeam32,Houston,Oilers,American,Central,1,13,0,164,380,4,NFL
+1972,NFLTeam18,Miami,Dolphins,American,Eastern,14,0,0,385,171,1,NFL
+1972,NFLTeam20,New York,Jets,American,Eastern,7,7,0,367,324,2,NFL
+1972,NFLTeam30,Baltimore,Colts,American,Eastern,5,9,0,235,252,3,NFL
+1972,NFLTeam17,Buffalo,Bills,American,Eastern,4,9,1,257,377,4,NFL
+1972,NFLTeam19,New England,Patriots,American,Eastern,3,11,0,192,446,5,NFL
+1972,NFLTeam23,Oakland,Raiders,American,Western,10,3,1,365,248,1,NFL
+1972,NFLTeam22,Kansas City,Chiefs,American,Western,8,6,0,287,254,2,NFL
+1972,NFLTeam21,Denver,Broncos,American,Western,5,9,0,325,350,3,NFL
+1972,NFLTeam24,San Diego,Chargers,American,Western,4,9,1,264,344,4,NFL
+1972,NFLTeam11,Green Bay,Packers,National,Central,10,4,0,304,226,1,NFL
+1972,NFLTeam10,Detroit,Lions,National,Central,8,5,1,339,290,2,NFL
+1972,NFLTeam12,Minnesota,Vikings,National,Central,7,7,0,301,252,3,NFL
+1972,NFLTeam9,Chicago,Bears,National,Central,4,9,1,225,275,4,NFL
+1972,NFLTeam4,Washington,Redskins,National,Eastern,11,3,0,336,218,1,NFL
+1972,NFLTeam2,Dallas,Cowboys,National,Eastern,10,4,0,319,240,2,NFL
+1972,NFLTeam3,New York,Giants,National,Eastern,8,6,0,331,247,3,NFL
+1972,NFLTeam5,St. Louis,Cardinals,National,Eastern,4,9,1,193,303,4,NFL
+1972,NFLTeam1,Philadelphia,Eagles,National,Eastern,2,11,1,145,352,5,NFL
+1972,NFLTeam6,San Francisco,49ers,National,Western,8,5,1,353,249,1,NFL
+1972,NFLTeam13,Atlanta,Falcons,National,Western,7,7,0,269,274,2,NFL
+1972,NFLTeam8,Los Angeles,Rams,National,Western,6,7,1,291,286,3,NFL
+1972,NFLTeam15,New Orleans,Saints,National,Western,2,11,1,215,361,4,NFL
+1973,NFLTeam26,Cincinnati,Bengals,American,Central,10,4,0,286,231,1,NFL
+1973,NFLTeam28,Pittsburgh,Steelers,American,Central,10,4,0,347,210,2,NFL
+1973,NFLTeam27,Cleveland,Browns,American,Central,7,5,2,234,255,3,NFL
+1973,NFLTeam32,Houston,Oilers,American,Central,1,13,0,199,447,4,NFL
+1973,NFLTeam18,Miami,Dolphins,American,Eastern,12,2,0,343,150,1,NFL
+1973,NFLTeam17,Buffalo,Bills,American,Eastern,9,5,0,259,230,2,NFL
+1973,NFLTeam19,New England,Patriots,American,Eastern,5,9,0,258,300,3,NFL
+1973,NFLTeam20,New York,Jets,American,Eastern,4,10,0,240,306,4,NFL
+1973,NFLTeam30,Baltimore,Colts,American,Eastern,4,10,0,226,341,5,NFL
+1973,NFLTeam23,Oakland,Raiders,American,Western,9,4,1,292,175,1,NFL
+1973,NFLTeam22,Kansas City,Chiefs,American,Western,7,5,2,231,192,2,NFL
+1973,NFLTeam21,Denver,Broncos,American,Western,7,5,2,354,296,3,NFL
+1973,NFLTeam24,San Diego,Chargers,American,Western,2,11,1,188,386,4,NFL
+1973,NFLTeam12,Minnesota,Vikings,National,Central,12,2,0,296,168,1,NFL
+1973,NFLTeam10,Detroit,Lions,National,Central,6,7,1,271,247,2,NFL
+1973,NFLTeam11,Green Bay,Packers,National,Central,5,7,2,202,259,3,NFL
+1973,NFLTeam9,Chicago,Bears,National,Central,3,11,0,195,334,4,NFL
+1973,NFLTeam2,Dallas,Cowboys,National,Eastern,10,4,0,382,203,1,NFL
+1973,NFLTeam4,Washington,Redskins,National,Eastern,10,4,0,325,198,2,NFL
+1973,NFLTeam1,Philadelphia,Eagles,National,Eastern,5,8,1,310,393,3,NFL
+1973,NFLTeam5,St. Louis,Cardinals,National,Eastern,4,9,1,286,365,4,NFL
+1973,NFLTeam3,New York,Giants,National,Eastern,2,11,1,226,362,5,NFL
+1973,NFLTeam8,Los Angeles,Rams,National,Western,12,2,0,388,178,1,NFL
+1973,NFLTeam13,Atlanta,Falcons,National,Western,9,5,0,318,224,2,NFL
+1973,NFLTeam6,San Francisco,49ers,National,Western,5,9,0,262,319,3,NFL
+1973,NFLTeam15,New Orleans,Saints,National,Western,5,9,0,163,312,4,NFL
+1974,NFLTeam28,Pittsburgh,Steelers,American,Central,10,3,1,305,189,1,NFL
+1974,NFLTeam32,Houston,Oilers,American,Central,7,7,0,236,282,2,NFL
+1974,NFLTeam26,Cincinnati,Bengals,American,Central,7,7,0,283,259,3,NFL
+1974,NFLTeam27,Cleveland,Browns,American,Central,4,10,0,251,344,4,NFL
+1974,NFLTeam18,Miami,Dolphins,American,Eastern,11,3,0,327,216,1,NFL
+1974,NFLTeam17,Buffalo,Bills,American,Eastern,9,5,0,264,244,2,NFL
+1974,NFLTeam20,New York,Jets,American,Eastern,7,7,0,279,300,3,NFL
+1974,NFLTeam19,New England,Patriots,American,Eastern,7,7,0,348,289,4,NFL
+1974,NFLTeam30,Baltimore,Colts,American,Eastern,2,12,0,190,329,5,NFL
+1974,NFLTeam23,Oakland,Raiders,American,Western,12,2,0,355,228,1,NFL
+1974,NFLTeam21,Denver,Broncos,American,Western,7,6,1,302,294,2,NFL
+1974,NFLTeam22,Kansas City,Chiefs,American,Western,5,9,0,233,293,3,NFL
+1974,NFLTeam24,San Diego,Chargers,American,Western,5,9,0,212,285,4,NFL
+1974,NFLTeam12,Minnesota,Vikings,National,Central,10,4,0,310,195,1,NFL
+1974,NFLTeam10,Detroit,Lions,National,Central,7,7,0,256,270,2,NFL
+1974,NFLTeam11,Green Bay,Packers,National,Central,6,8,0,210,206,3,NFL
+1974,NFLTeam9,Chicago,Bears,National,Central,4,10,0,152,279,4,NFL
+1974,NFLTeam5,St. Louis,Cardinals,National,Eastern,10,4,0,285,218,1,NFL
+1974,NFLTeam4,Washington,Redskins,National,Eastern,10,4,0,320,196,2,NFL
+1974,NFLTeam2,Dallas,Cowboys,National,Eastern,8,6,0,297,235,3,NFL
+1974,NFLTeam1,Philadelphia,Eagles,National,Eastern,7,7,0,242,217,4,NFL
+1974,NFLTeam3,New York,Giants,National,Eastern,2,12,0,195,299,5,NFL
+1974,NFLTeam8,Los Angeles,Rams,National,Western,10,4,0,263,181,1,NFL
+1974,NFLTeam6,San Francisco,49ers,National,Western,6,8,0,226,236,2,NFL
+1974,NFLTeam15,New Orleans,Saints,National,Western,5,9,0,166,263,3,NFL
+1974,NFLTeam13,Atlanta,Falcons,National,Western,3,11,0,111,271,4,NFL
+1975,NFLTeam28,Pittsburgh,Steelers,American,Central,12,2,0,373,162,1,NFL
+1975,NFLTeam26,Cincinnati,Bengals,American,Central,11,3,0,340,246,2,NFL
+1975,NFLTeam32,Houston,Oilers,American,Central,10,4,0,293,226,3,NFL
+1975,NFLTeam27,Cleveland,Browns,American,Central,3,11,0,218,372,4,NFL
+1975,NFLTeam30,Baltimore,Colts,American,Eastern,10,4,0,395,269,1,NFL
+1975,NFLTeam18,Miami,Dolphins,American,Eastern,10,4,0,357,222,2,NFL
+1975,NFLTeam17,Buffalo,Bills,American,Eastern,8,6,0,420,355,3,NFL
+1975,NFLTeam20,New York,Jets,American,Eastern,3,11,0,258,433,4,NFL
+1975,NFLTeam19,New England,Patriots,American,Eastern,3,11,0,258,358,5,NFL
+1975,NFLTeam23,Oakland,Raiders,American,Western,11,3,0,375,255,1,NFL
+1975,NFLTeam21,Denver,Broncos,American,Western,6,8,0,254,307,2,NFL
+1975,NFLTeam22,Kansas City,Chiefs,American,Western,5,9,0,282,341,3,NFL
+1975,NFLTeam24,San Diego,Chargers,American,Western,2,12,0,189,345,4,NFL
+1975,NFLTeam12,Minnesota,Vikings,National,Central,12,2,0,377,180,1,NFL
+1975,NFLTeam10,Detroit,Lions,National,Central,7,7,0,245,262,2,NFL
+1975,NFLTeam9,Chicago,Bears,National,Central,4,10,0,191,379,3,NFL
+1975,NFLTeam11,Green Bay,Packers,National,Central,4,10,0,226,285,4,NFL
+1975,NFLTeam5,St. Louis,Cardinals,National,Eastern,11,3,0,356,276,1,NFL
+1975,NFLTeam2,Dallas,Cowboys,National,Eastern,10,4,0,350,268,2,NFL
+1975,NFLTeam4,Washington,Redskins,National,Eastern,8,6,0,325,276,3,NFL
+1975,NFLTeam3,New York,Giants,National,Eastern,5,9,0,216,306,4,NFL
+1975,NFLTeam1,Philadelphia,Eagles,National,Eastern,4,10,0,225,302,5,NFL
+1975,NFLTeam8,Los Angeles,Rams,National,Western,12,2,0,312,135,1,NFL
+1975,NFLTeam6,San Francisco,49ers,National,Western,5,9,0,255,286,2,NFL
+1975,NFLTeam13,Atlanta,Falcons,National,Western,4,10,0,240,289,3,NFL
+1975,NFLTeam15,New Orleans,Saints,National,Western,2,12,0,165,360,4,NFL
+1976,NFLTeam28,Pittsburgh,Steelers,American,Central,10,4,0,342,138,1,NFL
+1976,NFLTeam26,Cincinnati,Bengals,American,Central,10,4,0,335,210,2,NFL
+1976,NFLTeam27,Cleveland,Browns,American,Central,9,5,0,267,287,3,NFL
+1976,NFLTeam32,Houston,Oilers,American,Central,5,9,0,222,273,4,NFL
+1976,NFLTeam30,Baltimore,Colts,American,Eastern,11,3,0,417,246,1,NFL
+1976,NFLTeam19,New England,Patriots,American,Eastern,11,3,0,376,236,2,NFL
+1976,NFLTeam18,Miami,Dolphins,American,Eastern,6,8,0,263,264,3,NFL
+1976,NFLTeam20,New York,Jets,American,Eastern,3,11,0,169,383,4,NFL
+1976,NFLTeam17,Buffalo,Bills,American,Eastern,2,12,0,245,363,5,NFL
+1976,NFLTeam23,Oakland,Raiders,American,Western,13,1,0,350,237,1,NFL
+1976,NFLTeam21,Denver,Broncos,American,Western,9,5,0,315,206,2,NFL
+1976,NFLTeam24,San Diego,Chargers,American,Western,6,8,0,248,285,3,NFL
+1976,NFLTeam22,Kansas City,Chiefs,American,Western,5,9,0,290,376,4,NFL
+1976,NFLTeam16,Tampa Bay,Buccaneers,American,Western,0,14,0,125,412,5,NFL
+1976,NFLTeam12,Minnesota,Vikings,National,Central,11,2,1,305,176,1,NFL
+1976,NFLTeam9,Chicago,Bears,National,Central,7,7,0,253,216,2,NFL
+1976,NFLTeam10,Detroit,Lions,National,Central,6,8,0,262,220,3,NFL
+1976,NFLTeam11,Green Bay,Packers,National,Central,5,9,0,218,299,4,NFL
+1976,NFLTeam2,Dallas,Cowboys,National,Eastern,11,3,0,296,194,1,NFL
+1976,NFLTeam4,Washington,Redskins,National,Eastern,10,4,0,291,217,2,NFL
+1976,NFLTeam5,St. Louis,Cardinals,National,Eastern,10,4,0,309,267,3,NFL
+1976,NFLTeam1,Philadelphia,Eagles,National,Eastern,4,10,0,165,286,4,NFL
+1976,NFLTeam3,New York,Giants,National,Eastern,3,11,0,170,250,5,NFL
+1976,NFLTeam8,Los Angeles,Rams,National,Western,10,3,1,351,190,1,NFL
+1976,NFLTeam6,San Francisco,49ers,National,Western,8,6,0,270,190,2,NFL
+1976,NFLTeam15,New Orleans,Saints,National,Western,4,10,0,253,346,3,NFL
+1976,NFLTeam13,Atlanta,Falcons,National,Western,4,10,0,172,312,4,NFL
+1976,NFLTeam7,Seattle,Seahawks,National,Western,2,12,0,229,429,5,NFL
+1977,NFLTeam28,Pittsburgh,Steelers,American,Central,9,5,0,283,243,1,NFL
+1977,NFLTeam32,Houston,Oilers,American,Central,8,6,0,299,230,2,NFL
+1977,NFLTeam26,Cincinnati,Bengals,American,Central,8,6,0,238,235,3,NFL
+1977,NFLTeam27,Cleveland,Browns,American,Central,6,8,0,269,267,4,NFL
+1977,NFLTeam30,Baltimore,Colts,American,Eastern,10,4,0,295,221,1,NFL
+1977,NFLTeam18,Miami,Dolphins,American,Eastern,10,4,0,313,197,2,NFL
+1977,NFLTeam19,New England,Patriots,American,Eastern,9,5,0,278,217,3,NFL
+1977,NFLTeam20,New York,Jets,American,Eastern,3,11,0,191,300,4,NFL
+1977,NFLTeam17,Buffalo,Bills,American,Eastern,3,11,0,160,313,5,NFL
+1977,NFLTeam21,Denver,Broncos,American,Western,12,2,0,274,148,1,NFL
+1977,NFLTeam23,Oakland,Raiders,American,Western,11,3,0,351,230,2,NFL
+1977,NFLTeam24,San Diego,Chargers,American,Western,7,7,0,222,205,3,NFL
+1977,NFLTeam7,Seattle,Seahawks,American,Western,5,9,0,282,373,4,NFL
+1977,NFLTeam22,Kansas City,Chiefs,American,Western,2,12,0,225,349,5,NFL
+1977,NFLTeam12,Minnesota,Vikings,National,Central,9,5,0,231,227,1,NFL
+1977,NFLTeam9,Chicago,Bears,National,Central,9,5,0,255,253,2,NFL
+1977,NFLTeam10,Detroit,Lions,National,Central,6,8,0,183,252,3,NFL
+1977,NFLTeam11,Green Bay,Packers,National,Central,4,10,0,134,219,4,NFL
+1977,NFLTeam16,Tampa Bay,Buccaneers,National,Central,2,12,0,103,223,5,NFL
+1977,NFLTeam2,Dallas,Cowboys,National,Eastern,12,2,0,345,212,1,NFL
+1977,NFLTeam4,Washington,Redskins,National,Eastern,9,5,0,196,189,2,NFL
+1977,NFLTeam5,St. Louis,Cardinals,National,Eastern,7,7,0,272,287,3,NFL
+1977,NFLTeam1,Philadelphia,Eagles,National,Eastern,5,9,0,220,207,4,NFL
+1977,NFLTeam3,New York,Giants,National,Eastern,5,9,0,181,265,5,NFL
+1977,NFLTeam8,Los Angeles,Rams,National,Western,10,4,0,302,146,1,NFL
+1977,NFLTeam13,Atlanta,Falcons,National,Western,7,7,0,179,129,2,NFL
+1977,NFLTeam6,San Francisco,49ers,National,Western,5,9,0,220,260,3,NFL
+1977,NFLTeam15,New Orleans,Saints,National,Western,3,11,0,232,336,4,NFL
+1978,NFLTeam28,Pittsburgh,Steelers,American,Central,14,2,0,356,195,1,NFL
+1978,NFLTeam32,Houston,Oilers,American,Central,10,6,0,283,298,2,NFL
+1978,NFLTeam27,Cleveland,Browns,American,Central,8,8,0,334,356,3,NFL
+1978,NFLTeam26,Cincinnati,Bengals,American,Central,4,12,0,252,284,4,NFL
+1978,NFLTeam19,New England,Patriots,American,Eastern,11,5,0,358,286,1,NFL
+1978,NFLTeam18,Miami,Dolphins,American,Eastern,11,5,0,372,254,2,NFL
+1978,NFLTeam20,New York,Jets,American,Eastern,8,8,0,359,364,3,NFL
+1978,NFLTeam17,Buffalo,Bills,American,Eastern,5,11,0,302,354,4,NFL
+1978,NFLTeam30,Baltimore,Colts,American,Eastern,5,11,0,239,421,5,NFL
+1978,NFLTeam21,Denver,Broncos,American,Western,10,6,0,282,198,1,NFL
+1978,NFLTeam23,Oakland,Raiders,American,Western,9,7,0,311,283,2,NFL
+1978,NFLTeam7,Seattle,Seahawks,American,Western,9,7,0,345,358,3,NFL
+1978,NFLTeam24,San Diego,Chargers,American,Western,9,7,0,355,309,4,NFL
+1978,NFLTeam22,Kansas City,Chiefs,American,Western,4,12,0,243,327,5,NFL
+1978,NFLTeam12,Minnesota,Vikings,National,Central,8,7,1,294,306,1,NFL
+1978,NFLTeam11,Green Bay,Packers,National,Central,8,7,1,249,269,2,NFL
+1978,NFLTeam10,Detroit,Lions,National,Central,7,9,0,290,300,3,NFL
+1978,NFLTeam9,Chicago,Bears,National,Central,7,9,0,253,274,4,NFL
+1978,NFLTeam16,Tampa Bay,Buccaneers,National,Central,5,11,0,241,259,5,NFL
+1978,NFLTeam2,Dallas,Cowboys,National,Eastern,12,4,0,384,208,1,NFL
+1978,NFLTeam1,Philadelphia,Eagles,National,Eastern,9,7,0,270,250,2,NFL
+1978,NFLTeam4,Washington,Redskins,National,Eastern,8,8,0,273,283,3,NFL
+1978,NFLTeam5,St. Louis,Cardinals,National,Eastern,6,10,0,248,296,4,NFL
+1978,NFLTeam3,New York,Giants,National,Eastern,6,10,0,264,298,5,NFL
+1978,NFLTeam8,Los Angeles,Rams,National,Western,12,4,0,316,245,1,NFL
+1978,NFLTeam13,Atlanta,Falcons,National,Western,9,7,0,240,290,2,NFL
+1978,NFLTeam15,New Orleans,Saints,National,Western,7,9,0,281,298,3,NFL
+1978,NFLTeam6,San Francisco,49ers,National,Western,2,14,0,219,350,4,NFL
+1979,NFLTeam28,Pittsburgh,Steelers,American,Central,12,4,0,416,262,1,NFL
+1979,NFLTeam32,Houston,Oilers,American,Central,11,5,0,362,331,2,NFL
+1979,NFLTeam27,Cleveland,Browns,American,Central,9,7,0,359,352,3,NFL
+1979,NFLTeam26,Cincinnati,Bengals,American,Central,4,12,0,337,421,4,NFL
+1979,NFLTeam18,Miami,Dolphins,American,Eastern,10,6,0,341,257,1,NFL
+1979,NFLTeam19,New England,Patriots,American,Eastern,9,7,0,411,326,2,NFL
+1979,NFLTeam20,New York,Jets,American,Eastern,8,8,0,337,383,3,NFL
+1979,NFLTeam17,Buffalo,Bills,American,Eastern,7,9,0,268,279,4,NFL
+1979,NFLTeam30,Baltimore,Colts,American,Eastern,5,11,0,271,351,5,NFL
+1979,NFLTeam24,San Diego,Chargers,American,Western,12,4,0,411,246,1,NFL
+1979,NFLTeam21,Denver,Broncos,American,Western,10,6,0,289,262,2,NFL
+1979,NFLTeam7,Seattle,Seahawks,American,Western,9,7,0,378,372,3,NFL
+1979,NFLTeam23,Oakland,Raiders,American,Western,9,7,0,365,337,4,NFL
+1979,NFLTeam22,Kansas City,Chiefs,American,Western,7,9,0,238,262,5,NFL
+1979,NFLTeam16,Tampa Bay,Buccaneers,National,Central,10,6,0,273,237,1,NFL
+1979,NFLTeam9,Chicago,Bears,National,Central,10,6,0,306,249,2,NFL
+1979,NFLTeam12,Minnesota,Vikings,National,Central,7,9,0,259,337,3,NFL
+1979,NFLTeam11,Green Bay,Packers,National,Central,5,11,0,246,316,4,NFL
+1979,NFLTeam10,Detroit,Lions,National,Central,2,14,0,219,365,5,NFL
+1979,NFLTeam2,Dallas,Cowboys,National,Eastern,11,5,0,371,313,1,NFL
+1979,NFLTeam1,Philadelphia,Eagles,National,Eastern,11,5,0,339,282,2,NFL
+1979,NFLTeam4,Washington,Redskins,National,Eastern,10,6,0,348,295,3,NFL
+1979,NFLTeam3,New York,Giants,National,Eastern,6,10,0,237,323,4,NFL
+1979,NFLTeam5,St. Louis,Cardinals,National,Eastern,5,11,0,307,358,5,NFL
+1979,NFLTeam8,Los Angeles,Rams,National,Western,9,7,0,323,309,1,NFL
+1979,NFLTeam15,New Orleans,Saints,National,Western,8,8,0,370,360,2,NFL
+1979,NFLTeam13,Atlanta,Falcons,National,Western,6,10,0,300,388,3,NFL
+1979,NFLTeam6,San Francisco,49ers,National,Western,2,14,0,308,416,4,NFL
+1980,NFLTeam27,Cleveland,Browns,American,Central,11,5,0,357,310,1,NFL
+1980,NFLTeam32,Houston,Oilers,American,Central,11,5,0,295,251,2,NFL
+1980,NFLTeam28,Pittsburgh,Steelers,American,Central,9,7,0,352,313,3,NFL
+1980,NFLTeam26,Cincinnati,Bengals,American,Central,6,10,0,244,312,4,NFL
+1980,NFLTeam17,Buffalo,Bills,American,Eastern,11,5,0,320,260,1,NFL
+1980,NFLTeam19,New England,Patriots,American,Eastern,10,6,0,441,325,2,NFL
+1980,NFLTeam18,Miami,Dolphins,American,Eastern,8,8,0,266,305,3,NFL
+1980,NFLTeam30,Baltimore,Colts,American,Eastern,7,9,0,355,387,4,NFL
+1980,NFLTeam20,New York,Jets,American,Eastern,4,12,0,302,395,5,NFL
+1980,NFLTeam24,San Diego,Chargers,American,Western,11,5,0,418,327,1,NFL
+1980,NFLTeam23,Oakland,Raiders,American,Western,11,5,0,364,306,2,NFL
+1980,NFLTeam22,Kansas City,Chiefs,American,Western,8,8,0,319,336,3,NFL
+1980,NFLTeam21,Denver,Broncos,American,Western,8,8,0,310,323,4,NFL
+1980,NFLTeam7,Seattle,Seahawks,American,Western,4,12,0,291,408,5,NFL
+1980,NFLTeam12,Minnesota,Vikings,National,Central,9,7,0,317,308,1,NFL
+1980,NFLTeam10,Detroit,Lions,National,Central,9,7,0,334,272,2,NFL
+1980,NFLTeam9,Chicago,Bears,National,Central,7,9,0,304,264,3,NFL
+1980,NFLTeam16,Tampa Bay,Buccaneers,National,Central,5,10,1,271,341,4,NFL
+1980,NFLTeam11,Green Bay,Packers,National,Central,5,10,1,231,371,5,NFL
+1980,NFLTeam1,Philadelphia,Eagles,National,Eastern,12,4,0,384,222,1,NFL
+1980,NFLTeam2,Dallas,Cowboys,National,Eastern,12,4,0,454,311,2,NFL
+1980,NFLTeam4,Washington,Redskins,National,Eastern,6,10,0,261,293,3,NFL
+1980,NFLTeam5,St. Louis,Cardinals,National,Eastern,5,11,0,299,350,4,NFL
+1980,NFLTeam3,New York,Giants,National,Eastern,4,12,0,249,425,5,NFL
+1980,NFLTeam13,Atlanta,Falcons,National,Western,12,4,0,405,272,1,NFL
+1980,NFLTeam8,Los Angeles,Rams,National,Western,11,5,0,424,289,2,NFL
+1980,NFLTeam6,San Francisco,49ers,National,Western,6,10,0,320,415,3,NFL
+1980,NFLTeam15,New Orleans,Saints,National,Western,1,15,0,291,487,4,NFL
+1981,NFLTeam26,Cincinnati,Bengals,American,Central,12,4,0,421,304,1,NFL
+1981,NFLTeam28,Pittsburgh,Steelers,American,Central,8,8,0,356,297,2,NFL
+1981,NFLTeam32,Houston,Oilers,American,Central,7,9,0,281,355,3,NFL
+1981,NFLTeam27,Cleveland,Browns,American,Central,5,11,0,276,375,4,NFL
+1981,NFLTeam18,Miami,Dolphins,American,Eastern,11,4,1,345,275,1,NFL
+1981,NFLTeam20,New York,Jets,American,Eastern,10,5,1,355,287,2,NFL
+1981,NFLTeam17,Buffalo,Bills,American,Eastern,10,6,0,311,276,3,NFL
+1981,NFLTeam30,Baltimore,Colts,American,Eastern,2,14,0,259,533,4,NFL
+1981,NFLTeam19,New England,Patriots,American,Eastern,2,14,0,322,370,5,NFL
+1981,NFLTeam24,San Diego,Chargers,American,Western,10,6,0,478,390,1,NFL
+1981,NFLTeam21,Denver,Broncos,American,Western,10,6,0,321,289,2,NFL
+1981,NFLTeam22,Kansas City,Chiefs,American,Western,9,7,0,343,290,3,NFL
+1981,NFLTeam23,Oakland,Raiders,American,Western,7,9,0,273,343,4,NFL
+1981,NFLTeam7,Seattle,Seahawks,American,Western,6,10,0,322,388,5,NFL
+1981,NFLTeam16,Tampa Bay,Buccaneers,National,Central,9,7,0,315,268,1,NFL
+1981,NFLTeam10,Detroit,Lions,National,Central,8,8,0,397,322,2,NFL
+1981,NFLTeam11,Green Bay,Packers,National,Central,8,8,0,324,361,3,NFL
+1981,NFLTeam12,Minnesota,Vikings,National,Central,7,9,0,325,369,4,NFL
+1981,NFLTeam9,Chicago,Bears,National,Central,6,10,0,253,324,5,NFL
+1981,NFLTeam2,Dallas,Cowboys,National,Eastern,12,4,0,367,277,1,NFL
+1981,NFLTeam1,Philadelphia,Eagles,National,Eastern,10,6,0,368,221,2,NFL
+1981,NFLTeam3,New York,Giants,National,Eastern,9,7,0,295,257,3,NFL
+1981,NFLTeam4,Washington,Redskins,National,Eastern,8,8,0,347,349,4,NFL
+1981,NFLTeam5,St. Louis,Cardinals,National,Eastern,7,9,0,315,408,5,NFL
+1981,NFLTeam6,San Francisco,49ers,National,Western,13,3,0,357,250,1,NFL
+1981,NFLTeam13,Atlanta,Falcons,National,Western,7,9,0,426,355,2,NFL
+1981,NFLTeam8,Los Angeles,Rams,National,Western,6,10,0,303,351,3,NFL
+1981,NFLTeam15,New Orleans,Saints,National,Western,4,12,0,207,378,4,NFL
+1982,NFLTeam23,Los Angeles,Raiders,American,None,8,1,0,260,200,1,NFL
+1982,NFLTeam18,Miami,Dolphins,American,None,7,2,0,198,131,2,NFL
+1982,NFLTeam26,Cincinnati,Bengals,American,None,7,2,0,232,177,3,NFL
+1982,NFLTeam28,Pittsburgh,Steelers,American,None,6,3,0,204,146,4,NFL
+1982,NFLTeam24,San Diego,Chargers,American,None,6,3,0,288,221,5,NFL
+1982,NFLTeam20,New York,Jets,American,None,6,3,0,245,166,6,NFL
+1982,NFLTeam19,New England,Patriots,American,None,5,4,0,143,157,7,NFL
+1982,NFLTeam27,Cleveland,Browns,American,None,4,5,0,140,182,8,NFL
+1982,NFLTeam17,Buffalo,Bills,American,None,4,5,0,150,154,9,NFL
+1982,NFLTeam7,Seattle,Seahawks,American,None,4,5,0,127,147,10,NFL
+1982,NFLTeam22,Kansas City,Chiefs,American,None,3,6,0,176,184,11,NFL
+1982,NFLTeam21,Denver,Broncos,American,None,2,7,0,148,226,12,NFL
+1982,NFLTeam32,Houston,Oilers,American,None,1,8,0,136,245,13,NFL
+1982,NFLTeam30,Baltimore,Colts,American,None,0,8,1,113,236,14,NFL
+1982,NFLTeam4,Washington,Redskins,National,None,8,1,0,190,128,1,NFL
+1982,NFLTeam2,Dallas,Cowboys,National,None,6,3,0,226,145,2,NFL
+1982,NFLTeam11,Green Bay,Packers,National,None,5,3,1,226,169,3,NFL
+1982,NFLTeam12,Minnesota,Vikings,National,None,5,4,0,187,198,4,NFL
+1982,NFLTeam13,Atlanta,Falcons,National,None,5,4,0,183,199,5,NFL
+1982,NFLTeam5,St. Louis,Cardinals,National,None,5,4,0,135,170,6,NFL
+1982,NFLTeam16,Tampa Bay,Buccaneers,National,None,5,4,0,158,178,7,NFL
+1982,NFLTeam10,Detroit,Lions,National,None,4,5,0,181,176,8,NFL
+1982,NFLTeam15,New Orleans,Saints,National,None,4,5,0,129,160,9,NFL
+1982,NFLTeam3,New York,Giants,National,None,4,5,0,164,160,10,NFL
+1982,NFLTeam6,San Francisco,49ers,National,None,3,6,0,209,206,11,NFL
+1982,NFLTeam9,Chicago,Bears,National,None,3,6,0,141,174,12,NFL
+1982,NFLTeam1,Philadelphia,Eagles,National,None,3,6,0,191,195,13,NFL
+1982,NFLTeam8,Los Angeles,Rams,National,None,2,7,0,200,250,14,NFL
+1983,NFLTeam28,Pittsburgh,Steelers,American,Central,10,6,0,355,303,1,NFL
+1983,NFLTeam27,Cleveland,Browns,American,Central,9,7,0,356,342,2,NFL
+1983,NFLTeam26,Cincinnati,Bengals,American,Central,7,9,0,346,302,3,NFL
+1983,NFLTeam32,Houston,Oilers,American,Central,2,14,0,288,460,4,NFL
+1983,NFLTeam18,Miami,Dolphins,American,Eastern,12,4,0,389,250,1,NFL
+1983,NFLTeam19,New England,Patriots,American,Eastern,8,8,0,274,289,2,NFL
+1983,NFLTeam17,Buffalo,Bills,American,Eastern,8,8,0,283,351,3,NFL
+1983,NFLTeam30,Baltimore,Colts,American,Eastern,7,9,0,264,354,4,NFL
+1983,NFLTeam20,New York,Jets,American,Eastern,7,9,0,313,331,5,NFL
+1983,NFLTeam23,Los Angeles,Raiders,American,Western,12,4,0,442,338,1,NFL
+1983,NFLTeam7,Seattle,Seahawks,American,Western,9,7,0,403,397,2,NFL
+1983,NFLTeam21,Denver,Broncos,American,Western,9,7,0,302,327,3,NFL
+1983,NFLTeam24,San Diego,Chargers,American,Western,6,10,0,358,462,4,NFL
+1983,NFLTeam22,Kansas City,Chiefs,American,Western,6,10,0,386,367,5,NFL
+1983,NFLTeam10,Detroit,Lions,National,Central,9,7,0,347,286,1,NFL
+1983,NFLTeam11,Green Bay,Packers,National,Central,8,8,0,429,439,2,NFL
+1983,NFLTeam9,Chicago,Bears,National,Central,8,8,0,311,301,3,NFL
+1983,NFLTeam12,Minnesota,Vikings,National,Central,8,8,0,316,348,4,NFL
+1983,NFLTeam16,Tampa Bay,Buccaneers,National,Central,2,14,0,241,380,5,NFL
+1983,NFLTeam4,Washington,Redskins,National,Eastern,14,2,0,541,332,1,NFL
+1983,NFLTeam2,Dallas,Cowboys,National,Eastern,12,4,0,479,360,2,NFL
+1983,NFLTeam5,St. Louis,Cardinals,National,Eastern,8,7,1,374,428,3,NFL
+1983,NFLTeam1,Philadelphia,Eagles,National,Eastern,5,11,0,233,322,4,NFL
+1983,NFLTeam3,New York,Giants,National,Eastern,3,12,1,267,347,5,NFL
+1983,NFLTeam6,San Francisco,49ers,National,Western,10,6,0,432,293,1,NFL
+1983,NFLTeam8,Los Angeles,Rams,National,Western,9,7,0,361,344,2,NFL
+1983,NFLTeam15,New Orleans,Saints,National,Western,8,8,0,319,337,3,NFL
+1983,NFLTeam13,Atlanta,Falcons,National,Western,7,9,0,370,389,4,NFL
+1983,USFLTeam1,Philadelphia,Stars,None,Atlantic,15,3,0,379,204,1,USFL
+1983,USFLTeam2,Boston,Breakers,None,Atlantic,11,7,0,399,334,2,USFL
+1983,USFLTeam3,New Jersey,Generals,None,Atlantic,6,12,0,314,437,3,USFL
+1983,USFLTeam4,Washington,Federals,None,Atlantic,4,14,0,297,442,4,USFL
+1983,USFLTeam5,Michigan,Panthers,None,Central,12,6,0,451,337,1,USFL
+1983,USFLTeam6,Chicago,Blitz,None,Central,12,6,0,456,271,2,USFL
+1983,USFLTeam7,Tampa Bay,Bandits,None,Central,11,7,0,363,378,3,USFL
+1983,USFLTeam8,Birmingham,Stallions,None,Central,9,9,0,343,326,4,USFL
+1983,USFLTeam9,Oakland,Invaders,None,Pacific,9,9,0,319,317,1,USFL
+1983,USFLTeam10,Los Angeles,Express,None,Pacific,8,10,0,296,370,2,USFL
+1983,USFLTeam11,Denver,Gold,None,Pacific,7,11,0,284,304,3,USFL
+1983,USFLTeam12,Arizona,Wranglers,None,Pacific,4,14,0,261,442,4,USFL
+1984,NFLTeam28,Pittsburgh,Steelers,American,Central,9,7,0,387,310,1,NFL
+1984,NFLTeam26,Cincinnati,Bengals,American,Central,8,8,0,339,339,2,NFL
+1984,NFLTeam27,Cleveland,Browns,American,Central,5,11,0,250,297,3,NFL
+1984,NFLTeam32,Houston,Oilers,American,Central,3,13,0,240,437,4,NFL
+1984,NFLTeam18,Miami,Dolphins,American,Eastern,14,2,0,513,298,1,NFL
+1984,NFLTeam19,New England,Patriots,American,Eastern,9,7,0,362,352,2,NFL
+1984,NFLTeam20,New York,Jets,American,Eastern,7,9,0,332,364,3,NFL
+1984,NFLTeam30,Indianapolis,Colts,American,Eastern,4,12,0,239,414,4,NFL
+1984,NFLTeam17,Buffalo,Bills,American,Eastern,2,14,0,250,454,5,NFL
+1984,NFLTeam21,Denver,Broncos,American,Western,13,3,0,353,241,1,NFL
+1984,NFLTeam7,Seattle,Seahawks,American,Western,12,4,0,418,282,2,NFL
+1984,NFLTeam23,Los Angeles,Raiders,American,Western,11,5,0,368,278,3,NFL
+1984,NFLTeam22,Kansas City,Chiefs,American,Western,8,8,0,314,324,4,NFL
+1984,NFLTeam24,San Diego,Chargers,American,Western,7,9,0,394,413,5,NFL
+1984,USFLTeam1,Philadelphia,Stars,Eastern,Atlantic,16,2,0,479,225,1,USFL
+1984,USFLTeam3,New Jersey,Generals,Eastern,Atlantic,14,4,0,430,312,2,USFL
+1984,USFLTeam16,Pittsburgh,Maulers,Eastern,Atlantic,3,15,0,259,379,3,USFL
+1984,USFLTeam4,Washington,Federals,Eastern,Atlantic,3,15,0,270,492,4,USFL
+1984,USFLTeam8,Birmingham,Stallions,Eastern,Southern,14,4,0,539,316,1,USFL
+1984,USFLTeam7,Tampa Bay,Bandits,Eastern,Southern,14,4,0,498,347,2,USFL
+1984,USFLTeam2,New Orleans,Breakers,Eastern,Southern,8,10,0,348,395,3,USFL
+1984,USFLTeam14,Memphis,Showboats,Eastern,Southern,7,11,0,320,455,4,USFL
+1984,USFLTeam15,Jacksonville,Bulls,Eastern,Southern,6,12,0,327,455,5,USFL
+1984,NFLTeam9,Chicago,Bears,National,Central,10,6,0,325,248,1,NFL
+1984,NFLTeam11,Green Bay,Packers,National,Central,8,8,0,390,309,2,NFL
+1984,NFLTeam16,Tampa Bay,Buccaneers,National,Central,6,10,0,335,380,3,NFL
+1984,NFLTeam10,Detroit,Lions,National,Central,4,11,1,283,408,4,NFL
+1984,NFLTeam12,Minnesota,Vikings,National,Central,3,13,0,276,484,5,NFL
+1984,NFLTeam4,Washington,Redskins,National,Eastern,11,5,0,426,310,1,NFL
+1984,NFLTeam3,New York,Giants,National,Eastern,9,7,0,299,301,2,NFL
+1984,NFLTeam5,St. Louis,Cardinals,National,Eastern,9,7,0,423,345,3,NFL
+1984,NFLTeam2,Dallas,Cowboys,National,Eastern,9,7,0,308,308,4,NFL
+1984,NFLTeam1,Philadelphia,Eagles,National,Eastern,6,9,1,278,320,5,NFL
+1984,NFLTeam6,San Francisco,49ers,National,Western,15,1,0,475,227,1,NFL
+1984,NFLTeam8,Los Angeles,Rams,National,Western,10,6,0,346,316,2,NFL
+1984,NFLTeam15,New Orleans,Saints,National,Western,7,9,0,298,361,3,NFL
+1984,NFLTeam13,Atlanta,Falcons,National,Western,4,12,0,281,382,4,NFL
+1984,USFLTeam13,Houston,Gamblers,Western,Central,13,5,0,618,400,1,USFL
+1984,USFLTeam5,Michigan,Panthers,Western,Central,10,8,0,400,382,2,USFL
+1984,USFLTeam17,San Antonio,Gunslingers,Western,Central,7,11,0,309,325,3,USFL
+1984,USFLTeam18,Oklahoma,Outlaws,Western,Central,6,12,0,251,459,4,USFL
+1984,USFLTeam6,Chicago,Blitz,Western,Central,5,13,0,340,466,5,USFL
+1984,USFLTeam10,Los Angeles,Express,Western,Pacific,10,8,0,338,373,1,USFL
+1984,USFLTeam12,Arizona,Wranglers,Western,Pacific,10,8,0,502,284,2,USFL
+1984,USFLTeam11,Denver,Gold,Western,Pacific,9,9,0,356,413,3,USFL
+1984,USFLTeam9,Oakland,Invaders,Western,Pacific,7,11,0,242,348,4,USFL
+1985,NFLTeam27,Cleveland,Browns,American,Central,8,8,0,287,294,1,NFL
+1985,NFLTeam26,Cincinnati,Bengals,American,Central,7,9,0,441,437,2,NFL
+1985,NFLTeam28,Pittsburgh,Steelers,American,Central,7,9,0,379,355,3,NFL
+1985,NFLTeam32,Houston,Oilers,American,Central,5,11,0,284,412,4,NFL
+1985,NFLTeam18,Miami,Dolphins,American,Eastern,12,4,0,428,320,1,NFL
+1985,NFLTeam20,New York,Jets,American,Eastern,11,5,0,393,264,2,NFL
+1985,NFLTeam19,New England,Patriots,American,Eastern,11,5,0,362,290,3,NFL
+1985,NFLTeam30,Indianapolis,Colts,American,Eastern,5,11,0,320,386,4,NFL
+1985,NFLTeam17,Buffalo,Bills,American,Eastern,2,14,0,200,381,5,NFL
+1985,NFLTeam23,Los Angeles,Raiders,American,Western,12,4,0,354,308,1,NFL
+1985,NFLTeam21,Denver,Broncos,American,Western,11,5,0,380,329,2,NFL
+1985,NFLTeam7,Seattle,Seahawks,American,Western,8,8,0,349,303,3,NFL
+1985,NFLTeam24,San Diego,Chargers,American,Western,8,8,0,467,435,4,NFL
+1985,NFLTeam22,Kansas City,Chiefs,American,Western,6,10,0,317,360,5,NFL
+1985,USFLTeam8,Birmingham,Stallions,Eastern,None,13,5,0,436,299,1,USFL
+1985,USFLTeam3,New Jersey,Generals,Eastern,None,11,7,0,418,378,2,USFL
+1985,USFLTeam14,Memphis,Showboats,Eastern,None,11,7,0,429,337,3,USFL
+1985,USFLTeam1,Baltimore,Stars,Eastern,None,10,7,1,368,260,4,USFL
+1985,USFLTeam7,Tampa Bay,Bandits,Eastern,None,10,8,0,405,422,5,USFL
+1985,USFLTeam15,Jacksonville,Bulls,Eastern,None,9,9,0,407,402,6,USFL
+1985,USFLTeam4,Orlando,Renegades,Eastern,None,5,13,0,308,481,7,USFL
+1985,NFLTeam9,Chicago,Bears,National,Central,15,1,0,456,198,1,NFL
+1985,NFLTeam11,Green Bay,Packers,National,Central,8,8,0,337,355,2,NFL
+1985,NFLTeam12,Minnesota,Vikings,National,Central,7,9,0,346,359,3,NFL
+1985,NFLTeam10,Detroit,Lions,National,Central,7,9,0,307,366,4,NFL
+1985,NFLTeam16,Tampa Bay,Buccaneers,National,Central,2,14,0,294,448,5,NFL
+1985,NFLTeam2,Dallas,Cowboys,National,Eastern,10,6,0,357,333,1,NFL
+1985,NFLTeam3,New York,Giants,National,Eastern,10,6,0,399,283,2,NFL
+1985,NFLTeam4,Washington,Redskins,National,Eastern,10,6,0,297,312,3,NFL
+1985,NFLTeam1,Philadelphia,Eagles,National,Eastern,7,9,0,286,310,4,NFL
+1985,NFLTeam5,St. Louis,Cardinals,National,Eastern,5,11,0,278,414,5,NFL
+1985,NFLTeam8,Los Angeles,Rams,National,Western,11,5,0,340,277,1,NFL
+1985,NFLTeam6,San Francisco,49ers,National,Western,10,6,0,411,263,2,NFL
+1985,NFLTeam15,New Orleans,Saints,National,Western,5,11,0,294,401,3,NFL
+1985,NFLTeam13,Atlanta,Falcons,National,Western,4,12,0,282,452,4,NFL
+1985,USFLTeam9,Oakland,Invaders,Western,None,13,4,1,473,359,1,USFL
+1985,USFLTeam11,Denver,Gold,Western,None,11,7,0,433,389,2,USFL
+1985,USFLTeam13,Houston,Gamblers,Western,None,10,8,0,544,388,3,USFL
+1985,USFLTeam12,Arizona,Outlaws,Western,None,8,10,0,376,405,4,USFL
+1985,USFLTeam2,Portland,Breakers,Western,None,6,12,0,275,422,5,USFL
+1985,USFLTeam17,San Antonio,Gunslingers,Western,None,5,13,0,296,436,6,USFL
+1985,USFLTeam10,Los Angeles,Express,Western,None,3,15,0,266,456,7,USFL
+1986,NFLTeam27,Cleveland,Browns,American,Central,12,4,0,391,310,1,NFL
+1986,NFLTeam26,Cincinnati,Bengals,American,Central,10,6,0,409,394,2,NFL
+1986,NFLTeam28,Pittsburgh,Steelers,American,Central,6,10,0,307,336,3,NFL
+1986,NFLTeam32,Houston,Oilers,American,Central,5,11,0,274,329,4,NFL
+1986,NFLTeam19,New England,Patriots,American,Eastern,11,5,0,412,307,1,NFL
+1986,NFLTeam20,New York,Jets,American,Eastern,10,6,0,364,386,2,NFL
+1986,NFLTeam18,Miami,Dolphins,American,Eastern,8,8,0,430,405,3,NFL
+1986,NFLTeam17,Buffalo,Bills,American,Eastern,4,12,0,287,348,4,NFL
+1986,NFLTeam30,Indianapolis,Colts,American,Eastern,3,13,0,229,400,5,NFL
+1986,NFLTeam21,Denver,Broncos,American,Western,11,5,0,378,327,1,NFL
+1986,NFLTeam22,Kansas City,Chiefs,American,Western,10,6,0,358,326,2,NFL
+1986,NFLTeam7,Seattle,Seahawks,American,Western,10,6,0,366,293,3,NFL
+1986,NFLTeam23,Los Angeles,Raiders,American,Western,8,8,0,323,346,4,NFL
+1986,NFLTeam24,San Diego,Chargers,American,Western,4,12,0,335,396,5,NFL
+1986,NFLTeam9,Chicago,Bears,National,Central,14,2,0,352,187,1,NFL
+1986,NFLTeam12,Minnesota,Vikings,National,Central,9,7,0,398,273,2,NFL
+1986,NFLTeam10,Detroit,Lions,National,Central,5,11,0,277,326,3,NFL
+1986,NFLTeam11,Green Bay,Packers,National,Central,4,12,0,254,418,4,NFL
+1986,NFLTeam16,Tampa Bay,Buccaneers,National,Central,2,14,0,239,473,5,NFL
+1986,NFLTeam3,New York,Giants,National,Eastern,14,2,0,371,236,1,NFL
+1986,NFLTeam4,Washington,Redskins,National,Eastern,12,4,0,368,296,2,NFL
+1986,NFLTeam2,Dallas,Cowboys,National,Eastern,7,9,0,346,337,3,NFL
+1986,NFLTeam1,Philadelphia,Eagles,National,Eastern,5,10,1,256,312,4,NFL
+1986,NFLTeam5,St. Louis,Cardinals,National,Eastern,4,11,1,218,351,5,NFL
+1986,NFLTeam6,San Francisco,49ers,National,Western,10,5,1,374,247,1,NFL
+1986,NFLTeam8,Los Angeles,Rams,National,Western,10,6,0,309,267,2,NFL
+1986,NFLTeam13,Atlanta,Falcons,National,Western,7,8,1,280,280,3,NFL
+1986,NFLTeam15,New Orleans,Saints,National,Western,7,9,0,288,287,4,NFL
+1987,NFLTeam27,Cleveland,Browns,American,Central,10,5,0,390,239,1,NFL
+1987,NFLTeam32,Houston,Oilers,American,Central,9,6,0,345,349,2,NFL
+1987,NFLTeam28,Pittsburgh,Steelers,American,Central,8,7,0,285,299,3,NFL
+1987,NFLTeam26,Cincinnati,Bengals,American,Central,4,11,0,285,370,4,NFL
+1987,NFLTeam30,Indianapolis,Colts,American,Eastern,9,6,0,300,238,1,NFL
+1987,NFLTeam19,New England,Patriots,American,Eastern,8,7,0,320,293,2,NFL
+1987,NFLTeam18,Miami,Dolphins,American,Eastern,8,7,0,362,335,3,NFL
+1987,NFLTeam17,Buffalo,Bills,American,Eastern,7,8,0,270,305,4,NFL
+1987,NFLTeam20,New York,Jets,American,Eastern,6,9,0,334,360,5,NFL
+1987,NFLTeam21,Denver,Broncos,American,Western,10,4,1,379,288,1,NFL
+1987,NFLTeam7,Seattle,Seahawks,American,Western,9,6,0,371,314,2,NFL
+1987,NFLTeam24,San Diego,Chargers,American,Western,8,7,0,253,317,3,NFL
+1987,NFLTeam23,Los Angeles,Raiders,American,Western,5,10,0,301,289,4,NFL
+1987,NFLTeam22,Kansas City,Chiefs,American,Western,4,11,0,273,388,5,NFL
+1987,NFLTeam9,Chicago,Bears,National,Central,11,4,0,356,282,1,NFL
+1987,NFLTeam12,Minnesota,Vikings,National,Central,8,7,0,336,335,2,NFL
+1987,NFLTeam11,Green Bay,Packers,National,Central,5,9,1,255,300,3,NFL
+1987,NFLTeam16,Tampa Bay,Buccaneers,National,Central,4,11,0,286,360,4,NFL
+1987,NFLTeam10,Detroit,Lions,National,Central,4,11,0,269,384,5,NFL
+1987,NFLTeam4,Washington,Redskins,National,Eastern,11,4,0,379,285,1,NFL
+1987,NFLTeam2,Dallas,Cowboys,National,Eastern,7,8,0,340,348,2,NFL
+1987,NFLTeam5,St. Louis,Cardinals,National,Eastern,7,8,0,362,368,3,NFL
+1987,NFLTeam1,Philadelphia,Eagles,National,Eastern,7,8,0,337,380,4,NFL
+1987,NFLTeam3,New York,Giants,National,Eastern,6,9,0,280,312,5,NFL
+1987,NFLTeam6,San Francisco,49ers,National,Western,13,2,0,459,253,1,NFL
+1987,NFLTeam15,New Orleans,Saints,National,Western,12,3,0,422,283,2,NFL
+1987,NFLTeam8,Los Angeles,Rams,National,Western,6,9,0,317,361,3,NFL
+1987,NFLTeam13,Atlanta,Falcons,National,Western,3,12,0,205,436,4,NFL
+1988,NFLTeam26,Cincinnati,Bengals,American,Central,12,4,0,448,329,1,NFL
+1988,NFLTeam27,Cleveland,Browns,American,Central,10,6,0,304,288,2,NFL
+1988,NFLTeam32,Houston,Oilers,American,Central,10,6,0,424,365,3,NFL
+1988,NFLTeam28,Pittsburgh,Steelers,American,Central,5,11,0,336,421,4,NFL
+1988,NFLTeam17,Buffalo,Bills,American,Eastern,12,4,0,329,237,1,NFL
+1988,NFLTeam30,Indianapolis,Colts,American,Eastern,9,7,0,354,315,2,NFL
+1988,NFLTeam19,New England,Patriots,American,Eastern,9,7,0,250,284,3,NFL
+1988,NFLTeam20,New York,Jets,American,Eastern,8,7,1,372,354,4,NFL
+1988,NFLTeam18,Miami,Dolphins,American,Eastern,6,10,0,319,380,5,NFL
+1988,NFLTeam7,Seattle,Seahawks,American,Western,9,7,0,339,329,1,NFL
+1988,NFLTeam21,Denver,Broncos,American,Western,8,8,0,327,352,2,NFL
+1988,NFLTeam23,Los Angeles,Raiders,American,Western,7,9,0,325,369,3,NFL
+1988,NFLTeam24,San Diego,Chargers,American,Western,6,10,0,231,332,4,NFL
+1988,NFLTeam22,Kansas City,Chiefs,American,Western,4,11,1,254,320,5,NFL
+1988,NFLTeam9,Chicago,Bears,National,Central,12,4,0,312,215,1,NFL
+1988,NFLTeam12,Minnesota,Vikings,National,Central,11,5,0,406,233,2,NFL
+1988,NFLTeam16,Tampa Bay,Buccaneers,National,Central,5,11,0,261,350,3,NFL
+1988,NFLTeam10,Detroit,Lions,National,Central,4,12,0,220,313,4,NFL
+1988,NFLTeam11,Green Bay,Packers,National,Central,4,12,0,240,315,5,NFL
+1988,NFLTeam1,Philadelphia,Eagles,National,Eastern,10,6,0,379,319,1,NFL
+1988,NFLTeam3,New York,Giants,National,Eastern,10,6,0,359,304,2,NFL
+1988,NFLTeam4,Washington,Redskins,National,Eastern,7,9,0,345,387,3,NFL
+1988,NFLTeam5,Phoenix,Cardinals,National,Eastern,7,9,0,344,398,4,NFL
+1988,NFLTeam2,Dallas,Cowboys,National,Eastern,3,13,0,265,381,5,NFL
+1988,NFLTeam6,San Francisco,49ers,National,Western,10,6,0,369,294,1,NFL
+1988,NFLTeam8,Los Angeles,Rams,National,Western,10,6,0,407,293,2,NFL
+1988,NFLTeam15,New Orleans,Saints,National,Western,10,6,0,312,283,3,NFL
+1988,NFLTeam13,Atlanta,Falcons,National,Western,5,11,0,244,315,4,NFL
+1989,NFLTeam27,Cleveland,Browns,American,Central,9,6,1,334,254,1,NFL
+1989,NFLTeam32,Houston,Oilers,American,Central,9,7,0,365,412,2,NFL
+1989,NFLTeam28,Pittsburgh,Steelers,American,Central,9,7,0,265,326,3,NFL
+1989,NFLTeam26,Cincinnati,Bengals,American,Central,8,8,0,404,285,4,NFL
+1989,NFLTeam17,Buffalo,Bills,American,Eastern,9,7,0,409,317,1,NFL
+1989,NFLTeam30,Indianapolis,Colts,American,Eastern,8,8,0,298,301,2,NFL
+1989,NFLTeam18,Miami,Dolphins,American,Eastern,8,8,0,331,379,3,NFL
+1989,NFLTeam19,New England,Patriots,American,Eastern,5,11,0,297,391,4,NFL
+1989,NFLTeam20,New York,Jets,American,Eastern,4,12,0,253,411,5,NFL
+1989,NFLTeam21,Denver,Broncos,American,Western,11,5,0,362,226,1,NFL
+1989,NFLTeam22,Kansas City,Chiefs,American,Western,8,7,1,318,286,2,NFL
+1989,NFLTeam23,Los Angeles,Raiders,American,Western,8,8,0,315,297,3,NFL
+1989,NFLTeam7,Seattle,Seahawks,American,Western,7,9,0,241,327,4,NFL
+1989,NFLTeam24,San Diego,Chargers,American,Western,6,10,0,266,290,5,NFL
+1989,NFLTeam12,Minnesota,Vikings,National,Central,10,6,0,351,275,1,NFL
+1989,NFLTeam11,Green Bay,Packers,National,Central,10,6,0,362,356,2,NFL
+1989,NFLTeam10,Detroit,Lions,National,Central,7,9,0,312,364,3,NFL
+1989,NFLTeam9,Chicago,Bears,National,Central,6,10,0,358,377,4,NFL
+1989,NFLTeam16,Tampa Bay,Buccaneers,National,Central,5,11,0,320,419,5,NFL
+1989,NFLTeam3,New York,Giants,National,Eastern,12,4,0,348,252,1,NFL
+1989,NFLTeam1,Philadelphia,Eagles,National,Eastern,11,5,0,342,274,2,NFL
+1989,NFLTeam4,Washington,Redskins,National,Eastern,10,6,0,386,308,3,NFL
+1989,NFLTeam5,Phoenix,Cardinals,National,Eastern,5,11,0,258,377,4,NFL
+1989,NFLTeam2,Dallas,Cowboys,National,Eastern,1,15,0,204,393,5,NFL
+1989,NFLTeam6,San Francisco,49ers,National,Western,14,2,0,442,253,1,NFL
+1989,NFLTeam8,Los Angeles,Rams,National,Western,11,5,0,426,344,2,NFL
+1989,NFLTeam15,New Orleans,Saints,National,Western,9,7,0,386,301,3,NFL
+1989,NFLTeam13,Atlanta,Falcons,National,Western,3,13,0,279,437,4,NFL
+1990,NFLTeam26,Cincinnati,Bengals,American,Central,9,7,0,360,352,1,NFL
+1990,NFLTeam32,Houston,Oilers,American,Central,9,7,0,405,307,2,NFL
+1990,NFLTeam28,Pittsburgh,Steelers,American,Central,9,7,0,292,240,3,NFL
+1990,NFLTeam27,Cleveland,Browns,American,Central,3,13,0,228,462,4,NFL
+1990,NFLTeam17,Buffalo,Bills,American,Eastern,13,3,0,428,263,1,NFL
+1990,NFLTeam18,Miami,Dolphins,American,Eastern,12,4,0,336,242,2,NFL
+1990,NFLTeam30,Indianapolis,Colts,American,Eastern,7,9,0,281,353,3,NFL
+1990,NFLTeam20,New York,Jets,American,Eastern,6,10,0,295,345,4,NFL
+1990,NFLTeam19,New England,Patriots,American,Eastern,1,15,0,181,446,5,NFL
+1990,NFLTeam23,Los Angeles,Raiders,American,Western,12,4,0,337,268,1,NFL
+1990,NFLTeam22,Kansas City,Chiefs,American,Western,11,5,0,369,257,2,NFL
+1990,NFLTeam7,Seattle,Seahawks,American,Western,9,7,0,306,286,3,NFL
+1990,NFLTeam24,San Diego,Chargers,American,Western,6,10,0,315,281,4,NFL
+1990,NFLTeam21,Denver,Broncos,American,Western,5,11,0,331,374,5,NFL
+1990,NFLTeam9,Chicago,Bears,National,Central,11,5,0,348,280,1,NFL
+1990,NFLTeam16,Tampa Bay,Buccaneers,National,Central,6,10,0,264,367,2,NFL
+1990,NFLTeam10,Detroit,Lions,National,Central,6,10,0,373,413,3,NFL
+1990,NFLTeam11,Green Bay,Packers,National,Central,6,10,0,271,347,4,NFL
+1990,NFLTeam12,Minnesota,Vikings,National,Central,6,10,0,351,326,5,NFL
+1990,NFLTeam3,New York,Giants,National,Eastern,13,3,0,335,211,1,NFL
+1990,NFLTeam1,Philadelphia,Eagles,National,Eastern,10,6,0,396,299,2,NFL
+1990,NFLTeam4,Washington,Redskins,National,Eastern,10,6,0,381,301,3,NFL
+1990,NFLTeam2,Dallas,Cowboys,National,Eastern,7,9,0,244,308,4,NFL
+1990,NFLTeam5,Phoenix,Cardinals,National,Eastern,5,11,0,268,396,5,NFL
+1990,NFLTeam6,San Francisco,49ers,National,Western,14,2,0,353,239,1,NFL
+1990,NFLTeam15,New Orleans,Saints,National,Western,8,8,0,274,275,2,NFL
+1990,NFLTeam8,Los Angeles,Rams,National,Western,5,11,0,345,412,3,NFL
+1990,NFLTeam13,Atlanta,Falcons,National,Western,5,11,0,348,365,4,NFL
+1991,NFLTeam32,Houston,Oilers,American,Central,11,5,0,386,251,1,NFL
+1991,NFLTeam28,Pittsburgh,Steelers,American,Central,7,9,0,292,344,2,NFL
+1991,NFLTeam27,Cleveland,Browns,American,Central,6,10,0,293,298,3,NFL
+1991,NFLTeam26,Cincinnati,Bengals,American,Central,3,13,0,263,435,4,NFL
+1991,NFLTeam17,Buffalo,Bills,American,Eastern,13,3,0,458,318,1,NFL
+1991,NFLTeam20,New York,Jets,American,Eastern,8,8,0,314,293,2,NFL
+1991,NFLTeam18,Miami,Dolphins,American,Eastern,8,8,0,343,349,3,NFL
+1991,NFLTeam19,New England,Patriots,American,Eastern,6,10,0,211,305,4,NFL
+1991,NFLTeam30,Indianapolis,Colts,American,Eastern,1,15,0,143,381,5,NFL
+1991,NFLTeam21,Denver,Broncos,American,Western,12,4,0,304,235,1,NFL
+1991,NFLTeam22,Kansas City,Chiefs,American,Western,10,6,0,322,252,2,NFL
+1991,NFLTeam23,Los Angeles,Raiders,American,Western,9,7,0,298,297,3,NFL
+1991,NFLTeam7,Seattle,Seahawks,American,Western,7,9,0,276,261,4,NFL
+1991,NFLTeam24,San Diego,Chargers,American,Western,4,12,0,274,342,5,NFL
+1991,NFLTeam10,Detroit,Lions,National,Central,12,4,0,339,295,1,NFL
+1991,NFLTeam9,Chicago,Bears,National,Central,11,5,0,299,269,2,NFL
+1991,NFLTeam12,Minnesota,Vikings,National,Central,8,8,0,301,306,3,NFL
+1991,NFLTeam11,Green Bay,Packers,National,Central,4,12,0,273,313,4,NFL
+1991,NFLTeam16,Tampa Bay,Buccaneers,National,Central,3,13,0,199,365,5,NFL
+1991,NFLTeam4,Washington,Redskins,National,Eastern,14,2,0,485,224,1,NFL
+1991,NFLTeam2,Dallas,Cowboys,National,Eastern,11,5,0,342,310,2,NFL
+1991,NFLTeam1,Philadelphia,Eagles,National,Eastern,10,6,0,285,244,3,NFL
+1991,NFLTeam3,New York,Giants,National,Eastern,8,8,0,281,297,4,NFL
+1991,NFLTeam5,Phoenix,Cardinals,National,Eastern,4,12,0,196,344,5,NFL
+1991,NFLTeam15,New Orleans,Saints,National,Western,11,5,0,341,211,1,NFL
+1991,NFLTeam13,Atlanta,Falcons,National,Western,10,6,0,361,338,2,NFL
+1991,NFLTeam6,San Francisco,49ers,National,Western,10,6,0,393,239,3,NFL
+1991,NFLTeam8,Los Angeles,Rams,National,Western,3,13,0,234,390,4,NFL
+1992,NFLTeam28,Pittsburgh,Steelers,American,Central,11,5,0,299,225,1,NFL
+1992,NFLTeam32,Houston,Oilers,American,Central,10,6,0,352,258,2,NFL
+1992,NFLTeam27,Cleveland,Browns,American,Central,7,9,0,272,275,3,NFL
+1992,NFLTeam26,Cincinnati,Bengals,American,Central,5,11,0,274,364,4,NFL
+1992,NFLTeam18,Miami,Dolphins,American,Eastern,11,5,0,340,281,1,NFL
+1992,NFLTeam17,Buffalo,Bills,American,Eastern,11,5,0,381,283,2,NFL
+1992,NFLTeam30,Indianapolis,Colts,American,Eastern,9,7,0,216,302,3,NFL
+1992,NFLTeam20,New York,Jets,American,Eastern,4,12,0,220,315,4,NFL
+1992,NFLTeam19,New England,Patriots,American,Eastern,2,14,0,205,363,5,NFL
+1992,NFLTeam24,San Diego,Chargers,American,Western,11,5,0,335,241,1,NFL
+1992,NFLTeam22,Kansas City,Chiefs,American,Western,10,6,0,348,282,2,NFL
+1992,NFLTeam21,Denver,Broncos,American,Western,8,8,0,262,329,3,NFL
+1992,NFLTeam23,Los Angeles,Raiders,American,Western,7,9,0,249,281,4,NFL
+1992,NFLTeam7,Seattle,Seahawks,American,Western,2,14,0,140,312,5,NFL
+1992,NFLTeam12,Minnesota,Vikings,National,Central,11,5,0,374,249,1,NFL
+1992,NFLTeam11,Green Bay,Packers,National,Central,9,7,0,276,296,2,NFL
+1992,NFLTeam16,Tampa Bay,Buccaneers,National,Central,5,11,0,267,365,3,NFL
+1992,NFLTeam9,Chicago,Bears,National,Central,5,11,0,295,361,4,NFL
+1992,NFLTeam10,Detroit,Lions,National,Central,5,11,0,273,332,5,NFL
+1992,NFLTeam2,Dallas,Cowboys,National,Eastern,13,3,0,409,243,1,NFL
+1992,NFLTeam1,Philadelphia,Eagles,National,Eastern,11,5,0,354,245,2,NFL
+1992,NFLTeam4,Washington,Redskins,National,Eastern,9,7,0,300,255,3,NFL
+1992,NFLTeam3,New York,Giants,National,Eastern,6,10,0,306,367,4,NFL
+1992,NFLTeam5,Phoenix,Cardinals,National,Eastern,4,12,0,243,332,5,NFL
+1992,NFLTeam6,San Francisco,49ers,National,Western,14,2,0,431,236,1,NFL
+1992,NFLTeam15,New Orleans,Saints,National,Western,12,4,0,330,202,2,NFL
+1992,NFLTeam13,Atlanta,Falcons,National,Western,6,10,0,327,414,3,NFL
+1992,NFLTeam8,Los Angeles,Rams,National,Western,6,10,0,313,383,4,NFL
+1993,NFLTeam32,Houston,Oilers,American,Central,12,4,0,368,238,1,NFL
+1993,NFLTeam28,Pittsburgh,Steelers,American,Central,9,7,0,308,281,2,NFL
+1993,NFLTeam27,Cleveland,Browns,American,Central,7,9,0,304,307,3,NFL
+1993,NFLTeam26,Cincinnati,Bengals,American,Central,3,13,0,187,319,4,NFL
+1993,NFLTeam17,Buffalo,Bills,American,Eastern,12,4,0,329,242,1,NFL
+1993,NFLTeam18,Miami,Dolphins,American,Eastern,9,7,0,349,351,2,NFL
+1993,NFLTeam20,New York,Jets,American,Eastern,8,8,0,270,247,3,NFL
+1993,NFLTeam19,New England,Patriots,American,Eastern,5,11,0,238,286,4,NFL
+1993,NFLTeam30,Indianapolis,Colts,American,Eastern,4,12,0,189,378,5,NFL
+1993,NFLTeam22,Kansas City,Chiefs,American,Western,11,5,0,328,291,1,NFL
+1993,NFLTeam23,Los Angeles,Raiders,American,Western,10,6,0,306,326,2,NFL
+1993,NFLTeam21,Denver,Broncos,American,Western,9,7,0,373,284,3,NFL
+1993,NFLTeam24,San Diego,Chargers,American,Western,8,8,0,322,290,4,NFL
+1993,NFLTeam7,Seattle,Seahawks,American,Western,6,10,0,280,314,5,NFL
+1993,NFLTeam10,Detroit,Lions,National,Central,10,6,0,298,292,1,NFL
+1993,NFLTeam12,Minnesota,Vikings,National,Central,9,7,0,277,290,2,NFL
+1993,NFLTeam11,Green Bay,Packers,National,Central,9,7,0,340,282,3,NFL
+1993,NFLTeam9,Chicago,Bears,National,Central,7,9,0,234,230,4,NFL
+1993,NFLTeam16,Tampa Bay,Buccaneers,National,Central,5,11,0,237,376,5,NFL
+1993,NFLTeam2,Dallas,Cowboys,National,Eastern,12,4,0,376,229,1,NFL
+1993,NFLTeam3,New York,Giants,National,Eastern,11,5,0,288,205,2,NFL
+1993,NFLTeam1,Philadelphia,Eagles,National,Eastern,8,8,0,293,315,3,NFL
+1993,NFLTeam5,Phoenix,Cardinals,National,Eastern,7,9,0,326,269,4,NFL
+1993,NFLTeam4,Washington,Redskins,National,Eastern,4,12,0,230,345,5,NFL
+1993,NFLTeam6,San Francisco,49ers,National,Western,10,6,0,473,295,1,NFL
+1993,NFLTeam15,New Orleans,Saints,National,Western,8,8,0,317,343,2,NFL
+1993,NFLTeam13,Atlanta,Falcons,National,Western,6,10,0,316,385,3,NFL
+1993,NFLTeam8,Los Angeles,Rams,National,Western,5,11,0,221,367,4,NFL
+1994,NFLTeam28,Pittsburgh,Steelers,American,Central,12,4,0,316,234,1,NFL
+1994,NFLTeam27,Cleveland,Browns,American,Central,11,5,0,340,204,2,NFL
+1994,NFLTeam26,Cincinnati,Bengals,American,Central,3,13,0,276,406,3,NFL
+1994,NFLTeam32,Houston,Oilers,American,Central,2,14,0,226,352,4,NFL
+1994,NFLTeam18,Miami,Dolphins,American,Eastern,10,6,0,389,327,1,NFL
+1994,NFLTeam19,New England,Patriots,American,Eastern,10,6,0,351,312,2,NFL
+1994,NFLTeam30,Indianapolis,Colts,American,Eastern,8,8,0,307,320,3,NFL
+1994,NFLTeam17,Buffalo,Bills,American,Eastern,7,9,0,340,356,4,NFL
+1994,NFLTeam20,New York,Jets,American,Eastern,6,10,0,264,320,5,NFL
+1994,NFLTeam24,San Diego,Chargers,American,Western,11,5,0,381,306,1,NFL
+1994,NFLTeam22,Kansas City,Chiefs,American,Western,9,7,0,319,298,2,NFL
+1994,NFLTeam23,Los Angeles,Raiders,American,Western,9,7,0,303,327,3,NFL
+1994,NFLTeam21,Denver,Broncos,American,Western,7,9,0,347,396,4,NFL
+1994,NFLTeam7,Seattle,Seahawks,American,Western,6,10,0,287,323,5,NFL
+1994,NFLTeam12,Minnesota,Vikings,National,Central,10,6,0,356,314,1,NFL
+1994,NFLTeam11,Green Bay,Packers,National,Central,9,7,0,382,287,2,NFL
+1994,NFLTeam10,Detroit,Lions,National,Central,9,7,0,357,342,3,NFL
+1994,NFLTeam9,Chicago,Bears,National,Central,9,7,0,271,307,4,NFL
+1994,NFLTeam16,Tampa Bay,Buccaneers,National,Central,6,10,0,251,351,5,NFL
+1994,NFLTeam2,Dallas,Cowboys,National,Eastern,12,4,0,414,248,1,NFL
+1994,NFLTeam3,New York,Giants,National,Eastern,9,7,0,279,305,2,NFL
+1994,NFLTeam5,Arizona,Cardinals,National,Eastern,8,8,0,235,267,3,NFL
+1994,NFLTeam1,Philadelphia,Eagles,National,Eastern,7,9,0,308,308,4,NFL
+1994,NFLTeam4,Washington,Redskins,National,Eastern,3,13,0,320,412,5,NFL
+1994,NFLTeam6,San Francisco,49ers,National,Western,13,3,0,505,296,1,NFL
+1994,NFLTeam15,New Orleans,Saints,National,Western,7,9,0,348,407,2,NFL
+1994,NFLTeam13,Atlanta,Falcons,National,Western,7,9,0,317,385,3,NFL
+1994,NFLTeam8,Los Angeles,Rams,National,Western,4,12,0,286,365,4,NFL
+1995,NFLTeam28,Pittsburgh,Steelers,American,Central,11,5,0,407,327,1,NFL
+1995,NFLTeam26,Cincinnati,Bengals,American,Central,7,9,0,349,374,2,NFL
+1995,NFLTeam32,Houston,Oilers,American,Central,7,9,0,348,324,3,NFL
+1995,NFLTeam27,Cleveland,Browns,American,Central,5,11,0,289,356,4,NFL
+1995,NFLTeam31,Jacksonville,Jaguars,American,Central,4,12,0,275,404,5,NFL
+1995,NFLTeam17,Buffalo,Bills,American,Eastern,10,6,0,350,335,1,NFL
+1995,NFLTeam30,Indianapolis,Colts,American,Eastern,9,7,0,331,316,2,NFL
+1995,NFLTeam18,Miami,Dolphins,American,Eastern,9,7,0,398,332,3,NFL
+1995,NFLTeam19,New England,Patriots,American,Eastern,6,10,0,294,377,4,NFL
+1995,NFLTeam20,New York,Jets,American,Eastern,3,13,0,233,384,5,NFL
+1995,NFLTeam22,Kansas City,Chiefs,American,Western,13,3,0,358,241,1,NFL
+1995,NFLTeam24,San Diego,Chargers,American,Western,9,7,0,321,323,2,NFL
+1995,NFLTeam7,Seattle,Seahawks,American,Western,8,8,0,363,366,3,NFL
+1995,NFLTeam21,Denver,Broncos,American,Western,8,8,0,388,345,4,NFL
+1995,NFLTeam23,Oakland,Raiders,American,Western,8,8,0,348,332,5,NFL
+1995,NFLTeam11,Green Bay,Packers,National,Central,11,5,0,404,314,1,NFL
+1995,NFLTeam10,Detroit,Lions,National,Central,10,6,0,436,336,2,NFL
+1995,NFLTeam9,Chicago,Bears,National,Central,9,7,0,392,360,3,NFL
+1995,NFLTeam12,Minnesota,Vikings,National,Central,8,8,0,412,385,4,NFL
+1995,NFLTeam16,Tampa Bay,Buccaneers,National,Central,7,9,0,238,335,5,NFL
+1995,NFLTeam2,Dallas,Cowboys,National,Eastern,12,4,0,435,291,1,NFL
+1995,NFLTeam1,Philadelphia,Eagles,National,Eastern,10,6,0,318,338,2,NFL
+1995,NFLTeam4,Washington,Redskins,National,Eastern,6,10,0,326,359,3,NFL
+1995,NFLTeam3,New York,Giants,National,Eastern,5,11,0,290,340,4,NFL
+1995,NFLTeam5,Arizona,Cardinals,National,Eastern,4,12,0,275,422,5,NFL
+1995,NFLTeam6,San Francisco,49ers,National,Western,11,5,0,457,258,1,NFL
+1995,NFLTeam13,Atlanta,Falcons,National,Western,9,7,0,362,349,2,NFL
+1995,NFLTeam8,St. Louis,Rams,National,Western,7,9,0,309,418,3,NFL
+1995,NFLTeam14,Carolina,Panthers,National,Western,7,9,0,289,325,4,NFL
+1995,NFLTeam15,New Orleans,Saints,National,Western,7,9,0,319,348,5,NFL
+1996,NFLTeam28,Pittsburgh,Steelers,American,Central,10,6,0,344,257,1,NFL
+1996,NFLTeam31,Jacksonville,Jaguars,American,Central,9,7,0,325,335,2,NFL
+1996,NFLTeam26,Cincinnati,Bengals,American,Central,8,8,0,372,369,3,NFL
+1996,NFLTeam32,Houston,Oilers,American,Central,8,8,0,345,319,4,NFL
+1996,NFLTeam25,Baltimore,Ravens,American,Central,4,12,0,371,441,5,NFL
+1996,NFLTeam19,New England,Patriots,American,Eastern,11,5,0,418,313,1,NFL
+1996,NFLTeam17,Buffalo,Bills,American,Eastern,10,6,0,319,266,2,NFL
+1996,NFLTeam30,Indianapolis,Colts,American,Eastern,9,7,0,317,334,3,NFL
+1996,NFLTeam18,Miami,Dolphins,American,Eastern,8,8,0,339,325,4,NFL
+1996,NFLTeam20,New York,Jets,American,Eastern,1,15,0,279,454,5,NFL
+1996,NFLTeam21,Denver,Broncos,American,Western,13,3,0,391,275,1,NFL
+1996,NFLTeam22,Kansas City,Chiefs,American,Western,9,7,0,297,300,2,NFL
+1996,NFLTeam24,San Diego,Chargers,American,Western,8,8,0,310,376,3,NFL
+1996,NFLTeam23,Oakland,Raiders,American,Western,7,9,0,340,293,4,NFL
+1996,NFLTeam7,Seattle,Seahawks,American,Western,7,9,0,317,376,5,NFL
+1996,NFLTeam11,Green Bay,Packers,National,Central,13,3,0,456,210,1,NFL
+1996,NFLTeam12,Minnesota,Vikings,National,Central,9,7,0,298,315,2,NFL
+1996,NFLTeam9,Chicago,Bears,National,Central,7,9,0,283,305,3,NFL
+1996,NFLTeam16,Tampa Bay,Buccaneers,National,Central,6,10,0,221,293,4,NFL
+1996,NFLTeam10,Detroit,Lions,National,Central,5,11,0,302,368,5,NFL
+1996,NFLTeam2,Dallas,Cowboys,National,Eastern,10,6,0,286,250,1,NFL
+1996,NFLTeam1,Philadelphia,Eagles,National,Eastern,10,6,0,363,341,2,NFL
+1996,NFLTeam4,Washington,Redskins,National,Eastern,9,7,0,364,312,3,NFL
+1996,NFLTeam5,Arizona,Cardinals,National,Eastern,7,9,0,300,397,4,NFL
+1996,NFLTeam3,New York,Giants,National,Eastern,6,10,0,242,297,5,NFL
+1996,NFLTeam14,Carolina,Panthers,National,Western,12,4,0,367,218,1,NFL
+1996,NFLTeam6,San Francisco,49ers,National,Western,12,4,0,398,257,2,NFL
+1996,NFLTeam8,St. Louis,Rams,National,Western,6,10,0,303,409,3,NFL
+1996,NFLTeam13,Atlanta,Falcons,National,Western,3,13,0,309,461,4,NFL
+1996,NFLTeam15,New Orleans,Saints,National,Western,3,13,0,229,339,5,NFL
+1997,NFLTeam28,Pittsburgh,Steelers,American,Central,11,5,0,372,307,1,NFL
+1997,NFLTeam31,Jacksonville,Jaguars,American,Central,11,5,0,394,318,2,NFL
+1997,NFLTeam32,Tennessee,Oilers,American,Central,8,8,0,333,310,3,NFL
+1997,NFLTeam26,Cincinnati,Bengals,American,Central,7,9,0,355,405,4,NFL
+1997,NFLTeam25,Baltimore,Ravens,American,Central,6,9,1,326,345,5,NFL
+1997,NFLTeam19,New England,Patriots,American,Eastern,10,6,0,369,289,1,NFL
+1997,NFLTeam18,Miami,Dolphins,American,Eastern,9,7,0,339,327,2,NFL
+1997,NFLTeam20,New York,Jets,American,Eastern,9,7,0,348,287,3,NFL
+1997,NFLTeam17,Buffalo,Bills,American,Eastern,6,10,0,255,367,4,NFL
+1997,NFLTeam30,Indianapolis,Colts,American,Eastern,3,13,0,313,401,5,NFL
+1997,NFLTeam22,Kansas City,Chiefs,American,Western,13,3,0,375,232,1,NFL
+1997,NFLTeam21,Denver,Broncos,American,Western,12,4,0,472,287,2,NFL
+1997,NFLTeam7,Seattle,Seahawks,American,Western,8,8,0,365,362,3,NFL
+1997,NFLTeam23,Oakland,Raiders,American,Western,4,12,0,324,419,4,NFL
+1997,NFLTeam24,San Diego,Chargers,American,Western,4,12,0,266,425,5,NFL
+1997,NFLTeam11,Green Bay,Packers,National,Central,13,3,0,422,282,1,NFL
+1997,NFLTeam16,Tampa Bay,Buccaneers,National,Central,10,6,0,299,263,2,NFL
+1997,NFLTeam10,Detroit,Lions,National,Central,9,7,0,379,306,3,NFL
+1997,NFLTeam12,Minnesota,Vikings,National,Central,9,7,0,354,359,4,NFL
+1997,NFLTeam9,Chicago,Bears,National,Central,4,12,0,263,421,5,NFL
+1997,NFLTeam3,New York,Giants,National,Eastern,10,5,1,307,265,1,NFL
+1997,NFLTeam4,Washington,Redskins,National,Eastern,8,7,1,327,289,2,NFL
+1997,NFLTeam1,Philadelphia,Eagles,National,Eastern,6,9,1,317,372,3,NFL
+1997,NFLTeam2,Dallas,Cowboys,National,Eastern,6,10,0,304,314,4,NFL
+1997,NFLTeam5,Arizona,Cardinals,National,Eastern,4,12,0,283,379,5,NFL
+1997,NFLTeam6,San Francisco,49ers,National,Western,13,3,0,375,265,1,NFL
+1997,NFLTeam14,Carolina,Panthers,National,Western,7,9,0,265,314,2,NFL
+1997,NFLTeam13,Atlanta,Falcons,National,Western,7,9,0,320,361,3,NFL
+1997,NFLTeam15,New Orleans,Saints,National,Western,6,10,0,237,327,4,NFL
+1997,NFLTeam8,St. Louis,Rams,National,Western,5,11,0,299,359,5,NFL
+1998,NFLTeam31,Jacksonville,Jaguars,American,Central,11,5,0,392,338,1,NFL
+1998,NFLTeam32,Tennessee,Oilers,American,Central,8,8,0,330,320,2,NFL
+1998,NFLTeam28,Pittsburgh,Steelers,American,Central,7,9,0,263,303,3,NFL
+1998,NFLTeam25,Baltimore,Ravens,American,Central,6,10,0,269,335,4,NFL
+1998,NFLTeam26,Cincinnati,Bengals,American,Central,3,13,0,268,452,5,NFL
+1998,NFLTeam20,New York,Jets,American,Eastern,12,4,0,416,266,1,NFL
+1998,NFLTeam18,Miami,Dolphins,American,Eastern,10,6,0,321,265,2,NFL
+1998,NFLTeam17,Buffalo,Bills,American,Eastern,10,6,0,400,333,3,NFL
+1998,NFLTeam19,New England,Patriots,American,Eastern,9,7,0,337,329,4,NFL
+1998,NFLTeam30,Indianapolis,Colts,American,Eastern,3,13,0,310,444,5,NFL
+1998,NFLTeam21,Denver,Broncos,American,Western,14,2,0,501,309,1,NFL
+1998,NFLTeam23,Oakland,Raiders,American,Western,8,8,0,288,356,2,NFL
+1998,NFLTeam7,Seattle,Seahawks,American,Western,8,8,0,372,310,3,NFL
+1998,NFLTeam22,Kansas City,Chiefs,American,Western,7,9,0,327,363,4,NFL
+1998,NFLTeam24,San Diego,Chargers,American,Western,5,11,0,241,342,5,NFL
+1998,NFLTeam12,Minnesota,Vikings,National,Central,15,1,0,556,296,1,NFL
+1998,NFLTeam11,Green Bay,Packers,National,Central,11,5,0,408,319,2,NFL
+1998,NFLTeam16,Tampa Bay,Buccaneers,National,Central,8,8,0,314,295,3,NFL
+1998,NFLTeam10,Detroit,Lions,National,Central,5,11,0,306,378,4,NFL
+1998,NFLTeam9,Chicago,Bears,National,Central,4,12,0,276,368,5,NFL
+1998,NFLTeam2,Dallas,Cowboys,National,Eastern,10,6,0,381,275,1,NFL
+1998,NFLTeam5,Arizona,Cardinals,National,Eastern,9,7,0,325,378,2,NFL
+1998,NFLTeam3,New York,Giants,National,Eastern,8,8,0,287,309,3,NFL
+1998,NFLTeam4,Washington,Redskins,National,Eastern,6,10,0,319,421,4,NFL
+1998,NFLTeam1,Philadelphia,Eagles,National,Eastern,3,13,0,161,344,5,NFL
+1998,NFLTeam13,Atlanta,Falcons,National,Western,14,2,0,442,289,1,NFL
+1998,NFLTeam6,San Francisco,49ers,National,Western,12,4,0,479,328,2,NFL
+1998,NFLTeam15,New Orleans,Saints,National,Western,6,10,0,305,359,3,NFL
+1998,NFLTeam14,Carolina,Panthers,National,Western,4,12,0,336,413,4,NFL
+1998,NFLTeam8,St. Louis,Rams,National,Western,4,12,0,285,378,5,NFL
+1999,NFLTeam31,Jacksonville,Jaguars,American,Central,14,2,0,396,217,1,NFL
+1999,NFLTeam32,Tennessee,Titans,American,Central,13,3,0,392,324,2,NFL
+1999,NFLTeam25,Baltimore,Ravens,American,Central,8,8,0,324,277,3,NFL
+1999,NFLTeam28,Pittsburgh,Steelers,American,Central,6,10,0,317,320,4,NFL
+1999,NFLTeam26,Cincinnati,Bengals,American,Central,4,12,0,283,460,5,NFL
+1999,NFLTeam27,Cleveland,Browns,American,Central,2,14,0,217,437,6,NFL
+1999,NFLTeam30,Indianapolis,Colts,American,Eastern,13,3,0,423,333,1,NFL
+1999,NFLTeam17,Buffalo,Bills,American,Eastern,11,5,0,320,229,2,NFL
+1999,NFLTeam18,Miami,Dolphins,American,Eastern,9,7,0,326,336,3,NFL
+1999,NFLTeam20,New York,Jets,American,Eastern,8,8,0,308,309,4,NFL
+1999,NFLTeam19,New England,Patriots,American,Eastern,8,8,0,299,284,5,NFL
+1999,NFLTeam7,Seattle,Seahawks,American,Western,9,7,0,338,298,1,NFL
+1999,NFLTeam22,Kansas City,Chiefs,American,Western,9,7,0,390,322,2,NFL
+1999,NFLTeam24,San Diego,Chargers,American,Western,8,8,0,269,316,3,NFL
+1999,NFLTeam23,Oakland,Raiders,American,Western,8,8,0,390,329,4,NFL
+1999,NFLTeam21,Denver,Broncos,American,Western,6,10,0,314,318,5,NFL
+1999,NFLTeam16,Tampa Bay,Buccaneers,National,Central,11,5,0,270,235,1,NFL
+1999,NFLTeam12,Minnesota,Vikings,National,Central,10,6,0,399,335,2,NFL
+1999,NFLTeam10,Detroit,Lions,National,Central,8,8,0,322,323,3,NFL
+1999,NFLTeam11,Green Bay,Packers,National,Central,8,8,0,357,341,4,NFL
+1999,NFLTeam9,Chicago,Bears,National,Central,6,10,0,272,341,5,NFL
+1999,NFLTeam4,Washington,Redskins,National,Eastern,10,6,0,443,377,1,NFL
+1999,NFLTeam2,Dallas,Cowboys,National,Eastern,8,8,0,352,276,2,NFL
+1999,NFLTeam3,New York,Giants,National,Eastern,7,9,0,299,358,3,NFL
+1999,NFLTeam5,Arizona,Cardinals,National,Eastern,6,10,0,245,382,4,NFL
+1999,NFLTeam1,Philadelphia,Eagles,National,Eastern,5,11,0,272,357,5,NFL
+1999,NFLTeam8,St. Louis,Rams,National,Western,13,3,0,526,242,1,NFL
+1999,NFLTeam14,Carolina,Panthers,National,Western,8,8,0,421,381,2,NFL
+1999,NFLTeam13,Atlanta,Falcons,National,Western,5,11,0,285,380,3,NFL
+1999,NFLTeam6,San Francisco,49ers,National,Western,4,12,0,295,453,4,NFL
+1999,NFLTeam15,New Orleans,Saints,National,Western,3,13,0,260,434,5,NFL
+2000,NFLTeam32,Tennessee,Titans,American,Central,13,3,0,346,191,1,NFL
+2000,NFLTeam25,Baltimore,Ravens,American,Central,12,4,0,333,165,2,NFL
+2000,NFLTeam28,Pittsburgh,Steelers,American,Central,9,7,0,321,255,3,NFL
+2000,NFLTeam31,Jacksonville,Jaguars,American,Central,7,9,0,367,327,4,NFL
+2000,NFLTeam26,Cincinnati,Bengals,American,Central,4,12,0,185,359,5,NFL
+2000,NFLTeam27,Cleveland,Browns,American,Central,3,13,0,161,419,6,NFL
+2000,NFLTeam18,Miami,Dolphins,American,Eastern,11,5,0,323,226,1,NFL
+2000,NFLTeam30,Indianapolis,Colts,American,Eastern,10,6,0,429,326,2,NFL
+2000,NFLTeam20,New York,Jets,American,Eastern,9,7,0,321,321,3,NFL
+2000,NFLTeam17,Buffalo,Bills,American,Eastern,8,8,0,315,350,4,NFL
+2000,NFLTeam19,New England,Patriots,American,Eastern,5,11,0,276,338,5,NFL
+2000,NFLTeam23,Oakland,Raiders,American,Western,12,4,0,479,299,1,NFL
+2000,NFLTeam21,Denver,Broncos,American,Western,11,5,0,485,369,2,NFL
+2000,NFLTeam22,Kansas City,Chiefs,American,Western,7,9,0,355,354,3,NFL
+2000,NFLTeam7,Seattle,Seahawks,American,Western,6,10,0,320,405,4,NFL
+2000,NFLTeam24,San Diego,Chargers,American,Western,1,15,0,269,440,5,NFL
+2000,NFLTeam12,Minnesota,Vikings,National,Central,11,5,0,397,371,1,NFL
+2000,NFLTeam16,Tampa Bay,Buccaneers,National,Central,10,6,0,388,269,2,NFL
+2000,NFLTeam11,Green Bay,Packers,National,Central,9,7,0,353,323,3,NFL
+2000,NFLTeam10,Detroit,Lions,National,Central,9,7,0,307,307,4,NFL
+2000,NFLTeam9,Chicago,Bears,National,Central,5,11,0,216,355,5,NFL
+2000,NFLTeam3,New York,Giants,National,Eastern,12,4,0,328,246,1,NFL
+2000,NFLTeam1,Philadelphia,Eagles,National,Eastern,11,5,0,351,245,2,NFL
+2000,NFLTeam4,Washington,Redskins,National,Eastern,8,8,0,281,269,3,NFL
+2000,NFLTeam2,Dallas,Cowboys,National,Eastern,5,11,0,294,361,4,NFL
+2000,NFLTeam5,Arizona,Cardinals,National,Eastern,3,13,0,210,443,5,NFL
+2000,NFLTeam15,New Orleans,Saints,National,Western,10,6,0,354,305,1,NFL
+2000,NFLTeam8,St. Louis,Rams,National,Western,10,6,0,540,471,2,NFL
+2000,NFLTeam14,Carolina,Panthers,National,Western,7,9,0,310,310,3,NFL
+2000,NFLTeam6,San Francisco,49ers,National,Western,6,10,0,388,422,4,NFL
+2000,NFLTeam13,Atlanta,Falcons,National,Western,4,12,0,252,413,5,NFL
+2001,NFLTeam28,Pittsburgh,Steelers,American,Central,13,3,0,352,212,1,NFL
+2001,NFLTeam25,Baltimore,Ravens,American,Central,10,6,0,303,265,2,NFL
+2001,NFLTeam27,Cleveland,Browns,American,Central,7,9,0,285,319,3,NFL
+2001,NFLTeam32,Tennessee,Titans,American,Central,7,9,0,336,388,4,NFL
+2001,NFLTeam31,Jacksonville,Jaguars,American,Central,6,10,0,294,286,5,NFL
+2001,NFLTeam26,Cincinnati,Bengals,American,Central,6,10,0,226,309,6,NFL
+2001,NFLTeam19,New England,Patriots,American,Eastern,11,5,0,371,272,1,NFL
+2001,NFLTeam18,Miami,Dolphins,American,Eastern,11,5,0,344,290,2,NFL
+2001,NFLTeam20,New York,Jets,American,Eastern,10,6,0,308,295,3,NFL
+2001,NFLTeam30,Indianapolis,Colts,American,Eastern,6,10,0,413,486,4,NFL
+2001,NFLTeam17,Buffalo,Bills,American,Eastern,3,13,0,265,420,5,NFL
+2001,NFLTeam23,Oakland,Raiders,American,Western,10,6,0,399,327,1,NFL
+2001,NFLTeam7,Seattle,Seahawks,American,Western,9,7,0,301,324,2,NFL
+2001,NFLTeam21,Denver,Broncos,American,Western,8,8,0,340,339,3,NFL
+2001,NFLTeam22,Kansas City,Chiefs,American,Western,6,10,0,320,344,4,NFL
+2001,NFLTeam24,San Diego,Chargers,American,Western,5,11,0,332,321,5,NFL
+2001,NFLTeam9,Chicago,Bears,National,Central,13,3,0,338,203,1,NFL
+2001,NFLTeam11,Green Bay,Packers,National,Central,12,4,0,390,266,2,NFL
+2001,NFLTeam16,Tampa Bay,Buccaneers,National,Central,9,7,0,324,280,3,NFL
+2001,NFLTeam12,Minnesota,Vikings,National,Central,5,11,0,290,390,4,NFL
+2001,NFLTeam10,Detroit,Lions,National,Central,2,14,0,270,424,5,NFL
+2001,NFLTeam1,Philadelphia,Eagles,National,Eastern,11,5,0,343,208,1,NFL
+2001,NFLTeam4,Washington,Redskins,National,Eastern,8,8,0,256,303,2,NFL
+2001,NFLTeam3,New York,Giants,National,Eastern,7,9,0,294,321,3,NFL
+2001,NFLTeam5,Arizona,Cardinals,National,Eastern,7,9,0,295,343,4,NFL
+2001,NFLTeam2,Dallas,Cowboys,National,Eastern,5,11,0,246,338,5,NFL
+2001,NFLTeam8,St. Louis,Rams,National,Western,14,2,0,503,273,1,NFL
+2001,NFLTeam6,San Francisco,49ers,National,Western,12,4,0,409,282,2,NFL
+2001,NFLTeam15,New Orleans,Saints,National,Western,7,9,0,333,409,3,NFL
+2001,NFLTeam13,Atlanta,Falcons,National,Western,7,9,0,291,377,4,NFL
+2001,NFLTeam14,Carolina,Panthers,National,Western,1,15,0,253,410,5,NFL
+2002,NFLTeam20,New York,Jets,American,East,9,7,0,359,336,1,NFL
+2002,NFLTeam19,New England,Patriots,American,East,9,7,0,381,346,2,NFL
+2002,NFLTeam18,Miami,Dolphins,American,East,9,7,0,378,301,3,NFL
+2002,NFLTeam17,Buffalo,Bills,American,East,8,8,0,379,397,4,NFL
+2002,NFLTeam28,Pittsburgh,Steelers,American,North,10,5,1,390,345,1,NFL
+2002,NFLTeam27,Cleveland,Browns,American,North,9,7,0,344,320,2,NFL
+2002,NFLTeam25,Baltimore,Ravens,American,North,7,9,0,316,354,3,NFL
+2002,NFLTeam26,Cincinnati,Bengals,American,North,2,14,0,279,456,4,NFL
+2002,NFLTeam32,Tennessee,Titans,American,South,11,5,0,367,324,1,NFL
+2002,NFLTeam30,Indianapolis,Colts,American,South,10,6,0,349,313,2,NFL
+2002,NFLTeam31,Jacksonville,Jaguars,American,South,6,10,0,328,315,3,NFL
+2002,NFLTeam29,Houston,Texans,American,South,4,12,0,213,356,4,NFL
+2002,NFLTeam23,Oakland,Raiders,American,West,11,5,0,450,304,1,NFL
+2002,NFLTeam21,Denver,Broncos,American,West,9,7,0,392,344,2,NFL
+2002,NFLTeam24,San Diego,Chargers,American,West,8,8,0,333,367,3,NFL
+2002,NFLTeam22,Kansas City,Chiefs,American,West,8,8,0,467,399,4,NFL
+2002,NFLTeam1,Philadelphia,Eagles,National,East,12,4,0,415,241,1,NFL
+2002,NFLTeam3,New York,Giants,National,East,10,6,0,320,279,2,NFL
+2002,NFLTeam4,Washington,Redskins,National,East,7,9,0,307,365,3,NFL
+2002,NFLTeam2,Dallas,Cowboys,National,East,5,11,0,217,329,4,NFL
+2002,NFLTeam11,Green Bay,Packers,National,North,12,4,0,398,328,1,NFL
+2002,NFLTeam12,Minnesota,Vikings,National,North,6,10,0,390,442,2,NFL
+2002,NFLTeam9,Chicago,Bears,National,North,4,12,0,281,379,3,NFL
+2002,NFLTeam10,Detroit,Lions,National,North,3,13,0,306,451,4,NFL
+2002,NFLTeam16,Tampa Bay,Buccaneers,National,South,12,4,0,346,196,1,NFL
+2002,NFLTeam13,Atlanta,Falcons,National,South,9,6,1,402,314,2,NFL
+2002,NFLTeam15,New Orleans,Saints,National,South,9,7,0,432,388,3,NFL
+2002,NFLTeam14,Carolina,Panthers,National,South,7,9,0,258,302,4,NFL
+2002,NFLTeam6,San Francisco,49ers,National,West,10,6,0,367,351,1,NFL
+2002,NFLTeam8,St. Louis,Rams,National,West,7,9,0,316,369,2,NFL
+2002,NFLTeam7,Seattle,Seahawks,National,West,7,9,0,355,369,3,NFL
+2002,NFLTeam5,Arizona,Cardinals,National,West,5,11,0,262,417,4,NFL
+2003,NFLTeam19,New England,Patriots,American,East,14,2,0,348,238,1,NFL
+2003,NFLTeam18,Miami,Dolphins,American,East,10,6,0,311,261,2,NFL
+2003,NFLTeam17,Buffalo,Bills,American,East,6,10,0,243,279,3,NFL
+2003,NFLTeam20,New York,Jets,American,East,6,10,0,283,299,4,NFL
+2003,NFLTeam25,Baltimore,Ravens,American,North,10,6,0,391,281,1,NFL
+2003,NFLTeam26,Cincinnati,Bengals,American,North,8,8,0,346,384,2,NFL
+2003,NFLTeam28,Pittsburgh,Steelers,American,North,6,10,0,300,327,3,NFL
+2003,NFLTeam27,Cleveland,Browns,American,North,5,11,0,254,322,4,NFL
+2003,NFLTeam30,Indianapolis,Colts,American,South,12,4,0,447,336,1,NFL
+2003,NFLTeam32,Tennessee,Titans,American,South,12,4,0,435,324,2,NFL
+2003,NFLTeam31,Jacksonville,Jaguars,American,South,5,11,0,276,331,3,NFL
+2003,NFLTeam29,Houston,Texans,American,South,5,11,0,255,380,4,NFL
+2003,NFLTeam22,Kansas City,Chiefs,American,West,13,3,0,484,332,1,NFL
+2003,NFLTeam21,Denver,Broncos,American,West,10,6,0,381,301,2,NFL
+2003,NFLTeam23,Oakland,Raiders,American,West,4,12,0,270,379,3,NFL
+2003,NFLTeam24,San Diego,Chargers,American,West,4,12,0,313,441,4,NFL
+2003,NFLTeam1,Philadelphia,Eagles,National,East,12,4,0,374,287,1,NFL
+2003,NFLTeam2,Dallas,Cowboys,National,East,10,6,0,289,260,2,NFL
+2003,NFLTeam4,Washington,Redskins,National,East,5,11,0,287,372,3,NFL
+2003,NFLTeam3,New York,Giants,National,East,4,12,0,243,387,4,NFL
+2003,NFLTeam11,Green Bay,Packers,National,North,10,6,0,442,307,1,NFL
+2003,NFLTeam12,Minnesota,Vikings,National,North,9,7,0,416,353,2,NFL
+2003,NFLTeam9,Chicago,Bears,National,North,7,9,0,283,346,3,NFL
+2003,NFLTeam10,Detroit,Lions,National,North,5,11,0,270,379,4,NFL
+2003,NFLTeam14,Carolina,Panthers,National,South,11,5,0,325,304,1,NFL
+2003,NFLTeam15,New Orleans,Saints,National,South,8,8,0,340,326,2,NFL
+2003,NFLTeam16,Tampa Bay,Buccaneers,National,South,7,9,0,301,264,3,NFL
+2003,NFLTeam13,Atlanta,Falcons,National,South,5,11,0,299,422,4,NFL
+2003,NFLTeam8,St. Louis,Rams,National,West,12,4,0,447,328,1,NFL
+2003,NFLTeam7,Seattle,Seahawks,National,West,10,6,0,404,327,2,NFL
+2003,NFLTeam6,San Francisco,49ers,National,West,7,9,0,384,337,3,NFL
+2003,NFLTeam5,Arizona,Cardinals,National,West,4,12,0,225,452,4,NFL
+2004,NFLTeam19,New England,Patriots,American,East,14,2,0,437,260,1,NFL
+2004,NFLTeam20,New York,Jets,American,East,10,6,0,333,261,2,NFL
+2004,NFLTeam17,Buffalo,Bills,American,East,9,7,0,395,284,3,NFL
+2004,NFLTeam18,Miami,Dolphins,American,East,4,12,0,275,354,4,NFL
+2004,NFLTeam28,Pittsburgh,Steelers,American,North,15,1,0,372,251,1,NFL
+2004,NFLTeam25,Baltimore,Ravens,American,North,9,7,0,317,268,2,NFL
+2004,NFLTeam26,Cincinnati,Bengals,American,North,8,8,0,374,372,3,NFL
+2004,NFLTeam27,Cleveland,Browns,American,North,4,12,0,276,390,4,NFL
+2004,NFLTeam30,Indianapolis,Colts,American,South,12,4,0,522,351,1,NFL
+2004,NFLTeam31,Jacksonville,Jaguars,American,South,9,7,0,261,280,2,NFL
+2004,NFLTeam29,Houston,Texans,American,South,7,9,0,309,339,3,NFL
+2004,NFLTeam32,Tennessee,Titans,American,South,5,11,0,344,439,4,NFL
+2004,NFLTeam24,San Diego,Chargers,American,West,12,4,0,446,313,1,NFL
+2004,NFLTeam21,Denver,Broncos,American,West,10,6,0,381,304,2,NFL
+2004,NFLTeam22,Kansas City,Chiefs,American,West,7,9,0,483,435,3,NFL
+2004,NFLTeam23,Oakland,Raiders,American,West,5,11,0,320,442,4,NFL
+2004,NFLTeam1,Philadelphia,Eagles,National,East,13,3,0,386,260,1,NFL
+2004,NFLTeam3,New York,Giants,National,East,6,10,0,303,347,2,NFL
+2004,NFLTeam2,Dallas,Cowboys,National,East,6,10,0,293,405,3,NFL
+2004,NFLTeam4,Washington,Redskins,National,East,6,10,0,240,265,4,NFL
+2004,NFLTeam11,Green Bay,Packers,National,North,10,6,0,424,380,1,NFL
+2004,NFLTeam12,Minnesota,Vikings,National,North,8,8,0,405,395,2,NFL
+2004,NFLTeam10,Detroit,Lions,National,North,6,10,0,296,350,3,NFL
+2004,NFLTeam9,Chicago,Bears,National,North,5,11,0,231,331,4,NFL
+2004,NFLTeam13,Atlanta,Falcons,National,South,11,5,0,340,337,1,NFL
+2004,NFLTeam15,New Orleans,Saints,National,South,8,8,0,348,405,2,NFL
+2004,NFLTeam14,Carolina,Panthers,National,South,7,9,0,355,339,3,NFL
+2004,NFLTeam16,Tampa Bay,Buccaneers,National,South,5,11,0,301,304,4,NFL
+2004,NFLTeam7,Seattle,Seahawks,National,West,9,7,0,371,373,1,NFL
+2004,NFLTeam8,St. Louis,Rams,National,West,8,8,0,319,392,2,NFL
+2004,NFLTeam5,Arizona,Cardinals,National,West,6,10,0,284,322,3,NFL
+2004,NFLTeam6,San Francisco,49ers,National,West,2,14,0,259,452,4,NFL
+2005,NFLTeam19,New England,Patriots,American,East,10,6,0,379,338,1,NFL
+2005,NFLTeam18,Miami,Dolphins,American,East,9,7,0,318,317,2,NFL
+2005,NFLTeam17,Buffalo,Bills,American,East,5,11,0,271,367,3,NFL
+2005,NFLTeam20,New York,Jets,American,East,4,12,0,240,355,4,NFL
+2005,NFLTeam26,Cincinnati,Bengals,American,North,11,5,0,421,350,1,NFL
+2005,NFLTeam28,Pittsburgh,Steelers,American,North,11,5,0,389,258,2,NFL
+2005,NFLTeam27,Cleveland,Browns,American,North,6,10,0,232,301,3,NFL
+2005,NFLTeam25,Baltimore,Ravens,American,North,6,10,0,265,299,4,NFL
+2005,NFLTeam30,Indianapolis,Colts,American,South,14,2,0,439,247,1,NFL
+2005,NFLTeam31,Jacksonville,Jaguars,American,South,12,4,0,361,269,2,NFL
+2005,NFLTeam32,Tennessee,Titans,American,South,4,12,0,299,421,3,NFL
+2005,NFLTeam29,Houston,Texans,American,South,2,14,0,260,431,4,NFL
+2005,NFLTeam21,Denver,Broncos,American,West,13,3,0,395,258,1,NFL
+2005,NFLTeam22,Kansas City,Chiefs,American,West,10,6,0,403,325,2,NFL
+2005,NFLTeam24,San Diego,Chargers,American,West,9,7,0,418,312,3,NFL
+2005,NFLTeam23,Oakland,Raiders,American,West,4,12,0,290,383,4,NFL
+2005,NFLTeam3,New York,Giants,National,East,11,5,0,422,314,1,NFL
+2005,NFLTeam4,Washington,Redskins,National,East,10,6,0,359,293,2,NFL
+2005,NFLTeam2,Dallas,Cowboys,National,East,9,7,0,325,308,3,NFL
+2005,NFLTeam1,Philadelphia,Eagles,National,East,6,10,0,310,388,4,NFL
+2005,NFLTeam9,Chicago,Bears,National,North,11,5,0,260,202,1,NFL
+2005,NFLTeam12,Minnesota,Vikings,National,North,9,7,0,306,344,2,NFL
+2005,NFLTeam10,Detroit,Lions,National,North,5,11,0,254,345,3,NFL
+2005,NFLTeam11,Green Bay,Packers,National,North,4,12,0,298,344,4,NFL
+2005,NFLTeam14,Carolina,Panthers,National,South,11,5,0,391,259,1,NFL
+2005,NFLTeam16,Tampa Bay,Buccaneers,National,South,11,5,0,300,274,2,NFL
+2005,NFLTeam13,Atlanta,Falcons,National,South,8,8,0,351,341,3,NFL
+2005,NFLTeam15,New Orleans,Saints,National,South,3,13,0,235,398,4,NFL
+2005,NFLTeam7,Seattle,Seahawks,National,West,13,3,0,452,271,1,NFL
+2005,NFLTeam8,St. Louis,Rams,National,West,6,10,0,363,429,2,NFL
+2005,NFLTeam5,Arizona,Cardinals,National,West,5,11,0,311,387,3,NFL
+2005,NFLTeam6,San Francisco,49ers,National,West,4,12,0,239,428,4,NFL
+2006,NFLTeam19,New England,Patriots,American,East,12,4,0,385,237,1,NFL
+2006,NFLTeam20,New York,Jets,American,East,10,6,0,316,295,2,NFL
+2006,NFLTeam17,Buffalo,Bills,American,East,7,9,0,300,311,3,NFL
+2006,NFLTeam18,Miami,Dolphins,American,East,6,10,0,260,283,4,NFL
+2006,NFLTeam25,Baltimore,Ravens,American,North,13,3,0,353,201,1,NFL
+2006,NFLTeam28,Pittsburgh,Steelers,American,North,8,8,0,353,315,2,NFL
+2006,NFLTeam26,Cincinnati,Bengals,American,North,8,8,0,373,331,3,NFL
+2006,NFLTeam27,Cleveland,Browns,American,North,4,12,0,238,356,4,NFL
+2006,NFLTeam30,Indianapolis,Colts,American,South,12,4,0,427,360,1,NFL
+2006,NFLTeam32,Tennessee,Titans,American,South,8,8,0,324,400,2,NFL
+2006,NFLTeam31,Jacksonville,Jaguars,American,South,8,8,0,371,274,3,NFL
+2006,NFLTeam29,Houston,Texans,American,South,6,10,0,267,366,4,NFL
+2006,NFLTeam24,San Diego,Chargers,American,West,14,2,0,492,303,1,NFL
+2006,NFLTeam22,Kansas City,Chiefs,American,West,9,7,0,331,315,2,NFL
+2006,NFLTeam21,Denver,Broncos,American,West,9,7,0,319,305,3,NFL
+2006,NFLTeam23,Oakland,Raiders,American,West,2,14,0,168,332,4,NFL
+2006,NFLTeam1,Philadelphia,Eagles,National,East,10,6,0,398,328,1,NFL
+2006,NFLTeam2,Dallas,Cowboys,National,East,9,7,0,425,350,2,NFL
+2006,NFLTeam3,New York,Giants,National,East,8,8,0,355,362,3,NFL
+2006,NFLTeam4,Washington,Redskins,National,East,5,11,0,307,376,4,NFL
+2006,NFLTeam9,Chicago,Bears,National,North,13,3,0,427,255,1,NFL
+2006,NFLTeam11,Green Bay,Packers,National,North,8,8,0,301,366,2,NFL
+2006,NFLTeam12,Minnesota,Vikings,National,North,6,10,0,282,327,3,NFL
+2006,NFLTeam10,Detroit,Lions,National,North,3,13,0,305,398,4,NFL
+2006,NFLTeam15,New Orleans,Saints,National,South,10,6,0,413,322,1,NFL
+2006,NFLTeam14,Carolina,Panthers,National,South,8,8,0,270,305,2,NFL
+2006,NFLTeam13,Atlanta,Falcons,National,South,7,9,0,292,328,3,NFL
+2006,NFLTeam16,Tampa Bay,Buccaneers,National,South,4,12,0,211,353,4,NFL
+2006,NFLTeam7,Seattle,Seahawks,National,West,9,7,0,335,341,1,NFL
+2006,NFLTeam8,St. Louis,Rams,National,West,8,8,0,367,381,2,NFL
+2006,NFLTeam6,San Francisco,49ers,National,West,7,9,0,298,412,3,NFL
+2006,NFLTeam5,Arizona,Cardinals,National,West,5,11,0,314,389,4,NFL
+2007,NFLTeam19,New England,Patriots,American,East,16,0,0,589,274,1,NFL
+2007,NFLTeam17,Buffalo,Bills,American,East,7,9,0,252,354,2,NFL
+2007,NFLTeam20,New York,Jets,American,East,4,12,0,268,355,3,NFL
+2007,NFLTeam18,Miami,Dolphins,American,East,1,15,0,267,437,4,NFL
+2007,NFLTeam28,Pittsburgh,Steelers,American,North,10,6,0,393,269,1,NFL
+2007,NFLTeam27,Cleveland,Browns,American,North,10,6,0,402,382,2,NFL
+2007,NFLTeam26,Cincinnati,Bengals,American,North,7,9,0,380,385,3,NFL
+2007,NFLTeam25,Baltimore,Ravens,American,North,5,11,0,275,384,4,NFL
+2007,NFLTeam30,Indianapolis,Colts,American,South,13,3,0,450,262,1,NFL
+2007,NFLTeam31,Jacksonville,Jaguars,American,South,11,5,0,411,304,2,NFL
+2007,NFLTeam32,Tennessee,Titans,American,South,10,6,0,301,297,3,NFL
+2007,NFLTeam29,Houston,Texans,American,South,8,8,0,379,384,4,NFL
+2007,NFLTeam24,San Diego,Chargers,American,West,11,5,0,412,284,1,NFL
+2007,NFLTeam21,Denver,Broncos,American,West,7,9,0,320,409,2,NFL
+2007,NFLTeam22,Kansas City,Chiefs,American,West,4,12,0,226,335,3,NFL
+2007,NFLTeam23,Oakland,Raiders,American,West,4,12,0,283,398,4,NFL
+2007,NFLTeam2,Dallas,Cowboys,National,East,13,3,0,455,325,1,NFL
+2007,NFLTeam3,New York,Giants,National,East,10,6,0,373,351,2,NFL
+2007,NFLTeam4,Washington,Redskins,National,East,9,7,0,334,310,3,NFL
+2007,NFLTeam1,Philadelphia,Eagles,National,East,8,8,0,336,300,4,NFL
+2007,NFLTeam11,Green Bay,Packers,National,North,13,3,0,435,291,1,NFL
+2007,NFLTeam12,Minnesota,Vikings,National,North,8,8,0,365,311,2,NFL
+2007,NFLTeam10,Detroit,Lions,National,North,7,9,0,346,444,3,NFL
+2007,NFLTeam9,Chicago,Bears,National,North,7,9,0,334,348,4,NFL
+2007,NFLTeam16,Tampa Bay,Buccaneers,National,South,9,7,0,334,270,1,NFL
+2007,NFLTeam14,Carolina,Panthers,National,South,7,9,0,267,347,2,NFL
+2007,NFLTeam15,New Orleans,Saints,National,South,7,9,0,379,388,3,NFL
+2007,NFLTeam13,Atlanta,Falcons,National,South,4,12,0,259,414,4,NFL
+2007,NFLTeam7,Seattle,Seahawks,National,West,10,6,0,393,291,1,NFL
+2007,NFLTeam5,Arizona,Cardinals,National,West,8,8,0,404,399,2,NFL
+2007,NFLTeam6,San Francisco,49ers,National,West,5,11,0,219,364,3,NFL
+2007,NFLTeam8,St. Louis,Rams,National,West,3,13,0,263,438,4,NFL
+2008,NFLTeam18,Miami,Dolphins,American,East,11,5,0,345,317,1,NFL
+2008,NFLTeam19,New England,Patriots,American,East,11,5,0,410,309,2,NFL
+2008,NFLTeam20,New York,Jets,American,East,9,7,0,405,356,3,NFL
+2008,NFLTeam17,Buffalo,Bills,American,East,7,9,0,336,342,4,NFL
+2008,NFLTeam28,Pittsburgh,Steelers,American,North,12,4,0,347,223,1,NFL
+2008,NFLTeam25,Baltimore,Ravens,American,North,11,5,0,385,244,2,NFL
+2008,NFLTeam26,Cincinnati,Bengals,American,North,4,11,1,204,364,3,NFL
+2008,NFLTeam27,Cleveland,Browns,American,North,4,12,0,232,350,4,NFL
+2008,NFLTeam32,Tennessee,Titans,American,South,13,3,0,375,234,1,NFL
+2008,NFLTeam30,Indianapolis,Colts,American,South,12,4,0,377,298,2,NFL
+2008,NFLTeam29,Houston,Texans,American,South,8,8,0,366,394,3,NFL
+2008,NFLTeam31,Jacksonville,Jaguars,American,South,5,11,0,302,367,4,NFL
+2008,NFLTeam24,San Diego,Chargers,American,West,8,8,0,439,347,1,NFL
+2008,NFLTeam21,Denver,Broncos,American,West,8,8,0,370,448,2,NFL
+2008,NFLTeam23,Oakland,Raiders,American,West,5,11,0,263,388,3,NFL
+2008,NFLTeam22,Kansas City,Chiefs,American,West,2,14,0,291,440,4,NFL
+2008,NFLTeam3,New York,Giants,National,East,12,4,0,427,294,1,NFL
+2008,NFLTeam1,Philadelphia,Eagles,National,East,9,6,1,416,289,2,NFL
+2008,NFLTeam2,Dallas,Cowboys,National,East,9,7,0,362,365,3,NFL
+2008,NFLTeam4,Washington,Redskins,National,East,8,8,0,265,296,4,NFL
+2008,NFLTeam12,Minnesota,Vikings,National,North,10,6,0,379,333,1,NFL
+2008,NFLTeam9,Chicago,Bears,National,North,9,7,0,375,350,2,NFL
+2008,NFLTeam11,Green Bay,Packers,National,North,6,10,0,419,380,3,NFL
+2008,NFLTeam10,Detroit,Lions,National,North,0,16,0,268,517,4,NFL
+2008,NFLTeam14,Carolina,Panthers,National,South,12,4,0,414,329,1,NFL
+2008,NFLTeam13,Atlanta,Falcons,National,South,11,5,0,391,325,2,NFL
+2008,NFLTeam16,Tampa Bay,Buccaneers,National,South,9,7,0,361,323,3,NFL
+2008,NFLTeam15,New Orleans,Saints,National,South,8,8,0,463,393,4,NFL
+2008,NFLTeam5,Arizona,Cardinals,National,West,9,7,0,427,426,1,NFL
+2008,NFLTeam6,San Francisco,49ers,National,West,7,9,0,339,381,2,NFL
+2008,NFLTeam7,Seattle,Seahawks,National,West,4,12,0,294,392,3,NFL
+2008,NFLTeam8,St. Louis,Rams,National,West,2,14,0,232,465,4,NFL
+2009,NFLTeam19,New England,Patriots,American,East,10,6,0,427,285,1,NFL
+2009,NFLTeam20,New York,Jets,American,East,9,7,0,348,236,2,NFL
+2009,NFLTeam18,Miami,Dolphins,American,East,7,9,0,360,390,3,NFL
+2009,NFLTeam17,Buffalo,Bills,American,East,6,10,0,258,326,4,NFL
+2009,NFLTeam26,Cincinnati,Bengals,American,North,10,6,0,305,291,1,NFL
+2009,NFLTeam25,Baltimore,Ravens,American,North,9,7,0,391,261,2,NFL
+2009,NFLTeam28,Pittsburgh,Steelers,American,North,9,7,0,368,324,3,NFL
+2009,NFLTeam27,Cleveland,Browns,American,North,5,11,0,245,375,4,NFL
+2009,NFLTeam30,Indianapolis,Colts,American,South,14,2,0,416,307,1,NFL
+2009,NFLTeam29,Houston,Texans,American,South,9,7,0,388,333,2,NFL
+2009,NFLTeam32,Tennessee,Titans,American,South,8,8,0,354,402,3,NFL
+2009,NFLTeam31,Jacksonville,Jaguars,American,South,7,9,0,290,380,4,NFL
+2009,NFLTeam24,San Diego,Chargers,American,West,13,3,0,454,320,1,NFL
+2009,NFLTeam21,Denver,Broncos,American,West,8,8,0,326,324,2,NFL
+2009,NFLTeam23,Oakland,Raiders,American,West,5,11,0,197,379,3,NFL
+2009,NFLTeam22,Kansas City,Chiefs,American,West,4,12,0,294,424,4,NFL
+2009,NFLTeam2,Dallas,Cowboys,National,East,11,5,0,361,250,1,NFL
+2009,NFLTeam1,Philadelphia,Eagles,National,East,11,5,0,429,337,2,NFL
+2009,NFLTeam3,New York,Giants,National,East,8,8,0,402,427,3,NFL
+2009,NFLTeam4,Washington,Redskins,National,East,4,12,0,266,336,4,NFL
+2009,NFLTeam12,Minnesota,Vikings,National,North,12,4,0,470,312,1,NFL
+2009,NFLTeam11,Green Bay,Packers,National,North,11,5,0,461,297,2,NFL
+2009,NFLTeam9,Chicago,Bears,National,North,7,9,0,327,375,3,NFL
+2009,NFLTeam10,Detroit,Lions,National,North,2,14,0,262,494,4,NFL
+2009,NFLTeam15,New Orleans,Saints,National,South,13,3,0,510,341,1,NFL
+2009,NFLTeam13,Atlanta,Falcons,National,South,9,7,0,363,325,2,NFL
+2009,NFLTeam14,Carolina,Panthers,National,South,8,8,0,315,308,3,NFL
+2009,NFLTeam16,Tampa Bay,Buccaneers,National,South,3,13,0,244,400,4,NFL
+2009,NFLTeam5,Arizona,Cardinals,National,West,10,6,0,375,325,1,NFL
+2009,NFLTeam6,San Francisco,49ers,National,West,8,8,0,330,281,2,NFL
+2009,NFLTeam7,Seattle,Seahawks,National,West,5,11,0,280,390,3,NFL
+2009,NFLTeam8,St. Louis,Rams,National,West,1,15,0,175,436,4,NFL
+2010,NFLTeam19,New England,Patriots,American,East,14,2,0,518,313,1,NFL
+2010,NFLTeam20,New York,Jets,American,East,11,5,0,367,304,2,NFL
+2010,NFLTeam18,Miami,Dolphins,American,East,7,9,0,273,333,3,NFL
+2010,NFLTeam17,Buffalo,Bills,American,East,4,12,0,283,425,4,NFL
+2010,NFLTeam28,Pittsburgh,Steelers,American,North,12,4,0,375,232,1,NFL
+2010,NFLTeam25,Baltimore,Ravens,American,North,12,4,0,357,270,2,NFL
+2010,NFLTeam27,Cleveland,Browns,American,North,5,11,0,271,332,3,NFL
+2010,NFLTeam26,Cincinnati,Bengals,American,North,4,12,0,322,395,4,NFL
+2010,NFLTeam30,Indianapolis,Colts,American,South,10,6,0,435,388,1,NFL
+2010,NFLTeam31,Jacksonville,Jaguars,American,South,8,8,0,353,419,2,NFL
+2010,NFLTeam29,Houston,Texans,American,South,6,10,0,390,427,3,NFL
+2010,NFLTeam32,Tennessee,Titans,American,South,6,10,0,356,339,4,NFL
+2010,NFLTeam22,Kansas City,Chiefs,American,West,10,6,0,366,326,1,NFL
+2010,NFLTeam24,San Diego,Chargers,American,West,9,7,0,441,322,2,NFL
+2010,NFLTeam23,Oakland,Raiders,American,West,8,8,0,410,371,3,NFL
+2010,NFLTeam21,Denver,Broncos,American,West,4,12,0,344,471,4,NFL
+2010,NFLTeam1,Philadelphia,Eagles,National,East,10,6,0,439,377,1,NFL
+2010,NFLTeam3,New York,Giants,National,East,10,6,0,394,347,2,NFL
+2010,NFLTeam2,Dallas,Cowboys,National,East,6,10,0,394,436,3,NFL
+2010,NFLTeam4,Washington,Redskins,National,East,6,10,0,302,377,4,NFL
+2010,NFLTeam9,Chicago,Bears,National,North,11,5,0,334,286,1,NFL
+2010,NFLTeam11,Green Bay,Packers,National,North,10,6,0,388,240,2,NFL
+2010,NFLTeam10,Detroit,Lions,National,North,6,10,0,362,369,3,NFL
+2010,NFLTeam12,Minnesota,Vikings,National,North,6,10,0,281,348,4,NFL
+2010,NFLTeam13,Atlanta,Falcons,National,South,13,3,0,414,288,1,NFL
+2010,NFLTeam15,New Orleans,Saints,National,South,11,5,0,384,307,2,NFL
+2010,NFLTeam16,Tampa Bay,Buccaneers,National,South,10,6,0,341,318,3,NFL
+2010,NFLTeam14,Carolina,Panthers,National,South,2,14,0,196,408,4,NFL
+2010,NFLTeam7,Seattle,Seahawks,National,West,7,9,0,310,407,1,NFL
+2010,NFLTeam8,St. Louis,Rams,National,West,7,9,0,289,328,2,NFL
+2010,NFLTeam6,San Francisco,49ers,National,West,6,10,0,305,346,3,NFL
+2010,NFLTeam5,Arizona,Cardinals,National,West,5,11,0,289,434,4,NFL
+2011,NFLTeam19,New England,Patriots,American,East,13,3,0,513,342,1,NFL
+2011,NFLTeam20,New York,Jets,American,East,8,8,0,377,363,2,NFL
+2011,NFLTeam18,Miami,Dolphins,American,East,6,10,0,329,313,3,NFL
+2011,NFLTeam17,Buffalo,Bills,American,East,6,10,0,372,434,4,NFL
+2011,NFLTeam25,Baltimore,Ravens,American,North,12,4,0,378,266,1,NFL
+2011,NFLTeam28,Pittsburgh,Steelers,American,North,12,4,0,325,227,2,NFL
+2011,NFLTeam26,Cincinnati,Bengals,American,North,9,7,0,344,323,3,NFL
+2011,NFLTeam27,Cleveland,Browns,American,North,4,12,0,218,307,4,NFL
+2011,NFLTeam29,Houston,Texans,American,South,10,6,0,381,278,1,NFL
+2011,NFLTeam32,Tennessee,Titans,American,South,9,7,0,325,317,2,NFL
+2011,NFLTeam31,Jacksonville,Jaguars,American,South,5,11,0,243,329,3,NFL
+2011,NFLTeam30,Indianapolis,Colts,American,South,2,14,0,243,430,4,NFL
+2011,NFLTeam21,Denver,Broncos,American,West,8,8,0,309,390,1,NFL
+2011,NFLTeam24,San Diego,Chargers,American,West,8,8,0,406,377,2,NFL
+2011,NFLTeam23,Oakland,Raiders,American,West,8,8,0,359,433,3,NFL
+2011,NFLTeam22,Kansas City,Chiefs,American,West,7,9,0,212,338,4,NFL
+2011,NFLTeam3,New York,Giants,National,East,9,7,0,394,400,1,NFL
+2011,NFLTeam1,Philadelphia,Eagles,National,East,8,8,0,396,328,2,NFL
+2011,NFLTeam2,Dallas,Cowboys,National,East,8,8,0,369,347,3,NFL
+2011,NFLTeam4,Washington,Redskins,National,East,5,11,0,288,367,4,NFL
+2011,NFLTeam11,Green Bay,Packers,National,North,15,1,0,560,359,1,NFL
+2011,NFLTeam10,Detroit,Lions,National,North,10,6,0,474,387,2,NFL
+2011,NFLTeam9,Chicago,Bears,National,North,8,8,0,353,341,3,NFL
+2011,NFLTeam12,Minnesota,Vikings,National,North,3,13,0,340,449,4,NFL
+2011,NFLTeam15,New Orleans,Saints,National,South,13,3,0,547,339,1,NFL
+2011,NFLTeam13,Atlanta,Falcons,National,South,10,6,0,402,350,2,NFL
+2011,NFLTeam14,Carolina,Panthers,National,South,6,10,0,406,429,3,NFL
+2011,NFLTeam16,Tampa Bay,Buccaneers,National,South,4,12,0,287,494,4,NFL
+2011,NFLTeam6,San Francisco,49ers,National,West,13,3,0,380,229,1,NFL
+2011,NFLTeam5,Arizona,Cardinals,National,West,8,8,0,312,348,2,NFL
+2011,NFLTeam7,Seattle,Seahawks,National,West,7,9,0,321,315,3,NFL
+2011,NFLTeam8,St. Louis,Rams,National,West,2,14,0,193,407,4,NFL
+2012,NFLTeam19,New England,Patriots,American,East,12,4,0,557,331,1,NFL
+2012,NFLTeam18,Miami,Dolphins,American,East,7,9,0,288,317,2,NFL
+2012,NFLTeam20,New York,Jets,American,East,6,10,0,281,375,3,NFL
+2012,NFLTeam17,Buffalo,Bills,American,East,6,10,0,344,435,4,NFL
+2012,NFLTeam25,Baltimore,Ravens,American,North,10,6,0,398,344,1,NFL
+2012,NFLTeam26,Cincinnati,Bengals,American,North,10,6,0,391,320,2,NFL
+2012,NFLTeam28,Pittsburgh,Steelers,American,North,8,8,0,336,314,3,NFL
+2012,NFLTeam27,Cleveland,Browns,American,North,5,11,0,302,368,4,NFL
+2012,NFLTeam29,Houston,Texans,American,South,12,4,0,416,331,1,NFL
+2012,NFLTeam30,Indianapolis,Colts,American,South,11,5,0,357,387,2,NFL
+2012,NFLTeam32,Tennessee,Titans,American,South,6,10,0,330,471,3,NFL
+2012,NFLTeam31,Jacksonville,Jaguars,American,South,2,14,0,255,444,4,NFL
+2012,NFLTeam21,Denver,Broncos,American,West,13,3,0,481,289,1,NFL
+2012,NFLTeam24,San Diego,Chargers,American,West,7,9,0,350,350,2,NFL
+2012,NFLTeam23,Oakland,Raiders,American,West,4,12,0,290,443,3,NFL
+2012,NFLTeam22,Kansas City,Chiefs,American,West,2,14,0,211,425,4,NFL
+2012,NFLTeam4,Washington,Redskins,National,East,10,6,0,436,388,1,NFL
+2012,NFLTeam3,New York,Giants,National,East,9,7,0,429,344,2,NFL
+2012,NFLTeam2,Dallas,Cowboys,National,East,8,8,0,376,400,3,NFL
+2012,NFLTeam1,Philadelphia,Eagles,National,East,4,12,0,280,444,4,NFL
+2012,NFLTeam11,Green Bay,Packers,National,North,11,5,0,433,336,1,NFL
+2012,NFLTeam12,Minnesota,Vikings,National,North,10,6,0,379,348,2,NFL
+2012,NFLTeam9,Chicago,Bears,National,North,10,6,0,375,277,3,NFL
+2012,NFLTeam10,Detroit,Lions,National,North,4,12,0,372,437,4,NFL
+2012,NFLTeam13,Atlanta,Falcons,National,South,13,3,0,419,299,1,NFL
+2012,NFLTeam14,Carolina,Panthers,National,South,7,9,0,357,363,2,NFL
+2012,NFLTeam15,New Orleans,Saints,National,South,7,9,0,461,454,3,NFL
+2012,NFLTeam16,Tampa Bay,Buccaneers,National,South,7,9,0,389,394,4,NFL
+2012,NFLTeam6,San Francisco,49ers,National,West,11,4,1,397,273,1,NFL
+2012,NFLTeam7,Seattle,Seahawks,National,West,11,5,0,412,245,2,NFL
+2012,NFLTeam8,St. Louis,Rams,National,West,7,8,1,299,348,3,NFL
+2012,NFLTeam5,Arizona,Cardinals,National,West,5,11,0,250,357,4,NFL
+2013,NFLTeam19,New England,Patriots,American,East,12,4,0,444,338,1,NFL
+2013,NFLTeam20,New York,Jets,American,East,8,8,0,290,387,2,NFL
+2013,NFLTeam18,Miami,Dolphins,American,East,8,8,0,317,335,3,NFL
+2013,NFLTeam17,Buffalo,Bills,American,East,6,10,0,339,388,4,NFL
+2013,NFLTeam26,Cincinnati,Bengals,American,North,11,5,0,430,305,1,NFL
+2013,NFLTeam28,Pittsburgh,Steelers,American,North,8,8,0,379,370,2,NFL
+2013,NFLTeam25,Baltimore,Ravens,American,North,8,8,0,320,352,3,NFL
+2013,NFLTeam27,Cleveland,Browns,American,North,4,12,0,308,406,4,NFL
+2013,NFLTeam30,Indianapolis,Colts,American,South,11,5,0,391,336,1,NFL
+2013,NFLTeam32,Tennessee,Titans,American,South,7,9,0,362,381,2,NFL
+2013,NFLTeam31,Jacksonville,Jaguars,American,South,4,12,0,247,449,3,NFL
+2013,NFLTeam29,Houston,Texans,American,South,2,14,0,276,428,4,NFL
+2013,NFLTeam21,Denver,Broncos,American,West,13,3,0,606,399,1,NFL
+2013,NFLTeam22,Kansas City,Chiefs,American,West,11,5,0,430,305,2,NFL
+2013,NFLTeam24,San Diego,Chargers,American,West,9,7,0,396,348,3,NFL
+2013,NFLTeam23,Oakland,Raiders,American,West,4,12,0,322,453,4,NFL
+2013,NFLTeam1,Philadelphia,Eagles,National,East,10,6,0,442,382,1,NFL
+2013,NFLTeam2,Dallas,Cowboys,National,East,8,8,0,439,432,2,NFL
+2013,NFLTeam3,New York,Giants,National,East,7,9,0,294,383,3,NFL
+2013,NFLTeam4,Washington,Redskins,National,East,3,13,0,334,478,4,NFL
+2013,NFLTeam11,Green Bay,Packers,National,North,8,7,1,417,428,1,NFL
+2013,NFLTeam9,Chicago,Bears,National,North,8,8,0,445,478,2,NFL
+2013,NFLTeam10,Detroit,Lions,National,North,7,9,0,395,376,3,NFL
+2013,NFLTeam12,Minnesota,Vikings,National,North,5,10,1,391,480,4,NFL
+2013,NFLTeam14,Carolina,Panthers,National,South,12,4,0,366,241,1,NFL
+2013,NFLTeam15,New Orleans,Saints,National,South,11,5,0,414,304,2,NFL
+2013,NFLTeam13,Atlanta,Falcons,National,South,4,12,0,353,443,3,NFL
+2013,NFLTeam16,Tampa Bay,Buccaneers,National,South,4,12,0,288,389,4,NFL
+2013,NFLTeam7,Seattle,Seahawks,National,West,13,3,0,417,231,1,NFL
+2013,NFLTeam6,San Francisco,49ers,National,West,12,4,0,406,272,2,NFL
+2013,NFLTeam5,Arizona,Cardinals,National,West,10,6,0,379,324,3,NFL
+2013,NFLTeam8,St. Louis,Rams,National,West,7,9,0,348,364,4,NFL
+2014,NFLTeam19,New England,Patriots,American,East,12,4,0,468,313,1,NFL
+2014,NFLTeam17,Buffalo,Bills,American,East,9,7,0,343,289,2,NFL
+2014,NFLTeam18,Miami,Dolphins,American,East,8,8,0,388,373,3,NFL
+2014,NFLTeam20,New York,Jets,American,East,4,12,0,283,401,4,NFL
+2014,NFLTeam28,Pittsburgh,Steelers,American,North,11,5,0,436,368,1,NFL
+2014,NFLTeam26,Cincinnati,Bengals,American,North,10,5,1,365,344,2,NFL
+2014,NFLTeam25,Baltimore,Ravens,American,North,10,6,0,409,302,3,NFL
+2014,NFLTeam27,Cleveland,Browns,American,North,7,9,0,299,337,4,NFL
+2014,NFLTeam30,Indianapolis,Colts,American,South,11,5,0,458,369,1,NFL
+2014,NFLTeam29,Houston,Texans,American,South,9,7,0,372,307,2,NFL
+2014,NFLTeam31,Jacksonville,Jaguars,American,South,3,13,0,249,412,3,NFL
+2014,NFLTeam32,Tennessee,Titans,American,South,2,14,0,254,438,4,NFL
+2014,NFLTeam21,Denver,Broncos,American,West,12,4,0,482,354,1,NFL
+2014,NFLTeam22,Kansas City,Chiefs,American,West,9,7,0,353,281,2,NFL
+2014,NFLTeam24,San Diego,Chargers,American,West,9,7,0,348,348,3,NFL
+2014,NFLTeam23,Oakland,Raiders,American,West,3,13,0,253,452,4,NFL
+2014,NFLTeam2,Dallas,Cowboys,National,East,12,4,0,467,352,1,NFL
+2014,NFLTeam1,Philadelphia,Eagles,National,East,10,6,0,474,400,2,NFL
+2014,NFLTeam3,New York,Giants,National,East,6,10,0,380,400,3,NFL
+2014,NFLTeam4,Washington,Redskins,National,East,4,12,0,301,438,4,NFL
+2014,NFLTeam11,Green Bay,Packers,National,North,12,4,0,486,348,1,NFL
+2014,NFLTeam10,Detroit,Lions,National,North,11,5,0,321,282,2,NFL
+2014,NFLTeam12,Minnesota,Vikings,National,North,7,9,0,325,343,3,NFL
+2014,NFLTeam9,Chicago,Bears,National,North,5,11,0,319,442,4,NFL
+2014,NFLTeam14,Carolina,Panthers,National,South,7,8,1,339,374,1,NFL
+2014,NFLTeam15,New Orleans,Saints,National,South,7,9,0,401,424,2,NFL
+2014,NFLTeam13,Atlanta,Falcons,National,South,6,10,0,381,417,3,NFL
+2014,NFLTeam16,Tampa Bay,Buccaneers,National,South,2,14,0,277,410,4,NFL
+2014,NFLTeam7,Seattle,Seahawks,National,West,12,4,0,394,254,1,NFL
+2014,NFLTeam5,Arizona,Cardinals,National,West,11,5,0,310,299,2,NFL
+2014,NFLTeam6,San Francisco,49ers,National,West,8,8,0,306,340,3,NFL
+2014,NFLTeam8,St. Louis,Rams,National,West,6,10,0,324,354,4,NFL
+2015,NFLTeam19,New England,Patriots,American,East,12,4,0,465,315,1,NFL
+2015,NFLTeam20,New York,Jets,American,East,10,6,0,387,314,2,NFL
+2015,NFLTeam17,Buffalo,Bills,American,East,8,8,0,379,359,3,NFL
+2015,NFLTeam18,Miami,Dolphins,American,East,6,10,0,310,389,4,NFL
+2015,NFLTeam26,Cincinnati,Bengals,American,North,12,4,0,419,279,1,NFL
+2015,NFLTeam28,Pittsburgh,Steelers,American,North,10,6,0,423,319,2,NFL
+2015,NFLTeam25,Baltimore,Ravens,American,North,5,11,0,328,401,3,NFL
+2015,NFLTeam27,Cleveland,Browns,American,North,3,13,0,278,432,4,NFL
+2015,NFLTeam29,Houston,Texans,American,South,9,7,0,339,313,1,NFL
+2015,NFLTeam30,Indianapolis,Colts,American,South,8,8,0,333,408,2,NFL
+2015,NFLTeam31,Jacksonville,Jaguars,American,South,5,11,0,376,448,3,NFL
+2015,NFLTeam32,Tennessee,Titans,American,South,3,13,0,299,423,4,NFL
+2015,NFLTeam21,Denver,Broncos,American,West,12,4,0,355,296,1,NFL
+2015,NFLTeam22,Kansas City,Chiefs,American,West,11,5,0,405,287,2,NFL
+2015,NFLTeam23,Oakland,Raiders,American,West,7,9,0,359,399,3,NFL
+2015,NFLTeam24,San Diego,Chargers,American,West,4,12,0,320,398,4,NFL
+2015,NFLTeam4,Washington,Redskins,National,East,9,7,0,388,379,1,NFL
+2015,NFLTeam1,Philadelphia,Eagles,National,East,7,9,0,377,430,2,NFL
+2015,NFLTeam3,New York,Giants,National,East,6,10,0,420,442,3,NFL
+2015,NFLTeam2,Dallas,Cowboys,National,East,4,12,0,275,374,4,NFL
+2015,NFLTeam12,Minnesota,Vikings,National,North,11,5,0,365,302,1,NFL
+2015,NFLTeam11,Green Bay,Packers,National,North,10,6,0,368,323,2,NFL
+2015,NFLTeam10,Detroit,Lions,National,North,7,9,0,358,400,3,NFL
+2015,NFLTeam9,Chicago,Bears,National,North,6,10,0,335,397,4,NFL
+2015,NFLTeam14,Carolina,Panthers,National,South,15,1,0,500,308,1,NFL
+2015,NFLTeam13,Atlanta,Falcons,National,South,8,8,0,339,345,2,NFL
+2015,NFLTeam15,New Orleans,Saints,National,South,7,9,0,408,476,3,NFL
+2015,NFLTeam16,Tampa Bay,Buccaneers,National,South,6,10,0,342,417,4,NFL
+2015,NFLTeam5,Arizona,Cardinals,National,West,13,3,0,489,313,1,NFL
+2015,NFLTeam7,Seattle,Seahawks,National,West,10,6,0,423,277,2,NFL
+2015,NFLTeam8,St. Louis,Rams,National,West,7,9,0,280,330,3,NFL
+2015,NFLTeam6,San Francisco,49ers,National,West,5,11,0,238,387,4,NFL
+2016,NFLTeam19,New England,Patriots,American,East,14,2,0,441,250,1,NFL
+2016,NFLTeam18,Miami,Dolphins,American,East,10,6,0,363,380,2,NFL
+2016,NFLTeam17,Buffalo,Bills,American,East,7,9,0,399,378,3,NFL
+2016,NFLTeam20,New York,Jets,American,East,5,11,0,275,409,4,NFL
+2016,NFLTeam28,Pittsburgh,Steelers,American,North,11,5,0,399,327,1,NFL
+2016,NFLTeam25,Baltimore,Ravens,American,North,8,8,0,343,321,2,NFL
+2016,NFLTeam26,Cincinnati,Bengals,American,North,6,9,1,325,315,3,NFL
+2016,NFLTeam27,Cleveland,Browns,American,North,1,15,0,264,452,4,NFL
+2016,NFLTeam29,Houston,Texans,American,South,9,7,0,279,328,1,NFL
+2016,NFLTeam32,Tennessee,Titans,American,South,9,7,0,381,378,2,NFL
+2016,NFLTeam30,Indianapolis,Colts,American,South,8,8,0,411,392,3,NFL
+2016,NFLTeam31,Jacksonville,Jaguars,American,South,3,13,0,318,400,4,NFL
+2016,NFLTeam22,Kansas City,Chiefs,American,West,12,4,0,389,311,1,NFL
+2016,NFLTeam23,Oakland,Raiders,American,West,12,4,0,416,385,2,NFL
+2016,NFLTeam21,Denver,Broncos,American,West,9,7,0,333,297,3,NFL
+2016,NFLTeam24,San Diego,Chargers,American,West,5,11,0,410,423,4,NFL
+2016,NFLTeam2,Dallas,Cowboys,National,East,13,3,0,421,306,1,NFL
+2016,NFLTeam3,New York,Giants,National,East,11,5,0,310,284,2,NFL
+2016,NFLTeam4,Washington,Redskins,National,East,8,7,1,396,383,3,NFL
+2016,NFLTeam1,Philadelphia,Eagles,National,East,7,9,0,367,331,4,NFL
+2016,NFLTeam11,Green Bay,Packers,National,North,10,6,0,432,388,1,NFL
+2016,NFLTeam10,Detroit,Lions,National,North,9,7,0,346,358,2,NFL
+2016,NFLTeam12,Minnesota,Vikings,National,North,8,8,0,327,307,3,NFL
+2016,NFLTeam9,Chicago,Bears,National,North,3,13,0,279,399,4,NFL
+2016,NFLTeam13,Atlanta,Falcons,National,South,11,5,0,540,406,1,NFL
+2016,NFLTeam16,Tampa Bay,Buccaneers,National,South,9,7,0,354,369,2,NFL
+2016,NFLTeam15,New Orleans,Saints,National,South,7,9,0,469,454,3,NFL
+2016,NFLTeam14,Carolina,Panthers,National,South,6,10,0,369,402,4,NFL
+2016,NFLTeam7,Seattle,Seahawks,National,West,10,5,1,354,292,1,NFL
+2016,NFLTeam5,Arizona,Cardinals,National,West,7,8,1,418,362,2,NFL
+2016,NFLTeam8,Los Angeles,Rams,National,West,4,12,0,224,394,3,NFL
+2016,NFLTeam6,San Francisco,49ers,National,West,2,14,0,309,480,4,NFL
+2017,NFLTeam19,New England,Patriots,American,East,13,3,0,458,296,1,NFL
+2017,NFLTeam17,Buffalo,Bills,American,East,9,7,0,302,359,2,NFL
+2017,NFLTeam18,Miami,Dolphins,American,East,6,10,0,281,393,3,NFL
+2017,NFLTeam20,New York,Jets,American,East,5,11,0,298,382,4,NFL
+2017,NFLTeam28,Pittsburgh,Steelers,American,North,13,3,0,406,308,1,NFL
+2017,NFLTeam25,Baltimore,Ravens,American,North,9,7,0,395,303,2,NFL
+2017,NFLTeam26,Cincinnati,Bengals,American,North,7,9,0,290,349,3,NFL
+2017,NFLTeam27,Cleveland,Browns,American,North,0,16,0,234,410,4,NFL
+2017,NFLTeam31,Jacksonville,Jaguars,American,South,10,6,0,417,268,1,NFL
+2017,NFLTeam32,Tennessee,Titans,American,South,9,7,0,334,356,2,NFL
+2017,NFLTeam30,Indianapolis,Colts,American,South,4,12,0,263,404,3,NFL
+2017,NFLTeam29,Houston,Texans,American,South,4,12,0,338,436,4,NFL
+2017,NFLTeam22,Kansas City,Chiefs,American,West,10,6,0,415,339,1,NFL
+2017,NFLTeam24,Los Angeles,Chargers,American,West,9,7,0,355,272,2,NFL
+2017,NFLTeam23,Oakland,Raiders,American,West,6,10,0,301,373,3,NFL
+2017,NFLTeam21,Denver,Broncos,American,West,5,11,0,289,382,4,NFL
+2017,NFLTeam1,Philadelphia,Eagles,National,East,13,3,0,457,295,1,NFL
+2017,NFLTeam2,Dallas,Cowboys,National,East,9,7,0,354,332,2,NFL
+2017,NFLTeam4,Washington,Redskins,National,East,7,9,0,342,388,3,NFL
+2017,NFLTeam3,New York,Giants,National,East,3,13,0,246,388,4,NFL
+2017,NFLTeam12,Minnesota,Vikings,National,North,13,3,0,382,252,1,NFL
+2017,NFLTeam10,Detroit,Lions,National,North,9,7,0,410,376,2,NFL
+2017,NFLTeam11,Green Bay,Packers,National,North,7,9,0,320,384,3,NFL
+2017,NFLTeam9,Chicago,Bears,National,North,5,11,0,264,320,4,NFL
+2017,NFLTeam15,New Orleans,Saints,National,South,11,5,0,448,326,1,NFL
+2017,NFLTeam14,Carolina,Panthers,National,South,11,5,0,363,327,2,NFL
+2017,NFLTeam13,Atlanta,Falcons,National,South,10,6,0,353,315,3,NFL
+2017,NFLTeam16,Tampa Bay,Buccaneers,National,South,5,11,0,335,382,4,NFL
+2017,NFLTeam8,Los Angeles,Rams,National,West,11,5,0,478,329,1,NFL
+2017,NFLTeam7,Seattle,Seahawks,National,West,9,7,0,366,332,2,NFL
+2017,NFLTeam5,Arizona,Cardinals,National,West,8,8,0,295,361,3,NFL
+2017,NFLTeam6,San Francisco,49ers,National,West,6,10,0,331,383,4,NFL
+2018,NFLTeam19,New England,Patriots,American,East,11,5,0,436,325,1,NFL
+2018,NFLTeam18,Miami,Dolphins,American,East,7,9,0,319,433,2,NFL
+2018,NFLTeam17,Buffalo,Bills,American,East,6,10,0,269,374,3,NFL
+2018,NFLTeam20,New York,Jets,American,East,4,12,0,333,441,4,NFL
+2018,NFLTeam25,Baltimore,Ravens,American,North,10,6,0,389,287,1,NFL
+2018,NFLTeam28,Pittsburgh,Steelers,American,North,9,6,1,428,360,2,NFL
+2018,NFLTeam27,Cleveland,Browns,American,North,7,8,1,359,392,3,NFL
+2018,NFLTeam26,Cincinnati,Bengals,American,North,6,10,0,368,455,4,NFL
+2018,NFLTeam29,Houston,Texans,American,South,11,5,0,402,316,1,NFL
+2018,NFLTeam30,Indianapolis,Colts,American,South,10,6,0,433,344,2,NFL
+2018,NFLTeam32,Tennessee,Titans,American,South,9,7,0,310,303,3,NFL
+2018,NFLTeam31,Jacksonville,Jaguars,American,South,5,11,0,245,316,4,NFL
+2018,NFLTeam22,Kansas City,Chiefs,American,West,12,4,0,565,421,1,NFL
+2018,NFLTeam24,Los Angeles,Chargers,American,West,12,4,0,428,329,2,NFL
+2018,NFLTeam21,Denver,Broncos,American,West,6,10,0,329,349,3,NFL
+2018,NFLTeam23,Oakland,Raiders,American,West,4,12,0,290,467,4,NFL
+2018,NFLTeam2,Dallas,Cowboys,National,East,10,6,0,339,324,1,NFL
+2018,NFLTeam1,Philadelphia,Eagles,National,East,9,7,0,367,348,2,NFL
+2018,NFLTeam4,Washington,Redskins,National,East,7,9,0,281,359,3,NFL
+2018,NFLTeam3,New York,Giants,National,East,5,11,0,369,412,4,NFL
+2018,NFLTeam9,Chicago,Bears,National,North,12,4,0,421,283,1,NFL
+2018,NFLTeam12,Minnesota,Vikings,National,North,8,7,1,360,341,2,NFL
+2018,NFLTeam11,Green Bay,Packers,National,North,6,9,1,376,400,3,NFL
+2018,NFLTeam10,Detroit,Lions,National,North,6,10,0,324,360,4,NFL
+2018,NFLTeam15,New Orleans,Saints,National,South,13,3,0,504,353,1,NFL
+2018,NFLTeam13,Atlanta,Falcons,National,South,7,9,0,414,423,2,NFL
+2018,NFLTeam14,Carolina,Panthers,National,South,7,9,0,376,382,3,NFL
+2018,NFLTeam16,Tampa Bay,Buccaneers,National,South,5,11,0,396,464,4,NFL
+2018,NFLTeam8,Los Angeles,Rams,National,West,13,3,0,527,384,1,NFL
+2018,NFLTeam7,Seattle,Seahawks,National,West,10,6,0,428,347,2,NFL
+2018,NFLTeam6,San Francisco,49ers,National,West,4,12,0,342,435,3,NFL
+2018,NFLTeam5,Arizona,Cardinals,National,West,3,13,0,225,425,4,NFL
+2019,NFLTeam19,New England,Patriots,American,East,12,4,0,420,225,1,NFL
+2019,NFLTeam17,Buffalo,Bills,American,East,10,6,0,314,259,2,NFL
+2019,NFLTeam20,New York,Jets,American,East,7,9,0,276,359,3,NFL
+2019,NFLTeam18,Miami,Dolphins,American,East,5,11,0,306,494,4,NFL
+2019,NFLTeam25,Baltimore,Ravens,American,North,14,2,0,531,282,1,NFL
+2019,NFLTeam28,Pittsburgh,Steelers,American,North,8,8,0,289,303,2,NFL
+2019,NFLTeam27,Cleveland,Browns,American,North,6,10,0,335,393,3,NFL
+2019,NFLTeam26,Cincinnati,Bengals,American,North,2,14,0,279,420,4,NFL
+2019,NFLTeam29,Houston,Texans,American,South,10,6,0,378,385,1,NFL
+2019,NFLTeam32,Tennessee,Titans,American,South,9,7,0,402,331,2,NFL
+2019,NFLTeam30,Indianapolis,Colts,American,South,7,9,0,361,373,3,NFL
+2019,NFLTeam31,Jacksonville,Jaguars,American,South,6,10,0,300,397,4,NFL
+2019,NFLTeam22,Kansas City,Chiefs,American,West,12,4,0,451,308,1,NFL
+2019,NFLTeam21,Denver,Broncos,American,West,7,9,0,282,316,2,NFL
+2019,NFLTeam23,Oakland,Raiders,American,West,7,9,0,313,419,3,NFL
+2019,NFLTeam24,Los Angeles,Chargers,American,West,5,11,0,337,345,4,NFL
+2019,NFLTeam1,Philadelphia,Eagles,National,East,9,7,0,385,354,1,NFL
+2019,NFLTeam2,Dallas,Cowboys,National,East,8,8,0,434,321,2,NFL
+2019,NFLTeam3,New York,Giants,National,East,4,12,0,341,451,3,NFL
+2019,NFLTeam4,Washington,Redskins,National,East,3,13,0,266,435,4,NFL
+2019,NFLTeam11,Green Bay,Packers,National,North,13,3,0,376,313,1,NFL
+2019,NFLTeam12,Minnesota,Vikings,National,North,10,6,0,407,303,2,NFL
+2019,NFLTeam9,Chicago,Bears,National,North,8,8,0,280,298,3,NFL
+2019,NFLTeam10,Detroit,Lions,National,North,3,12,1,341,423,4,NFL
+2019,NFLTeam15,New Orleans,Saints,National,South,13,3,0,458,341,1,NFL
+2019,NFLTeam13,Atlanta,Falcons,National,South,7,9,0,381,399,2,NFL
+2019,NFLTeam16,Tampa Bay,Buccaneers,National,South,7,9,0,458,449,3,NFL
+2019,NFLTeam14,Carolina,Panthers,National,South,5,11,0,340,470,4,NFL
+2019,NFLTeam6,San Francisco,49ers,National,West,13,3,0,479,310,1,NFL
+2019,NFLTeam7,Seattle,Seahawks,National,West,11,5,0,405,398,2,NFL
+2019,NFLTeam8,Los Angeles,Rams,National,West,9,7,0,394,364,3,NFL
+2019,NFLTeam5,Arizona,Cardinals,National,West,5,10,1,361,442,4,NFL
+2020,NFLTeam17,Buffalo,Bills,American,East,13,3,0,501,375,1,NFL
+2020,NFLTeam18,Miami,Dolphins,American,East,10,6,0,404,338,2,NFL
+2020,NFLTeam19,New England,Patriots,American,East,7,9,0,326,353,3,NFL
+2020,NFLTeam20,New York,Jets,American,East,2,14,0,243,457,4,NFL
+2020,NFLTeam28,Pittsburgh,Steelers,American,North,12,4,0,416,312,1,NFL
+2020,NFLTeam25,Baltimore,Ravens,American,North,11,5,0,468,303,2,NFL
+2020,NFLTeam27,Cleveland,Browns,American,North,11,5,0,408,419,3,NFL
+2020,NFLTeam26,Cincinnati,Bengals,American,North,4,11,1,311,424,4,NFL
+2020,NFLTeam32,Tennessee,Titans,American,South,11,5,0,491,439,1,NFL
+2020,NFLTeam30,Indianapolis,Colts,American,South,11,5,0,451,362,2,NFL
+2020,NFLTeam29,Houston,Texans,American,South,4,12,0,384,464,3,NFL
+2020,NFLTeam31,Jacksonville,Jaguars,American,South,1,15,0,306,492,4,NFL
+2020,NFLTeam22,Kansas City,Chiefs,American,West,14,2,0,473,362,1,NFL
+2020,NFLTeam23,Las Vegas,Raiders,American,West,8,8,0,434,478,2,NFL
+2020,NFLTeam24,Los Angeles,Chargers,American,West,7,9,0,384,426,3,NFL
+2020,NFLTeam21,Denver,Broncos,American,West,5,11,0,323,446,4,NFL
+2020,NFLTeam4,Washington,Football Team,National,East,7,9,0,335,329,1,NFL
+2020,NFLTeam3,New York,Giants,National,East,6,10,0,280,357,2,NFL
+2020,NFLTeam2,Dallas,Cowboys,National,East,6,10,0,395,473,3,NFL
+2020,NFLTeam1,Philadelphia,Eagles,National,East,4,11,1,334,418,4,NFL
+2020,NFLTeam11,Green Bay,Packers,National,North,13,3,0,509,369,1,NFL
+2020,NFLTeam9,Chicago,Bears,National,North,8,8,0,372,370,2,NFL
+2020,NFLTeam12,Minnesota,Vikings,National,North,7,9,0,430,475,3,NFL
+2020,NFLTeam10,Detroit,Lions,National,North,5,11,0,377,519,4,NFL
+2020,NFLTeam15,New Orleans,Saints,National,South,12,4,0,482,337,1,NFL
+2020,NFLTeam16,Tampa Bay,Buccaneers,National,South,11,5,0,492,355,2,NFL
+2020,NFLTeam14,Carolina,Panthers,National,South,5,11,0,350,402,3,NFL
+2020,NFLTeam13,Atlanta,Falcons,National,South,4,12,0,396,414,4,NFL
+2020,NFLTeam7,Seattle,Seahawks,National,West,12,4,0,459,371,1,NFL
+2020,NFLTeam8,Los Angeles,Rams,National,West,10,6,0,372,296,2,NFL
+2020,NFLTeam5,Arizona,Cardinals,National,West,8,8,0,410,367,3,NFL
+2020,NFLTeam6,San Francisco,49ers,National,West,6,10,0,376,390,4,NFL
+2021,NFLTeam17,Buffalo,Bills,American,East,11,6,0,483,289,1,NFL
+2021,NFLTeam19,New England,Patriots,American,East,10,7,0,462,303,2,NFL
+2021,NFLTeam18,Miami,Dolphins,American,East,9,8,0,341,373,3,NFL
+2021,NFLTeam20,New York,Jets,American,East,4,13,0,310,504,4,NFL
+2021,NFLTeam26,Cincinnati,Bengals,American,North,10,7,0,460,376,1,NFL
+2021,NFLTeam28,Pittsburgh,Steelers,American,North,9,7,1,343,398,2,NFL
+2021,NFLTeam27,Cleveland,Browns,American,North,8,9,0,349,371,3,NFL
+2021,NFLTeam25,Baltimore,Ravens,American,North,8,9,0,387,392,4,NFL
+2021,NFLTeam32,Tennessee,Titans,American,South,12,5,0,419,354,1,NFL
+2021,NFLTeam30,Indianapolis,Colts,American,South,9,8,0,451,365,2,NFL
+2021,NFLTeam29,Houston,Texans,American,South,4,13,0,280,452,3,NFL
+2021,NFLTeam31,Jacksonville,Jaguars,American,South,3,14,0,253,457,4,NFL
+2021,NFLTeam22,Kansas City,Chiefs,American,West,12,5,0,480,364,1,NFL
+2021,NFLTeam23,Las Vegas,Raiders,American,West,10,7,0,374,439,2,NFL
+2021,NFLTeam24,Los Angeles,Chargers,American,West,9,8,0,474,459,3,NFL
+2021,NFLTeam21,Denver,Broncos,American,West,7,10,0,335,322,4,NFL
+2021,NFLTeam2,Dallas,Cowboys,National,East,12,5,0,530,358,1,NFL
+2021,NFLTeam1,Philadelphia,Eagles,National,East,9,8,0,444,385,2,NFL
+2021,NFLTeam4,Washington,Football Team,National,East,7,10,0,335,434,3,NFL
+2021,NFLTeam3,New York,Giants,National,East,4,13,0,258,416,4,NFL
+2021,NFLTeam11,Green Bay,Packers,National,North,13,4,0,450,371,1,NFL
+2021,NFLTeam12,Minnesota,Vikings,National,North,8,9,0,425,426,2,NFL
+2021,NFLTeam9,Chicago,Bears,National,North,6,11,0,311,407,3,NFL
+2021,NFLTeam10,Detroit,Lions,National,North,3,13,1,325,467,4,NFL
+2021,NFLTeam16,Tampa Bay,Buccaneers,National,South,13,4,0,511,353,1,NFL
+2021,NFLTeam15,New Orleans,Saints,National,South,9,8,0,364,335,2,NFL
+2021,NFLTeam13,Atlanta,Falcons,National,South,7,10,0,313,459,3,NFL
+2021,NFLTeam14,Carolina,Panthers,National,South,5,12,0,304,404,4,NFL
+2021,NFLTeam8,Los Angeles,Rams,National,West,12,5,0,460,372,1,NFL
+2021,NFLTeam5,Arizona,Cardinals,National,West,11,6,0,449,366,2,NFL
+2021,NFLTeam6,San Francisco,49ers,National,West,10,7,0,427,365,3,NFL
+2021,NFLTeam7,Seattle,Seahawks,National,West,7,10,0,395,366,4,NFL
+2022,USFLTeam1,Philadelphia,Stars,None,North,0,0,0,0,0,1,USFL
+2022,USFLTeam2,New Orleans,Breakers,None,North,0,0,0,0,0,2,USFL
+2022,USFLTeam16,Pittsburgh,Maulers,None,North,0,0,0,0,0,3,USFL
+2022,USFLTeam7,Tampa Bay,Bandits,None,North,0,0,0,0,0,4,USFL
+2022,USFLTeam8,Birmingham,Stallions,None,South,0,0,0,0,0,1,USFL
+2022,USFLTeam3,New Jersey,Generals,None,South,0,0,0,0,0,2,USFL
+2022,USFLTeam13,Houston,Gamblers,None,South,0,0,0,0,0,3,USFL
+2022,USFLTeam5,Michigan,Panthers,None,South,0,0,0,0,0,4,USFL
