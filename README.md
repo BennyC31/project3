@@ -7,6 +7,22 @@ Provides summary information for American Professional Football.
 * Brendan Trafford
 * Ben Calderaio
 
+## Setup Environment
+* clone repo
+    * **git clone https://github.com/BennyC31/project3.git**
+* root dir (project3)
+    * **python3 -m venv venv** or **python -m venv venv**
+* activate environment
+    * MacOS: **source venv/bin/activate** or Windows **./venv/Scripts/activate**
+* install packages
+    **pip install -r requirements.txt**
+
+## Run App
+* footballdashboard dir (project3/footballdashboard)
+    **python app.py**
+* local default host:port
+    ***http://127.0.0.1:5000***
+
 ## Data Sources
 * NFL History
 
