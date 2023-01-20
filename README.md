@@ -1,6 +1,10 @@
 # Project3 - Professional Football Visualization
 Provides summary information for American Professional Football.
 
+## Project Description
+We are utilizing data from the NFL to look at team locations, team success (points for/against), and more. The data was pulled from the three sources above and loaded into PostgreSQL. To create a web application, we will use Python Flask and leaflet, dash plotly, and plotly. In leaflet, we will create a map to show all NFL teams and their locations over time. We will use dash plotly and plotly to showcase a variety of other features such as superbowl wins, general stats, and more in an interactive manner.
+
+
 ## Team Members
 * Sarah Caldwell
 * Bryan Denq
