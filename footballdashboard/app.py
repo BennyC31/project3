@@ -9,9 +9,9 @@ app = Flask(__name__)
 def index():
     return render_template('index.html')
 
-@app.route('/b')
+@app.route('/teaminfo')
 def bbutton():
-    return render_template('bbutton.html')
+    return render_template('teaminfo.html')
 
 @app.route('/teamlocs')
 def teamlocations():

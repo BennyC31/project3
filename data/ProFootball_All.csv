@@ -1,4 +1,4 @@
-year,team_id,location,name,conference,division,w,l,t,pf,pa,place,leagabrv
+leag_year,team_id,team_location,team_name,conference,division,w,l,t,pf,pa,place,leagabrv
 1920,NFLTeam57,Akron,Pros,None,None,8,0,3,151,7,1,NFL
 1920,NFLTeam9,Decatur,Staleys,None,None,10,1,2,164,21,2,NFL
 1920,NFLTeam47,Buffalo,All-Americans,None,None,9,1,1,258,32,3,NFL

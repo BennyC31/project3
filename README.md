@@ -11,6 +11,15 @@ We are utilizing data from the NFL to look at team locations, team success (poin
 * Brendan Trafford
 * Ben Calderaio
 
+## Database Setup
+* create_db.sql
+    * Creates football_db database.
+* football_schema.sql
+    * Creates schema and tables.
+* sql_scripts.sql
+    * Creates views and contains some sample sql.
+
+**Note**: Please create a sql_config.py file with your database connection information.
 ## Setup Environment
 * clone repo
     * **git clone https://github.com/BennyC31/project3.git**
