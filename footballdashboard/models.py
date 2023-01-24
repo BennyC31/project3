@@ -1,8 +1,17 @@
 import psycopg2
 from sql_config import database_name,username,password,host,port
+import pandas as pd
 
 team_locations = []
 team_summary = []
+# team_summary_df = pd.DataFrame()
+
+def create_team_summary_df():
+    conn = psycopg2.connect(dbname=database_name,user=username,password=password,host=host,port=port)
+    team_summary_df = pd.read_sql_query('select * from football_sch.profootballyearsummary order by leag_year,leagabrv,conference,division,place',conn)
+    conn.close()
+    return team_summary_df
+
 def create_data_objects():
     team_locs = []
     football_sum = []
@@ -16,6 +25,9 @@ def create_data_objects():
     cur.execute('select * from football_sch.profootballyearsummary order by leag_year,leagabrv,conference,division,place')
     football_sum = cur.fetchall()
     create_football_sum(football_sum=football_sum)
+
+    team_summary_df = pd.read_sql_query('select * from football_sch.profootballyearsummary order by leag_year,leagabrv,conference,division,place',conn)
+    # print(team_summary_df)
 
     # for i in range(len(team_locs)):
     #     print(team_locs[i][1])
@@ -86,6 +98,6 @@ class FootballYear():
     def __repr__(self):
         return f'team_id: {self.team_id}|team_location: {self.team_location}|team_name: {self.team_name}'
 
-create_data_objects()
-print(f'locs:{team_locations}')
-print(f'teams:{len(team_summary)}')
+# create_data_objects()
+# print(f'locs:{team_locations}')
+# print(f'teams:{len(team_summary)}')
