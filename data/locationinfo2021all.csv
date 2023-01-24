@@ -1,0 +1,33 @@
+football_location,team_name,team_location,state_code,lat,lon,conference,division,team_id
+Buffalo,Bills,Buffalo,NY,42.886715,-78.878395,American,East,NFLTeam17
+Miami,Dolphins,Miami,FL,25.774174,-80.19362,American,East,NFLTeam18
+New England,Patriots,Foxborough,MA,42.065376,-71.24783,American,East,NFLTeam19
+New York,Jets,Newark,NJ,40.735657,-74.17236,American,East,NFLTeam20
+Baltimore,Ravens,Baltimore,MD,39.290882,-76.610756,American,North,NFLTeam25
+Cincinnati,Bengals,Cincinnati,OH,39.10145,-84.51246,American,North,NFLTeam26
+Cleveland,Browns,Cleveland,OH,41.499657,-81.69368,American,North,NFLTeam27
+Pittsburgh,Steelers,Pittsburgh,PA,40.441692,-79.99009,American,North,NFLTeam28
+Houston,Texans,Houston,TX,29.758938,-95.3677,American,South,NFLTeam29
+Indianapolis,Colts,Indianapolis,IN,39.768333,-86.15835,American,South,NFLTeam30
+Jacksonville,Jaguars,Jacksonville,FL,30.332184,-81.65565,American,South,NFLTeam31
+Tennessee,Titans,Nashville,TN,36.1627,-86.76796,American,South,NFLTeam32
+Denver,Broncos,Denver,CO,39.739235,-104.98486,American,West,NFLTeam21
+Kansas City,Chiefs,Kansas City,KS,39.113457,-94.626495,American,West,NFLTeam22
+Las Vegas,Raiders,Las Vegas,NV,36.167255,-115.14851,American,West,NFLTeam23
+Los Angeles,Chargers,Los Angeles,CA,34.05369,-118.24277,American,West,NFLTeam24
+Dallas,Cowboys,Dallas,TX,32.77627,-96.79685,National,East,NFLTeam2
+New York,Giants,Newark,NJ,40.735657,-74.17236,National,East,NFLTeam3
+Philadelphia,Eagles,Philadelphia,PA,39.952724,-75.16353,National,East,NFLTeam1
+Washington,Football Team,Washington,DC,38.89504,-77.036545,National,East,NFLTeam4
+Chicago,Bears,Chicago,IL,41.87556,-87.62442,National,North,NFLTeam9
+Detroit,Lions,Detroit,MI,42.33155,-83.04664,National,North,NFLTeam10
+Green Bay,Packers,Green Bay,WI,44.512638,-88.01258,National,North,NFLTeam11
+Minnesota,Vikings,Minnesota,MN,44.9773,-93.26547,National,North,NFLTeam12
+Atlanta,Falcons,Atlanta,GA,33.748993,-84.39027,National,South,NFLTeam13
+Carolina,Panthers,Charlotte,NC,35.227207,-80.84309,National,South,NFLTeam14
+New Orleans,Saints,New Orleans,LA,29.975998,-90.07821,National,South,NFLTeam15
+Tampa Bay,Buccaneers,Tampa,FL,27.94776,-82.45844,National,South,NFLTeam16
+Arizona,Cardinals,Glendale,AR,35.849796,-90.640945,National,West,NFLTeam5
+Los Angeles,Rams,Los Angeles,CA,34.05369,-118.24277,National,West,NFLTeam8
+San Francisco,"49ers",San Francisco,CA,37.779026,-122.41991,National,West,NFLTeam6
+Seattle,Seahawks,Seattle,WA,47.603832,-122.33006,National,West,NFLTeam7

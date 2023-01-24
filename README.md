@@ -16,6 +16,8 @@ We are utilizing data from the NFL to look at team locations, team success (poin
     * Creates football_db database.
 * football_schema.sql
     * Creates schema and tables.
+        * import ProFootball_All.csv -> football_sch.profootballyearsummary
+        * import team_location_latlon.csv -> football_sch.teamlocation
 * sql_scripts.sql
     * Creates views and contains some sample sql.
 
@@ -26,7 +28,9 @@ We are utilizing data from the NFL to look at team locations, team success (poin
 * root dir (project3)
     * **python3 -m venv venv** or **python -m venv venv**
 * activate environment
-    * MacOS: **source venv/bin/activate** or Windows **./venv/Scripts/activate**
+    * MacOS: **source venv/bin/activate**
+    * Windows: **./venv/Scripts/activate**
+    * Git bash: **source venv/Scripts/activate**
 * install packages
     **pip install -r requirements.txt**
 
@@ -35,6 +39,11 @@ We are utilizing data from the NFL to look at team locations, team success (poin
     **python app.py**
 * local default host:port
     ***http://127.0.0.1:5000***
+
+## Data Files
+* ProFootball_All.csv
+* team_location_latlon.csv
+* locationinfo2021all.csv
 
 ## Data Sources
 * NFL History

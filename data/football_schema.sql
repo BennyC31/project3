@@ -28,11 +28,13 @@ CREATE TABLE football_sch.profootballyearsummary (
 
 -- Drop table
 
--- DROP TABLE football_sch.teamlocation;
+-- DROP TABLE football_sch.teamlocation cascade;
 
 CREATE TABLE football_sch.teamlocation (
 	loc_id int primary key,
 	team_location varchar(50) NOT NULL,
+	state_code varchar(4) NOT NULL,
 	lat float4 NULL,
-	lon float4 NULL
+	lon float4 null,
+	football_location varchar(50) NOT NULL
 );
