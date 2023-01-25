@@ -128,3 +128,8 @@ function init() {
 }
 
 init();
+
+d3.json("/teamdata").then(function (tmp_data){
+    data = tmp_data
+    console.log(data);
+})

@@ -22,6 +22,11 @@ def create_team_champs_df():
         'select leag_year,team_id,team_location,team_name,champ_name from football_sch.footballchamps',con=engine)
     return team_champ_df
 
+def create_team_locations_df():
+    team_loc_df = pd.read_sql_query(
+        'select * from football_sch.locationinfo2021all', con=engine)
+    return team_loc_df
+
 def close_conn():
     engine.dispose()
     

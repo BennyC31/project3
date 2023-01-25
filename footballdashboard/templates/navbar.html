@@ -1,0 +1,18 @@
+<!-- <nav class="navbar navbar-expand-lg navbar-light bg-light"> -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <div class="container-fluid">
+        <!-- <a class="navbar-brand" href="/">AFD</a> -->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+            <div class="navbar-nav">
+                <a class="nav-link active" aria-current="page" href="{{ url_for('index') }}">Home</a>
+                <a class="nav-link active" aria-current="page" href="{{ url_for('teaminfo') }}">Team Info</a>
+                <a class="nav-link active" aria-current="page" href="{{ url_for('teamlocations') }}">Team Locations</a>
+                <a class="nav-link active" aria-current="page" href="/teamhistory/">Team History</a>
+            </div>
+        </div>
+    </div>
+</nav>

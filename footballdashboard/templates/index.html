@@ -1,13 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Football Dashboard</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-</head>
-<body>
-    <h1>Welcome!</h1>
-</body>
-</html>
+{% extends 'base.html' %}
+{% block content %}
+<div class="container">
+    <h1 style="color: blue;">American Football Dashboard</h1>
+    <div>
+        <h4><a class="nav-link active" aria-current="page" href="{{ url_for('teaminfo') }}">Team Info</a></h4>
+        <p>Provides information on professional football teams from 1920 - present.</p>
+    </div>
+    <div>
+        <h4><a class="nav-link active" aria-current="page" href="{{ url_for('teamlocations') }}">Team Locations</a></h4>
+        <p>Displays where the current teams play on a map.</p>
+    </div>
+    <div>
+        <h4><a class="nav-link active" aria-current="page" href="/teamhistory/">Team History</a></h4>
+        <p>This is an application built using Dash.  Contains a year by year summary of 100+ year history for teams from
+            multiple leagues.  In addition, there is a section that shows the championships won for each team.
+        </p>
+    </div>
+</div>
+{% endblock %}
