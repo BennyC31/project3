@@ -38,3 +38,14 @@ CREATE TABLE football_sch.teamlocation (
 	lon float4 null,
 	football_location varchar(50) NOT NULL
 );
+
+-- DROP TABLE football_sch.footballchamps cascade;
+
+CREATE TABLE football_sch.footballchamps (
+	leag_year int NULL,
+	team_id varchar(50) NULL,
+	team_location varchar(50) NULL,
+	team_name varchar(50) NULL,
+	leagabrv varchar(50) null,
+	champ_name varchar(30) NULL
+);

@@ -1,0 +1,121 @@
+/* Tabs Styles */
+.custom-tabs-container {
+    width: 75%;
+}
+.custom-tabs {
+    border-top-left-radius: 3px;
+    background-color: #f9f9f9;
+    padding: 0px 24px;
+    border-bottom: 1px solid #d6d6d6;
+}
+
+.custom-tab {
+    color:#586069;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-top: 3px solid transparent !important;
+    border-left: 0px !important;
+    border-right: 0px !important;
+    border-bottom: 0px !important;
+    background-color: #fafbfc;
+    padding: 12px !important;
+    font-family: "system-ui";
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+}
+
+.custom-tab--selected {
+    color: black;
+    box-shadow: 1px 1px 0px white;
+    border-left: 1px solid lightgrey !important;
+    border-right: 1px solid lightgrey !important;
+    border-top: 3px solid #e36209 !important;
+}
+
+/* Table Styles */
+/* table{
+    overflow-x:auto !important;
+    width:100% !important;
+}
+th {
+    background-color: lightslategrey !important;
+    border: 1px solid black !important;
+    font-weight: bold !important;
+    font-size: 15px !important;
+    text-align: left !important;
+}
+
+tr,td {
+    height: auto !important;
+    min-width: auto !important;
+    width: auto !important;
+    max-width: auto !important;
+    text-align: left !important;
+    white-space: normal !important;
+}
+
+tr:nth-child(even) {
+    background-color:lightgray;
+}
+
+tr:hover {
+    background-color: lightyellow;
+} */
+
+/* th:first-letter{
+    text-transform: capitalize !important;
+} */
+
+/* Dropdown Styles */
+.Select-control {
+    width: 100%;
+    height: auto;
+}
+
+/* Text Styles */
+h3{
+    color:seagreen !important;
+}
+.h4-custom{
+    color:seagreen !important;
+    text-align: center !important;
+}
+
+.h5-custom{
+    font-weight: bold !important;
+    font-family: 'Times New Roman', Times, serif !important;
+    font-size:small !important;
+    color:seagreen !important;
+}
+
+.h5-center{
+    text-align: center !important;
+}
+
+.p-custom{
+    color:black !important;
+    font-weight: bold !important;
+    background-color: aqua !important;
+}
+
+/* tab_style = {
+    'borderBottom': '1px solid #d6d6d6',
+    'padding': '6px',
+    'fontWeight': 'bold'
+}
+
+tab_selected_style = {
+    'borderTop': '1px solid #d6d6d6',
+    'borderBottom': '1px solid #d6d6d6',
+    'backgroundColor': '#119DFF',
+    'color': 'white',
+    'padding': '6px'
+} */
+
+
+/* .tab-style {
+    border-bottom: 1px solid #d6d6d6;
+    padding: 6px;
+    font-weight: bold
+} */

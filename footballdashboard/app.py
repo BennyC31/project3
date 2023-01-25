@@ -2,6 +2,7 @@ from flask import Flask, render_template
 import dash
 import dash_html_components as html
 from layouts import create_dash
+import dash_bootstrap_components as dbc
 
 app = Flask(__name__)
 
@@ -19,10 +20,11 @@ def teamlocations():
 
 dash_app = dash.Dash(
     __name__,
+    external_stylesheets=[dbc.themes.BOOTSTRAP],
     server=app,
     routes_pathname_prefix='/dash/'
 )
-
+dash_app.title = 'Team History'
 dash_app.layout = create_dash()
 
 if __name__ == '__main__':

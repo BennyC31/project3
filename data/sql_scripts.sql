@@ -28,3 +28,14 @@ from locationinfo2021 l
 join profootballyearsummary p on l.team_id = p.team_id 
 where p.leag_year = 2021
 order by p.conference, p.division, l.football_location, l.team_name;
+
+-- DROP VIEW football_sch.teamlookup;
+
+create view football_sch.teamlookup
+as
+select distinct p.team_id,p.team_location,p.team_name,
+concat(p.team_location, ' ', p.team_name) as fullname  
+from profootballyearsummary p
+order by p.team_id ;
+
+select * from teamlookup t ;

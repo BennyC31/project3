@@ -1,0 +1,121 @@
+﻿leag_year,team_id,team_location,team_name,leagabrv,champ_name
+1920,NFLTeam57,Akron,Pros,NFL,NFL
+1921,NFLTeam9,Chicago,Staleys,NFL,NFL
+1922,NFLTeam60,Canton,Bulldogs,NFL,NFL
+1923,NFLTeam60,Canton,Bulldogs,NFL,NFL
+1924,NFLTeam48,Cleveland,Bulldogs,NFL,NFL
+1925,NFLTeam5,Chicago,Cardinals,NFL,NFL
+1926,NFLTeam40,Frankford,Yellow Jackets,NFL,NFL
+1927,NFLTeam3,New York,Giants,NFL,NFL
+1928,NFLTeam42,Providence,Steam Roller,NFL,NFL
+1929,NFLTeam11,Green Bay,Packers,NFL,NFL
+1930,NFLTeam11,Green Bay,Packers,NFL,NFL
+1931,NFLTeam11,Green Bay,Packers,NFL,NFL
+1932,NFLTeam9,Chicago,Bears,NFL,NFL
+1933,NFLTeam9,Chicago,Bears,NFL,NFL
+1934,NFLTeam3,New York,Giants,NFL,NFL
+1935,NFLTeam10,Detroit,Lions,NFL,NFL
+1936,NFLTeam11,Green Bay,Packers,NFL,NFL
+1937,NFLTeam4,Washington,Redskins,NFL,NFL
+1938,NFLTeam3,New York,Giants,NFL,NFL
+1939,NFLTeam11,Green Bay,Packers,NFL,NFL
+1940,NFLTeam9,Chicago,Bears,NFL,NFL
+1941,NFLTeam9,Chicago,Bears,NFL,NFL
+1942,NFLTeam4,Washington,Redskins,NFL,NFL
+1943,NFLTeam9,Chicago,Bears,NFL,NFL
+1944,NFLTeam11,Green Bay,Packers,NFL,NFL
+1945,NFLTeam8,Cleveland,Rams,NFL,NFL
+1946,NFLTeam9,Chicago,Bears,NFL,NFL
+1947,NFLTeam5,Chicago,Cardinals,NFL,NFL
+1948,NFLTeam1,Philadelphia,Eagles,NFL,NFL
+1949,NFLTeam1,Philadelphia,Eagles,NFL,NFL
+1950,NFLTeam27,Cleveland,Browns,NFL,NFL
+1951,NFLTeam8,Los Angeles,Rams,NFL,NFL
+1952,NFLTeam10,Detroit,Lions,NFL,NFL
+1953,NFLTeam10,Detroit,Lions,NFL,NFL
+1954,NFLTeam27,Cleveland,Browns,NFL,NFL
+1955,NFLTeam27,Cleveland,Browns,NFL,NFL
+1956,NFLTeam3,New York,Giants,NFL,NFL
+1957,NFLTeam10,Detroit,Lions,NFL,NFL
+1958,NFLTeam30,Baltimore,Colts,NFL,NFL
+1959,NFLTeam30,Baltimore,Colts,NFL,NFL
+1960,NFLTeam1,Philadelphia,Eagles,NFL,NFL
+1960,NFLTeam32,Houston,Oilers,AFL,AFL
+1961,NFLTeam11,Green Bay,Packers,NFL,NFL
+1961,NFLTeam32,Houston,Oilers,AFL,AFL
+1962,NFLTeam11,Green Bay,Packers,NFL,NFL
+1962,NFLTeam22,Dallas,Texans,AFL,AFL
+1963,NFLTeam9,Chicago,Bears,NFL,NFL
+1963,NFLTeam24,San Diego,Chargers,AFL,AFL
+1964,NFLTeam27,Cleveland,Browns,NFL,NFL
+1964,NFLTeam17,Buffalo,Bills,AFL,AFL
+1965,NFLTeam11,Green Bay,Packers,NFL,NFL
+1965,NFLTeam17,Buffalo,Bills,AFL,AFL
+1966,NFLTeam11,Green Bay,Packers,NFL,NFL
+1966,NFLTeam22,Kansas City,Chiefs,AFL,AFL
+1966,NFLTeam11,Green Bay,Packers,NFL,Super Bowl I
+1967,NFLTeam11,Green Bay,Packers,NFL,NFL
+1967,NFLTeam23,Oakland,Raiders,AFL,AFL
+1967,NFLTeam11,Green Bay,Packers,NFL,Super Bowl II
+1968,NFLTeam30,Baltimore,Colts,NFL,NFL
+1968,NFLTeam20,New York,Jets,AFL,AFL
+1968,NFLTeam20,New York,Jets,AFL,Super Bowl III
+1969,NFLTeam12,Minnesota,Vikings,NFL,NFL
+1969,NFLTeam22,Kansas City,Chiefs,AFL,AFL
+1969,NFLTeam22,Kansas City,Chiefs,AFL,Super Bowl IV
+1970,NFLTeam30,Baltimore,Colts,NFL,Super Bowl V
+1971,NFLTeam2,Dallas,Cowboys,NFL,Super Bowl VI
+1972,NFLTeam18,Miami,Dolphins,NFL,Super Bowl VII
+1973,NFLTeam18,Miami,Dolphins,NFL,Super Bowl VIII
+1974,NFLTeam28,Pittsburgh,Steelers,NFL,Super Bowl IX
+1975,NFLTeam28,Pittsburgh,Steelers,NFL,Super Bowl X
+1976,NFLTeam23,Oakland,Raiders,NFL,Super Bowl XI
+1977,NFLTeam2,Dallas,Cowboys,NFL,Super Bowl XII
+1978,NFLTeam28,Pittsburgh,Steelers,NFL,Super Bowl XIII
+1979,NFLTeam28,Pittsburgh,Steelers,NFL,Super Bowl XIV
+1980,NFLTeam23,Oakland,Raiders,NFL,Super Bowl XV
+1981,NFLTeam6,San Francisco,49ers,NFL,Super Bowl XVI
+1982,NFLTeam4,Washington,Redskins,NFL,Super Bowl XVII
+1983,NFLTeam23,Los Angeles,Raiders,NFL,Super Bowl XVIII
+1983,USFLTeam5,Michigan,Panthers,USFL,USFL
+1984,NFLTeam6,San Francisco,49ers,NFL,Super Bowl XIX
+1984,USFLTeam1,Philadelphia,Stars,USFL,USFL
+1985,NFLTeam9,Chicago,Bears,NFL,Super Bowl XX
+1985,USFLTeam1,Baltimore,Stars,USFL,USFL
+1986,NFLTeam3,New York,Giants,NFL,Super Bowl XXI
+1987,NFLTeam4,Washington,Redskins,NFL,Super Bowl XXII
+1988,NFLTeam6,San Francisco,49ers,NFL,Super Bowl XXIII
+1989,NFLTeam6,San Francisco,49ers,NFL,Super Bowl XXIV
+1990,NFLTeam3,New York,Giants,NFL,Super Bowl XXV
+1991,NFLTeam4,Washington,Redskins,NFL,Super Bowl XXVI
+1992,NFLTeam2,Dallas,Cowboys,NFL,Super Bowl XXVII
+1993,NFLTeam2,Dallas,Cowboys,NFL,Super Bowl XVIII
+1994,NFLTeam6,San Francisco,49ers,NFL,Super Bowl XXIX
+1995,NFLTeam2,Dallas,Cowboys,NFL,Super Bowl XXX
+1996,NFLTeam11,Green Bay,Packers,NFL,Super Bowl XXXI
+1997,NFLTeam21,Denver,Broncos,NFL,Super Bowl XXXII
+1998,NFLTeam21,Denver,Broncos,NFL,Super Bowl XXXIII
+1999,NFLTeam8,St. Louis,Rams,NFL,Super Bowl XXXIV
+2000,NFLTeam25,Baltimore,Ravens,NFL,Super Bowl XXXV
+2001,NFLTeam19,New England,Patriots,NFL,Super Bowl XXXVI
+2002,NFLTeam16,Tampa Bay,Buccaneers,NFL,Super Bowl XXXVII
+2003,NFLTeam19,New England,Patriots,NFL,Super Bowl XXXVIII
+2004,NFLTeam19,New England,Patriots,NFL,Super Bowl XXXIX
+2005,NFLTeam28,Pittsburgh,Steelers,NFL,Super Bowl XL
+2006,NFLTeam30,Indianapolis,Colts,NFL,Super Bowl XLI
+2007,NFLTeam3,New York,Giants,NFL,Super Bowl XLII
+2008,NFLTeam28,Pittsburgh,Steelers,NFL,Super Bowl XLIII
+2009,NFLTeam15,New Orleans,Saints,NFL,Super Bowl XLIV
+2010,NFLTeam11,Green Bay,Packers,NFL,Super Bowl XLV
+2011,NFLTeam3,New York,Giants,NFL,Super Bowl XLVI
+2012,NFLTeam25,Baltimore,Ravens,NFL,Super Bowl XLVII
+2013,NFLTeam7,Seattle,Seahawks,NFL,Super Bowl XLVIII
+2014,NFLTeam19,New England,Patriots,NFL,Super Bowl XLIX
+2015,NFLTeam21,Denver,Broncos,NFL,Super Bowl L
+2016,NFLTeam19,New England,Patriots,NFL,Super Bowl LI
+2017,NFLTeam1,Philadelphia,Eagles,NFL,Super Bowl LII
+2018,NFLTeam19,New England,Patriots,NFL,Super Bowl LIII
+2019,NFLTeam22,Kansas City,Chiefs,NFL,Super Bowl LIV
+2020,NFLTeam16,Tampa Bay,Buccaneers,NFL,Super Bowl LV
+2021,NFLTeam8,Los Angeles,Rams,NFL,Super Bowl LVI
+2022,USFLTeam8,Birmingham,Stallions,USFL,USFL

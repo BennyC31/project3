@@ -1,41 +1,29 @@
-import psycopg2
-from sql_config import database_name,username,password,host,port
+from sql_config import database_name,username,password,host,port,protocol
 import pandas as pd
+from sqlalchemy import create_engine
 
 team_locations = []
 team_summary = []
-# team_summary_df = pd.DataFrame()
+rds_connection_string = f'{protocol}://{username}:{password}@{host}:{port}/{database_name}'
+engine = create_engine(rds_connection_string)
 
 def create_team_summary_df():
-    conn = psycopg2.connect(dbname=database_name,user=username,password=password,host=host,port=port)
-    team_summary_df = pd.read_sql_query('select * from football_sch.profootballyearsummary order by leag_year,leagabrv,conference,division,place',conn)
-    conn.close()
+    team_summary_df = pd.read_sql_query(
+        'select * from football_sch.profootballyearsummary order by leag_year,leagabrv,conference,division,place',con=engine)
     return team_summary_df
 
-def create_data_objects():
-    team_locs = []
-    football_sum = []
-    conn = psycopg2.connect(dbname=database_name,user=username,password=password,host=host,port=port)
+def create_team_lookup_df():
+    team_lookup_df = pd.read_sql_query(
+        'select * from football_sch.teamlookup',con=engine)
+    return team_lookup_df
 
-    cur = conn.cursor()
+def create_team_champs_df():
+    team_champ_df = pd.read_sql_query(
+        'select leag_year,team_id,team_location,team_name,champ_name from football_sch.footballchamps',con=engine)
+    return team_champ_df
 
-    cur.execute('select * from football_sch.teamlocation order by team_location asc')
-    team_locs = cur.fetchall()
-    create_team_locs(team_locs=team_locs)
-    cur.execute('select * from football_sch.profootballyearsummary order by leag_year,leagabrv,conference,division,place')
-    football_sum = cur.fetchall()
-    create_football_sum(football_sum=football_sum)
-
-    team_summary_df = pd.read_sql_query('select * from football_sch.profootballyearsummary order by leag_year,leagabrv,conference,division,place',conn)
-    # print(team_summary_df)
-
-    # for i in range(len(team_locs)):
-    #     print(team_locs[i][1])
-    # print(team_locs)
-    # print(type(team_locs))
-    
-    cur.close()
-    conn.close()
+def close_conn():
+    engine.dispose()
     
 
 def create_team_locs(team_locs):
@@ -43,8 +31,8 @@ def create_team_locs(team_locs):
         tl = TeamLocs()
         tl.loc_id = team_locs[i][0]
         tl.team_location = team_locs[i][1]
-        # tl.lat = team_locs[i][2]
-        # tl.lon = team_locs[i][2]
+        tl.lat = team_locs[i][2]
+        tl.lon = team_locs[i][2]
         team_locations.append(tl)
 
 
@@ -97,7 +85,3 @@ class FootballYear():
     
     def __repr__(self):
         return f'team_id: {self.team_id}|team_location: {self.team_location}|team_name: {self.team_name}'
-
-# create_data_objects()
-# print(f'locs:{team_locations}')
-# print(f'teams:{len(team_summary)}')
