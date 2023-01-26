@@ -17,7 +17,7 @@ def index():
 
 @app.route('/teaminfo')
 def teaminfo():
-    return render_template('teaminfo.html')
+    return render_template('teaminfo-bc.html')
 
 
 @app.route('/teamlocs')
