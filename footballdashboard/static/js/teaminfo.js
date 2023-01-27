@@ -1,135 +1,200 @@
-const samples_url = "https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-classroom/v1.1/14-Interactive-Web-Visualizations/02-Homework/samples.json";
 
 let data = null
-function barChart(s_id){
-    let samples = data.samples;
-    let bar_data = samples.filter(s => s.id == s_id);
-    let sample_id = bar_data[0];
-    let sample_values = sample_id.sample_values;
-    let otu_ids = sample_id.otu_ids;
-    let otu_labels = sample_id.otu_labels;
-
-    let hbardata = [{
-        x: sample_values.slice(0,10).reverse(),
-        y: otu_ids.slice(0,10).map(otu_id => `OTU ${otu_id}`).reverse(),
-        type: 'bar',
-        text: otu_labels.reverse(),
-        orientation: 'h'
-
-    }];
-    let layout = {
-        height: 400,
-        width: 300
-    };
-    Plotly.newPlot("bar",hbardata,layout);
-};
-
-function bubbleChart(s_id){
-    let samples = data.samples;
-    let bubble_data = samples.filter(s => s.id == s_id);
-    let sample_id = bubble_data[0];
-    let sample_values = sample_id.sample_values;
-    let otu_ids = sample_id.otu_ids;
-    let otu_labels = sample_id.otu_labels;
-
-    let bubbledata = [{
-        x: otu_ids,
-        y: sample_values,
-        mode: 'markers',
-        text: otu_labels,
-        marker: {
-            size: sample_values,
-            color: otu_ids,
-            colorscale: 'Earth'
+let y_data = null
+var cur_year = []
+function teamInfo(s_id) {
+    let conf = ''
+    let div = ''
+    let loc = ''
+    let team_name = ''
+    let leag = ''
+    let team_info = d3.select("#sample-metadata");
+    for (let i = 0; i < data.length; i++) {
+        test_name = data[i]['team_name']
+        if (test_name == s_id) {
+            conf = data[i]['conference']
+            div = data[i]['division']
+            loc = data[i]['team_location']
+            team_name = data[i]['team_name']
+            leag = 'NFL'
         }
+    }
 
-    }];
-    let layout = {
-        height: 600,
-        width: 1000,
-        xaxis: {title: "OTU ID"}
-    };
-    Plotly.newPlot("bubble",bubbledata,layout);
+    team_info.html("");
+    team_info.append('h6').text(`conference: ${conf}`);
+    team_info.append('h6').text(`division: ${div}`);
+    team_info.append('h6').text(`location: ${loc}`);
+    team_info.append('h6').text(`name: ${team_name}`);
+    team_info.append('h6').text(`league: ${leag}`);
 };
 
+function optionChanged(s_id) {
+    let team_id = get_team_id(s_id);
+    console.log(team_id);
+    teamInfo(s_id);
+    barChart(team_id)
+    gaugeChart(team_id);
+}
 
+function get_team_id(team_name) {
+    team_id = 'NFLTeam1'
+    for (let i = 0; i < data.length; i++) {
+        if (team_name == data[i]['team_name']) {
+            team_id = data[i]['team_id']
+        }
+    }
+    return team_id
+};
 
-function gaugeChart(s_id){
-    let demo_meta_data = data.metadata;
-    let meta_data = demo_meta_data.filter(m => m.id == s_id)[0];
-    let wfreq = meta_data.wfreq;
+function updateDashboard() {
+    let subjdropdownMenu = d3.select("#selDataset")
+    for (let i = 0; i < data.length; i++) {
+        let s_id = data[i]['team_name']
+        subjdropdownMenu.append('option').text(s_id).property('value', s_id);
 
+    }
+    let init_id = subjdropdownMenu.property("value");
+    let team_id = get_team_id(init_id);
+    console.log(team_id);
+    teamInfo(init_id);
+    barChart(team_id);
+    gaugeChart(team_id);
+    bubbleChart();
+
+};
+function bubbleChart() {
+    let stats = data;
+    let teams = []
+    let pfs = []
+    let pas = []
+    for (var i = 0; i < stats.length; i++) {
+        teams.push(stats[i]['team_name']);
+        pfs.push(stats[i]['pf']);
+        pas.push(stats[i]['pa']);
+    };
+
+    var trace1 = {
+        x: teams,
+        y: pfs,
+        mode: 'markers',
+        type: 'scatter',
+        name: 'Points For',
+        marker: { size: 12 }
+    };
+
+    var trace2 = {
+        x: teams,
+        y: pas,
+        mode: 'markers',
+        type: 'scatter',
+        name: 'Points Against',
+        marker: { size: 12, color: 'rgb(255, 0, 0)' }
+    };
+
+    var bar_data = [trace1, trace2];
+
+    var layout = {
+        xaxis: {
+            range: [-1, 32]
+        },
+        yaxis: {
+            range: [0, 6000]
+        },
+        title: 'Total Points For and Against'
+    };
+
+    Plotly.newPlot('bubble', bar_data, layout);
+}
+
+function gaugeChart(team_id) {
+    let stats = data;
+    let ws = 0;
+    for (var i = 0; i < stats.length; i++) {
+        if (team_id == stats[i]['team_id']) {
+            ws = stats[i]['w']
+            break;
+        }
+    }
     let gaugedata = [{
         domain: { x: [0, 1], y: [0, 1] },
-        value: wfreq,
-        title: { text: "Belly Button Washing Frequency" },
+        value: ws,
+        title: { text: "Totals Wins" },
         type: "indicator",
         mode: "gauge+number",
     }];
     let layout = {
-        height: 500,
+        height: 400,
         width: 500,
-        margin: {t: 0, b: 0}
+        margin: { t: 0, b: 0 }
     };
-    Plotly.newPlot("gauge",gaugedata,layout);
+    Plotly.newPlot("gauge", gaugedata, layout);
 };
 
-function demoInfo(s_id){
-    let demo_meta_data = data.metadata;
-    let meta_data = demo_meta_data.filter(m => m.id == s_id)[0];
-    let demo_info = d3.select("#sample-metadata");
-    let id = meta_data.id;
-    let ethnicity = meta_data.ethnicity;
-    let gender = meta_data.gender;
-    let age = meta_data.age;
-    let location = meta_data.location;
-    let bbtype = meta_data.bbtype;
-    let wfreq = meta_data.wfreq;
-    demo_info.html("");
-    demo_info.append('h6').text(`id: ${id}`);
-    demo_info.append('h6').text(`ethnicity: ${ethnicity}`);
-    demo_info.append('h6').text(`gender: ${gender}`);
-    demo_info.append('h6').text(`age: ${age}`);
-    demo_info.append('h6').text(`location: ${location}`);
-    demo_info.append('h6').text(`bbtype: ${bbtype}`);
-    demo_info.append('h6').text(`wfreq: ${wfreq}`);
-};
+function barChart(team_id) {
+    let stats = y_data;
+    let w = []
+    let l = []
+    let t = []
+    let years = [2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021]
+    for (var i = 0; i < stats.length; i++) {
+        if (team_id == stats[i]['team_id']) {
+            w.push(stats[i]['w'])
+            l.push(stats[i]['l'])
+            t.push(stats[i]['t'])
+        }
+    }
+    var trace1 = {
+        x: years,
+        y: w,
+        type: 'bar',
+        name: 'Wins',
+        marker: {
+            color: 'rgb(49,130,189)',
+            opacity: 0.7,
+        }
+    };
 
-function optionChanged(s_id) {
-    barChart(s_id);
-    bubbleChart(s_id);
-    demoInfo(s_id);
-    gaugeChart(s_id);
+    var trace2 = {
+        x: years,
+        y: l,
+        type: 'bar',
+        name: 'Losses',
+        marker: {
+            color: 'rgb(255, 0, 0)',
+            opacity: 0.5
+        }
+    };
+
+    var trace3 = {
+        x: years,
+        y: t,
+        type: 'bar',
+        name: 'Ties',
+        marker: {
+            color: 'rgb(255, 153, 0)',
+            opacity: 0.5
+        }
+    };
+    var bar_data = [trace1, trace2, trace3];
+
+    var layout = {
+        title: 'Win/Loss/Tie',
+        xaxis: {
+            tickangle: -45
+        },
+        barmode: 'group'
+    };
+
+    Plotly.newPlot('bar', bar_data, layout);
 
 }
-
-function updateDashboard(){
-    let names = data.names;
-    let subjdropdownMenu = d3.select("#selDataset")
-    let dataset = subjdropdownMenu.property("value");
-    dataset = names;
-    for(let i=0; i<names.length;i++){
-        let s_id = names[i]
-        subjdropdownMenu.append('option').text(s_id).property('value',s_id);
-
-    }
-    let init_id = subjdropdownMenu.property("value");
-    barChart(init_id);
-    bubbleChart(init_id);
-    demoInfo(init_id);
-    gaugeChart(init_id);
-};
-
 function init() {
-    d3.json(samples_url).then(function (tmp_data){
-        data = tmp_data
+    d3.json("/locdata").then(function (tmp_data) {
+        y_data = tmp_data[2]
+        data = tmp_data[1]
+        // console.log(data);
         updateDashboard();
     })
 }
 
 init();
-
-d3.json("/teamdata").then(function (tmp_data){
-    data = tmp_data
-    console.log(data);
-})

@@ -17,7 +17,7 @@ def index():
 
 @app.route('/teaminfo')
 def teaminfo():
-    return render_template('teaminfo-bc.html')
+    return render_template('teaminfo.html')
 
 
 @app.route('/teamlocs')
@@ -26,9 +26,15 @@ def teamlocations():
 
 @app.route('/locdata')
 def send_team_loc_data():
+    data = []
     team_locs = m.create_team_locations_df().to_dict('records')
+    sum_data = m.create_data_sum_grt_2011_df().to_dict('records')
+    year_data = m.create_data_grt_2011_df().to_dict('records')
+    data.append(team_locs)
+    data.append(sum_data)
+    data.append(year_data)
     m.close_conn()
-    return team_locs
+    return data
 
 
 @app.route('/teamdata')

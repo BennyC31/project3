@@ -30,21 +30,10 @@ html {
 .legend .National {
   color: blue;
 }
-.legend .under_10 {
-  color: lime;
-}
-.legend .under_30 {
-  color: lightgreen;
-}
-.legend .under_50 {
-  color: gold;
-}
-.legend .under_70 {
-  color:tan;
-}
-.legend .under_90 {
-  color: orange;
-}
-.legend .over_90 {
-  color: red;
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
 }

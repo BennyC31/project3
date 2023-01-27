@@ -9,16 +9,17 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(myMap)
 
-d3.json("/locdata").then(function (tmp_data){
-    data = tmp_data
+d3.json("/locdata").then(function (tmp_data) {
+    data = tmp_data[1]
+    // data1 = sum_data
     console.log(data);
     createMarkers(data);
 })
 
 
-function createMarkers(teamLocs){
+function createMarkers(teamLocs) {
     console.log('in create markers:')
-    for (var i=0; i<teamLocs.length; i++){
+    for (var i = 0; i < teamLocs.length; i++) {
         lon = teamLocs[i]['lon']
         lat = teamLocs[i]['lat']
         loc = teamLocs[i]['football_location']
@@ -27,6 +28,11 @@ function createMarkers(teamLocs){
         team_name = teamLocs[i]['team_name']
         conf = teamLocs[i]['conference']
         div = teamLocs[i]['division']
+        tot_w = teamLocs[i]['w']
+        tot_l = teamLocs[i]['l']
+        tot_t = teamLocs[i]['t']
+        tot_pf = teamLocs[i]['pf']
+        tot_pa = teamLocs[i]['pa']
         if (team_name == 'Jets') {
             // lat = 40.735657;
             // lon = -74.17236;
@@ -42,17 +48,19 @@ function createMarkers(teamLocs){
 
 
         var color = 'blue'
-        if (conf == 'American'){
+        if (conf == 'American') {
             color = 'red'
         }
 
-        L.circle([lat, lon], 25000, {color: color,opacity:.5}).addTo(myMap).bindPopup(
+        L.circle([lat, lon], 25000, { color: color, opacity: .5 }).addTo(myMap).bindPopup(
             `<h3>${team_name}</h3><hr>
             <h5>team location: ${team_loc}</h5>
             <h5>football location: ${loc}</h5>
             <h5>state: ${state_abrv}</h5>
             <h5>conference: ${conf}</h5>
-            <h5>division: ${div}</h5>`);
+            <h5>division: ${div}</h5><hr>
+            <h5>10 Year Summary</h5>
+            <h6>W: ${tot_w} L: ${tot_l} T: ${tot_t} PF: ${tot_pf} PA: ${tot_pa}</h6>`);
     }
     // Create a legend to display information about our map.
     var info = L.control({
@@ -72,7 +80,8 @@ function createMarkers(teamLocs){
 
 function updateLegend() {
     document.querySelector(".legend").innerHTML = [
-      "<h6 class='American'>American Conference</h6>",
-      "<h6 class='National'>National Conference</h6>"
+        "<p><strong>2012 - 2021</strong></p>",
+        "<h6 class='American'>American Conference</h6>",
+        "<h6 class='National'>National Conference</h6>"
     ].join("");
-  }
+}

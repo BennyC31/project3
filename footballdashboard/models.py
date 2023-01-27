@@ -27,6 +27,16 @@ def create_team_locations_df():
         'select * from football_sch.locationinfo2021all', con=engine)
     return team_loc_df
 
+def create_data_grt_2011_df():
+    data_grt_2011_df = pd.read_sql_query(
+        'select * from football_sch.data_grt_2011', con=engine)
+    return data_grt_2011_df
+
+def create_data_sum_grt_2011_df():
+    sum_grt_2011_df = pd.read_sql_query(
+        'select * from football_sch.data_sum_grt_2011 order by team_name', con=engine)
+    return sum_grt_2011_df
+
 def close_conn():
     engine.dispose()
     
