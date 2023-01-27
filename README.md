@@ -18,6 +18,7 @@ We are utilizing data from the NFL to look at team locations, team success (poin
     * Creates schema and tables.
         * import ProFootball_All.csv -> football_sch.profootballyearsummary
         * import team_location_latlon.csv -> football_sch.teamlocation
+        * import footballchamps.csv -> football_sch.footballchamps
 * sql_scripts.sql
     * Creates views and contains some sample sql.
 
@@ -44,6 +45,7 @@ We are utilizing data from the NFL to look at team locations, team success (poin
 * ProFootball_All.csv
 * team_location_latlon.csv
 * locationinfo2021all.csv
+* footballchamps.csv
 
 ## Data Sources
 * NFL History
