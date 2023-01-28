@@ -2,52 +2,35 @@
 {% block content %}
 <div class="container">
     <h1 style="color: blue;">American Football Dashboard</h1>
-    <div>
-        <h4><a class="nav-link active" aria-current="page" href="{{ url_for('teaminfo') }}">Team Info</a></h4>
-        <p>Provides information on professional football teams from 1920 - present.</p>
-    </div>
-    <div>
-        <h4><a class="nav-link active" aria-current="page" href="{{ url_for('teamlocations') }}">Team Locations</a>
-        </h4>
-        <p>Displays where the current teams play on a map.</p>
-    </div>
-    <div>
-        <h4><a class="nav-link active" aria-current="page" href="/teamhistory/">Team History</a></h4>
-        <p>This is an application built using Dash. Contains a year by year summary of 100+ year history for teams
-            from
-            multiple leagues. In addition, there is a section that shows the championships won for each team.
-        </p>
-    </div>
-    <div>
-        <img src="/static/images/franklinfield.jpeg" alt="Franklin Field" class="center">
-    </div>
-    <!-- <div class="card mb-3" style="max-width: 540px;">
+    <div class="card md-12" style="width: auto;">
         <div class="row no-gutters">
             <div class="col-md-5">
-                <img src="/static/images/franklinfield.jpeg" class="card-img" alt="...">
+                <img src="/static/images/franklinfield.jpeg" class="card-img" alt="Franklin Field">
             </div>
             <div class="col-md-7">
                 <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
+                    <h5 class="card-title">Sections</h5>
                     <div>
                         <h4><a class="nav-link active" aria-current="page" href="{{ url_for('teaminfo') }}">Team Info</a></h4>
-                        <p>Provides information on professional football teams from 1920 - present.</p>
+                        <p>Provides information on professional football teams from 2012 - 2021.</p>
                     </div>
                     <div>
                         <h4><a class="nav-link active" aria-current="page" href="{{ url_for('teamlocations') }}">Team Locations</a>
                         </h4>
-                        <p>Displays where the current teams play on a map.</p>
+                        <p>Displays where the 32 2021 teams play on a map. Provides summary statistics for 
+                            each team.
+                        </p>
                     </div>
                     <div>
                         <h4><a class="nav-link active" aria-current="page" href="/teamhistory/">Team History</a></h4>
-                        <p>This is an application built using Dash. Contains a year by year summary of 100+ year history for teams
-                            from
-                            multiple leagues. In addition, there is a section that shows the championships won for each team.
+                        <p>This is an application built using Dash. Contains a year by year summary of 100+ year 
+                            history for teams from multiple leagues. In addition, there is a section that 
+                            shows the championships won for each team.
                         </p>
                     </div>
                 </div>
             </div>
         </div>
-    </div> -->
+    </div>
 </div>
 {% endblock %}

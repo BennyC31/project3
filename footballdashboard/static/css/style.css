@@ -37,3 +37,21 @@ html {
   margin-right: auto;
   width: 25%;
 }
+
+.card-title {
+  color: blue;
+  font-size: 1.5em;
+}
+
+.no-margin
+{
+  margin-bottom: 0px !important;
+}
+
+.col-height {
+  height: 300;
+}
+
+.margin-left {
+  margin-left: 10px;
+}

@@ -102,8 +102,9 @@ function bubbleChart() {
         },
         title: 'Total Points For and Against'
     };
+    var config = {responsive: true}
 
-    Plotly.newPlot('bubble', bar_data, layout);
+    Plotly.newPlot('bubble', bar_data, layout, config);
 }
 
 function gaugeChart(team_id) {
@@ -115,19 +116,39 @@ function gaugeChart(team_id) {
             break;
         }
     }
-    let gaugedata = [{
-        domain: { x: [0, 1], y: [0, 1] },
-        value: ws,
-        title: { text: "Totals Wins" },
-        type: "indicator",
-        mode: "gauge+number",
-    }];
+    gaugedata = [
+        {
+            type: "indicator",
+            mode: "number+gauge",
+            value: ws,
+            delta: { reference: 80 },
+            domain: { x: [0.25, 1], y: [0.7, 0.9] },
+            title: { text: "Total Wins" },
+            gauge: {
+                shape: "bullet",
+                axis: { range: [null, 160] },
+                threshold: {
+                    line: { color: "yellow", width: 2 },
+                    thickness: 0.75,
+                    value: 80.5
+                },
+                steps: [
+                    { range: [0, 80], color: "red" },
+                    { range: [81, 160], color: "green" }
+                ],
+                bar: { color: "black" }
+            }
+        }
+    ];
     let layout = {
-        height: 400,
-        width: 500,
-        margin: { t: 0, b: 0 }
+        // autosize: true,
+        height: 100,
+        width: 400,
+        margin: { t: 0, r: 0, l: 25, b: 0 }
     };
-    Plotly.newPlot("gauge", gaugedata, layout);
+    var config = {responsive: true}
+
+    Plotly.newPlot("gauge", gaugedata, layout, config);
 };
 
 function barChart(team_id) {
@@ -178,14 +199,18 @@ function barChart(team_id) {
     var bar_data = [trace1, trace2, trace3];
 
     var layout = {
-        title: 'Win/Loss/Tie',
+        // title: 'Win/Loss/Tie',
+        // autosize: true,
+        // height: 400,
+        // width: 400,
         xaxis: {
             tickangle: -45
         },
         barmode: 'group'
     };
+    var config = {responsive: true}
 
-    Plotly.newPlot('bar', bar_data, layout);
+    Plotly.newPlot('bar', bar_data, layout, config);
 
 }
 function init() {
