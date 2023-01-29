@@ -78,7 +78,7 @@ function bubbleChart() {
         y: pfs,
         mode: 'markers',
         type: 'scatter',
-        name: 'Points For',
+        name: 'PF',
         marker: { size: 12 }
     };
 
@@ -87,7 +87,7 @@ function bubbleChart() {
         y: pas,
         mode: 'markers',
         type: 'scatter',
-        name: 'Points Against',
+        name: 'PA',
         marker: { size: 12, color: 'rgb(255, 0, 0)' }
     };
 
